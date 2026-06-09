@@ -11,9 +11,9 @@ WEIGHTS = {
     "structure_score": 0.15,
 }
 
-PASS = "✅ PASS"
-FAIL = "❌ FAIL"
-WARN = "⚠️  WARN"
+PASS = "PASS"
+FAIL = "FAIL"
+WARN = "WARN"
 
 def section(title):
     print(f"\n{'═' * 60}")
@@ -36,7 +36,7 @@ def compute_label(score):
         return "Excellent"
 
 def validate():
-    # ── Load ────────────────────────────────────────────────────────────────
+    # Load Dataset
     section("LOADING DATASET")
     try:
         df = pd.read_csv(CSV_PATH)
@@ -49,7 +49,7 @@ def validate():
 
     all_passed = True
 
-    # ── 1. Missing Values ────────────────────────────────────────────────────
+    # 1. Missing Values
     section("1 · MISSING VALUES")
     null_counts = df.isnull().sum()
     total_nulls = null_counts.sum()
@@ -64,7 +64,7 @@ def validate():
     else:
         print(f"\n  {PASS} No missing values found.")
 
-    # ── 2. Label Distribution ────────────────────────────────────────────────
+    # 2. Label Distribution 
     section("2 · LABEL DISTRIBUTION")
     expected = {"Poor": 25, "Average": 25, "Good": 25, "Excellent": 25}
     actual = df["label"].value_counts().to_dict()
@@ -85,7 +85,7 @@ def validate():
     else:
         print(f"\n  {PASS} No unexpected labels.")
 
-    # ── 3. Score Ranges ──────────────────────────────────────────────────────
+    # 3. Score Ranges 
     section("3 · SCORE RANGES  (expected: 1 – 5 for component scores)")
     component_cols = ["content_score", "relevance_score", "vocabulary_score", "structure_score"]
     range_issues = []
@@ -117,7 +117,7 @@ def validate():
     else:
         print(f"\n  {PASS} All component scores within valid range.")
 
-    # ── 4. Label & Overall Score Consistency ────────────────────────────────
+    # 4. Label & Overall Score Consistency
     section("4 · LABEL & OVERALL SCORE CONSISTENCY")
 
     required = list(WEIGHTS.keys()) + ["overall_score", "label"]
@@ -151,7 +151,7 @@ def validate():
 
         df.drop(columns=["_calc_overall", "_calc_label"], inplace=True)
 
-    # ── 5. Duplicate Detection ───────────────────────────────────────────────
+    # 5. Duplicate Detection 
     section("5 · DUPLICATE DETECTION")
     dup_mask = df["answer"].duplicated(keep=False)
     duplicates = df[dup_mask]
@@ -165,7 +165,7 @@ def validate():
             preview = str(row["answer"])[:80].replace("\n", " ")
             print(f"       id={int(row['id'])}  \"{preview}...\"")
 
-    # ── Summary ──────────────────────────────────────────────────────────────
+    # Summary
     section("VALIDATION SUMMARY")
     if all_passed:
         print(f"  {PASS} All checks passed. Dataset looks clean.\n")

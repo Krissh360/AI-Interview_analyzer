@@ -22,9 +22,7 @@ from pathlib import Path
 import pandas as pd
 
 
-# ============================================================
 # Paths
-# ============================================================
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
@@ -33,9 +31,7 @@ RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
 OUTPUT_FILE = RAW_DATA_DIR / "interview_responses_batch_01.csv"
 
 
-# ============================================================
 # Dataset Schema
-# ============================================================
 
 COLUMNS = [
     "id",
@@ -49,9 +45,7 @@ COLUMNS = [
 ]
 
 
-# ============================================================
 # Source Files
-# ============================================================
 
 SOURCE_FILES = [
     ("Poor", "poor_batch_01.csv"),
@@ -61,9 +55,7 @@ SOURCE_FILES = [
 ]
 
 
-# ============================================================
 # Validation
-# ============================================================
 
 def validate_schema(df: pd.DataFrame, filename: str) -> None:
     """Validate required columns exist."""
@@ -77,9 +69,7 @@ def validate_schema(df: pd.DataFrame, filename: str) -> None:
         )
 
 
-# ============================================================
 # Read Dataset
-# ============================================================
 
 def read_dataset(path: Path) -> pd.DataFrame:
     """Read and validate a dataset."""
@@ -97,9 +87,7 @@ def read_dataset(path: Path) -> pd.DataFrame:
     return df[COLUMNS]
 
 
-# ============================================================
 # Merge Logic
-# ============================================================
 
 def merge_datasets() -> pd.DataFrame:
     """Merge all source datasets."""
@@ -133,9 +121,7 @@ def merge_datasets() -> pd.DataFrame:
     return merged_df[COLUMNS]
 
 
-# ============================================================
 # Main
-# ============================================================
 
 def main() -> int:
 
