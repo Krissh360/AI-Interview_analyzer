@@ -1,8 +1,17 @@
-"""Merge labelled interview-response sample batches into one CSV.
+"""
+merge_datasets.py
 
-The source files are expected in ``data/raw`` and are merged in quality order:
-Poor, Average, Good, Excellent. The final ``id`` column is regenerated so rows
-are numbered consecutively from 1 through the merged dataset size.
+Merge interview response datasets into a single master dataset.
+
+Source:
+    data/raw/
+        - poor_batch_01.csv
+        - average_batch_01.csv
+        - good_batch_01.csv
+        - excellent_batch_01.csv
+
+Output:
+    data/raw/interview_responses_batch_01.csv
 """
 
 from __future__ import annotations
@@ -13,9 +22,20 @@ from pathlib import Path
 import pandas as pd
 
 
+# ============================================================
+# Paths
+# ============================================================
+
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
 RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
+
 OUTPUT_FILE = RAW_DATA_DIR / "interview_responses_batch_01.csv"
+
+
+# ============================================================
+# Dataset Schema
+# ============================================================
 
 COLUMNS = [
     "id",
@@ -28,72 +48,135 @@ COLUMNS = [
     "label",
 ]
 
+
+# ============================================================
+# Source Files
+# ============================================================
+
 SOURCE_FILES = [
-    ("Poor", ("poor_batch_01.csv",)),
-    ("Average", ("average_batch_01.csv",)),
-    ("Good", ("good_batch_01.csv", "good_batch-01.csv")),
-    ("Excellent", ("excellent_batch_01.csv",)),
+    ("Poor", "poor_batch_01.csv"),
+    ("Average", "average_batch_01.csv"),
+    ("Good", "good_batch_01.csv"),
+    ("Excellent", "excellent_batch_01.csv"),
 ]
 
 
-def resolve_source_file(label: str, candidates: tuple[str, ...]) -> Path:
-    """Return the first existing candidate path for a source batch."""
-    for filename in candidates:
-        path = RAW_DATA_DIR / filename
-        if path.exists():
-            return path
+# ============================================================
+# Validation
+# ============================================================
 
-    expected = " or ".join(candidates)
-    raise FileNotFoundError(f"Missing {label} source file: expected {expected}")
+def validate_schema(df: pd.DataFrame, filename: str) -> None:
+    """Validate required columns exist."""
 
+    missing_columns = set(COLUMNS) - set(df.columns)
 
-def read_batch(path: Path) -> pd.DataFrame:
-    """Read one source CSV and normalize its shape."""
-    df = pd.read_csv(path, header=None, names=COLUMNS)
-
-    # Allow the script to work if a future batch includes a header row.
-    if not df.empty and [str(value).strip() for value in df.iloc[0]] == COLUMNS:
-        df = df.iloc[1:].reset_index(drop=True)
-
-    if df.empty:
-        raise ValueError(f"{path.name} has no rows to merge.")
-
-    if len(df.columns) != len(COLUMNS):
+    if missing_columns:
         raise ValueError(
-            f"{path.name} has {len(df.columns)} columns; expected {len(COLUMNS)}."
+            f"{filename} is missing columns: "
+            f"{', '.join(sorted(missing_columns))}"
         )
 
-    return df
+
+# ============================================================
+# Read Dataset
+# ============================================================
+
+def read_dataset(path: Path) -> pd.DataFrame:
+    """Read and validate a dataset."""
+
+    if not path.exists():
+        raise FileNotFoundError(f"File not found: {path.name}")
+
+    df = pd.read_csv(path)
+
+    if df.empty:
+        raise ValueError(f"{path.name} contains no rows.")
+
+    validate_schema(df, path.name)
+
+    return df[COLUMNS]
 
 
-def merge_batches() -> pd.DataFrame:
-    """Merge all configured source batches and regenerate the id column."""
-    frames = []
+# ============================================================
+# Merge Logic
+# ============================================================
 
-    for label, candidates in SOURCE_FILES:
-        source_path = resolve_source_file(label, candidates)
-        batch = read_batch(source_path)
-        frames.append(batch)
-        print(f"Loaded {len(batch):>3} {label:<9} rows from {source_path.name}")
+def merge_datasets() -> pd.DataFrame:
+    """Merge all source datasets."""
 
-    merged = pd.concat(frames, ignore_index=True)
-    merged["id"] = range(1, len(merged) + 1)
+    dataframes = []
 
-    return merged[COLUMNS]
+    for label, filename in SOURCE_FILES:
 
+        file_path = RAW_DATA_DIR / filename
+
+        df = read_dataset(file_path)
+
+        dataframes.append(df)
+
+        print(
+            f"✓ Loaded {len(df):>3} rows "
+            f"from {filename}"
+        )
+
+    merged_df = pd.concat(
+        dataframes,
+        ignore_index=True,
+    )
+
+    # Regenerate IDs
+    merged_df["id"] = range(
+        1,
+        len(merged_df) + 1,
+    )
+
+    return merged_df[COLUMNS]
+
+
+# ============================================================
+# Main
+# ============================================================
 
 def main() -> int:
-    try:
-        merged = merge_batches()
-        OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-        merged.to_csv(OUTPUT_FILE, index=False, header=False)
-    except (FileNotFoundError, ValueError, pd.errors.ParserError) as exc:
-        print(f"Merge failed: {exc}", file=sys.stderr)
-        return 1
 
-    print(f"\nMerged {len(merged)} rows into {OUTPUT_FILE}")
-    print(f"Final id range: 1 to {len(merged)}")
-    return 0
+    try:
+
+        merged_df = merge_datasets()
+
+        OUTPUT_FILE.parent.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
+
+        print(f"Writing to:\n{OUTPUT_FILE.resolve()}")
+
+        merged_df.to_csv    (
+            OUTPUT_FILE,
+            index=False,
+        )
+
+        print("\n" + "=" * 50)
+        print("MERGE COMPLETED SUCCESSFULLY")
+        print("=" * 50)
+        print(f"Total rows : {len(merged_df)}")
+        print(f"Output file: {OUTPUT_FILE.name}")
+        print(f"ID range   : 1 - {len(merged_df)}")
+        print("=" * 50)
+
+        return 0
+
+    except (
+        FileNotFoundError,
+        ValueError,
+        pd.errors.ParserError,
+    ) as error:
+
+        print(
+            f"\nERROR: {error}",
+            file=sys.stderr,
+        )
+
+        return 1
 
 
 if __name__ == "__main__":
