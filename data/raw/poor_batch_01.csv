@@ -1,3 +1,4 @@
+id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
 1,"Myself Priya.",1,1,1,1,1.00,Poor
 2,"I am Rahul. I am from Bihar.",1,1,2,1,1.25,Poor
 3,"I don't know what to say.",1,1,1,1,1.00,Poor

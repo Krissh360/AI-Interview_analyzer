@@ -1,3 +1,4 @@
+id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
 1,"My name is Rohan Verma. I have completed B.Tech in Computer Science from Pune University in 2023. I have basic knowledge of C and Java. I am looking for a good opportunity to start my career.",2,3,3,2,2.55,Average
 2,"I am Priyanka Singh. I did my MBA in Marketing from a college in Delhi. I have done one internship in a retail company where I helped with social media. I want to work in marketing field.",2,3,3,2,2.55,Average
 3,"My name is Arjun. I completed electronics engineering this year. I know a bit about circuit design and have done a small project on Arduino. I want to learn more in this field.",2,3,3,2,2.55,Average
