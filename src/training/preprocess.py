@@ -128,3 +128,21 @@ def prepare_data(
         f"Train: {len(X_train):,} samples | Test: {len(X_test):,} samples."
     )
     return X_train, X_test, y_train, y_test
+
+
+if __name__ == "__main__":
+    DATA_PATH = "../../data/raw/interview_responses_batch_01.csv"
+
+    df = load_dataset(DATA_PATH)
+
+    X_train, X_test, y_train, y_test = prepare_data(df)
+
+    print("\n=== PREPROCESSING SUMMARY ===")
+    print(f"Training samples: {len(X_train)}")
+    print(f"Testing samples : {len(X_test)}")
+
+    print("\nTraining label distribution:")
+    print(y_train.value_counts())
+
+    print("\nTesting label distribution:")
+    print(y_test.value_counts())
