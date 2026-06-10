@@ -44,6 +44,13 @@ COLUMNS = [
     "label",
 ]
 
+SCORE_WEIGHTS = {
+    "content_score": 0.35,
+    "relevance_score": 0.25,
+    "vocabulary_score": 0.25,
+    "structure_score": 0.15,
+}
+
 
 # Source Files
 
@@ -69,6 +76,46 @@ def validate_schema(df: pd.DataFrame, filename: str) -> None:
         )
 
 
+# Score Calculation
+
+def calculate_overall_score(row: pd.Series) -> float:
+    """Calculate weighted overall score from component scores."""
+
+    return round(
+        sum(row[column] * weight for column, weight in SCORE_WEIGHTS.items()),
+        2,
+    )
+
+
+def get_label(score: float) -> str:
+    """Derive dataset label from overall score."""
+
+    if score < 2.0:
+        return "Poor"
+    if score <= 3.0:
+        return "Average"
+    if score <= 4.0:
+        return "Good"
+    return "Excellent"
+
+
+def recalculate_scores_and_labels(df: pd.DataFrame) -> pd.DataFrame:
+    """Recalculate overall score and label before merging."""
+
+    df = df.copy()
+
+    for column in SCORE_WEIGHTS:
+        df[column] = pd.to_numeric(df[column])
+
+    df["overall_score"] = df.apply(
+        calculate_overall_score,
+        axis=1,
+    )
+    df["label"] = df["overall_score"].apply(get_label)
+
+    return df
+
+
 # Read Dataset
 
 def read_dataset(path: Path) -> pd.DataFrame:
@@ -84,6 +131,8 @@ def read_dataset(path: Path) -> pd.DataFrame:
 
     validate_schema(df, path.name)
 
+    df = recalculate_scores_and_labels(df)
+
     return df[COLUMNS]
 
 
@@ -94,7 +143,7 @@ def merge_datasets() -> pd.DataFrame:
 
     dataframes = []
 
-    for label, filename in SOURCE_FILES:
+    for _, filename in SOURCE_FILES:
 
         file_path = RAW_DATA_DIR / filename
 
