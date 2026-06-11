@@ -31,9 +31,9 @@ from src.training.preprocess import load_dataset, prepare_data
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-DATASET_PATH = "data/raw/interview_responses_batch_01.csv"
-MODEL_PATH = "models/baseline/model.pkl"
-VECTORIZER_PATH = "models/baseline/vectorizer.pkl"
+DATASET_PATH = "../../data/raw/interview_responses_batch_01.csv"
+MODEL_PATH = "../../models/baseline/model.pkl"
+VECTORIZER_PATH = "../../models/baseline/vectorizer.pkl"
 
 # Display order for consistent confusion matrix readout
 LABEL_ORDER = ["Poor", "Average", "Good", "Excellent"]
