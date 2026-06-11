@@ -1,0 +1,226 @@
+id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
+1,"My name is Arun Verma. I completed B.Tech in Civil Engineering from a college in Lucknow in 2023. I have basic knowledge of AutoCAD and have done a site visit project. I am looking for a junior engineer role.",2,3,3,2,2.55,Average
+2,"I am Pooja Rawat. I did my BBA from Delhi University. I have some knowledge of marketing and have done a small internship in retail. I want to work in marketing or sales.",2,3,3,2,2.55,Average
+3,"My name is Harish Shetty. I completed BSc in Computer Science. I know C and Python basics. I have made a simple calculator in Python as a project. I want to enter the IT field.",2,3,3,2,2.55,Average
+4,"I am Sunita Patel. I did my MBA in Finance from a private college. I have basic knowledge of financial statements and have done a brief internship at a CA firm. I want to work in finance.",2,3,3,2,2.55,Average
+5,"My name is Kartik Rao. I completed B.Tech in Mechanical Engineering. I know SolidWorks basics and have done a small project on gear design. I want to work in manufacturing.",3,3,3,2,2.80,Average
+6,"I am Rekha Nair. I have done B.Com and know Tally ERP. I worked part time in an accounts office for three months. I want to pursue a career in accounting.",2,3,3,2,2.55,Average
+7,"My name is Vishal Tomar. I studied Information Technology from a state university. I know HTML and CSS basics. I made a simple portfolio website as a project. I want to work in web development.",2,3,3,2,2.55,Average
+8,"I am Priti Joshi. I did my graduation in Electronics. I have basic knowledge of circuit theory and have done a lab project on LED blinking. I want to work in electronics manufacturing.",2,3,3,2,2.55,Average
+9,"My name is Shyam Gupta. I completed MCA from a government college. I know Java and have done one project on library management. I want to become a software developer.",3,3,3,2,2.80,Average
+10,"I am Nidhi Chauhan. I did BSc IT and then learned Python basics online. I have completed one small data analysis project on Excel. I want to enter the data analytics field.",2,3,3,2,2.55,Average
+11,"My name is Abhinav Mishra. I completed B.Tech in Computer Science last year. I know C++ and have done one project on student records system. I am looking for a fresher software job.",2,3,3,2,2.55,Average
+12,"I am Lalitha Reddy. I did my MBA in HR from a private college. I have done a two month internship in a recruitment firm. I want to work in human resources.",2,3,3,2,2.55,Average
+13,"My name is Farhan Sheikh. I studied Electronics and Communication. I know embedded C basics and have done a small Arduino project. I want to work in embedded systems.",2,3,3,2,2.55,Average
+14,"I am Swati Kulkarni. I completed BCA from Pune. I know PHP and MySQL and have made a basic blog website. I want to work as a junior web developer.",2,3,3,2,2.55,Average
+15,"My name is Rohit Singhania. I did B.Tech in Electrical Engineering. I have knowledge of basic circuit design and completed a project on automatic street light. I want to work in power sector.",2,3,3,2,2.55,Average
+16,"I am Manisha Tripathi. I completed B.Com with Computer Applications. I know MS Office and basic Tally. I did a small internship in a local firm. I want to work in office administration.",2,3,3,2,2.55,Average
+17,"My name is Sudhir Patil. I have done diploma in Mechanical Engineering. I know AutoCAD and basic machining. I want to work in production or maintenance department.",2,3,3,2,2.55,Average
+18,"I am Komal Sharma. I studied Computer Science in graduation. I know Java basics and have done a project on quiz application. I am looking for an entry level IT job.",2,3,3,2,2.55,Average
+19,"My name is Vicky Yadav. I completed B.Tech this year. I have knowledge of Python and have done one machine learning tutorial project. I want to get into data science.",2,3,3,2,2.55,Average
+20,"I am Shabana Khan. I did my graduation in Commerce. I know Excel and basic accounting. I want to work in finance or banking sector as a fresher.",2,3,3,2,2.55,Average
+21,"My name is Nitin Dubey. I completed diploma in Civil Engineering. I have done site visits during training and know AutoCAD. I want to work on construction sites.",2,3,3,2,2.55,Average
+22,"I am Anjana Pillai. I did BSc in Biotechnology. I have lab skills in basic microbiology techniques. I completed one project on water quality testing. I want to work in pharma or food testing.",2,3,3,2,2.55,Average
+23,"My name is Rajan Mehta. I completed B.Tech in Computer Science. I know C and Java and have done two academic projects. I want to work in software development.",3,3,3,2,2.80,Average
+24,"I am Trupti Gaikwad. I did BBA from Nashik. I have done internship in a small marketing agency. I helped in making social media posts. I want to work in digital marketing.",2,3,3,2,2.55,Average
+25,"My name is Anil Soni. I have done B.Sc in Physics. I have some knowledge of electronics and have done lab experiments. I want to work as a lab assistant or technical support person.",2,3,3,2,2.55,Average
+26,"I am Deepti Saxena. I completed MCA last year. I know C# basics and have done one project on student management system. I am looking for a developer role.",2,3,3,2,2.55,Average
+27,"My name is Saurav Biswas. I did Mechanical Engineering from a state college. I know engineering drawing and have done a small project on heat exchanger. I want to work in design.",2,3,3,2,2.55,Average
+28,"I am Varsha Nayak. I completed B.Com and know Tally and Excel reasonably well. I have done a three month internship at a CA office. I want to work in taxation or accounts.",2,3,3,2,2.55,Average
+29,"My name is Dharmesh Patel. I studied Information Technology. I know JavaScript basics and have made a simple to-do list app. I want to become a frontend developer.",2,3,3,2,2.55,Average
+30,"I am Rashmi Kumari. I did BSc Nursing and have done hospital internship for six months. I have practical knowledge of patient care. I want to work in a hospital.",2,3,3,2,2.55,Average
+31,"My name is Tarun Bose. I completed B.Tech in Electronics. I know MATLAB basics and have done a project on signal processing. I want to work in telecom or signal processing field.",2,3,3,2,2.55,Average
+32,"I am Priya Malhotra. I did my MBA in Operations. I have knowledge of supply chain basics and have done a project on inventory management. I want to work in operations.",2,3,3,2,2.55,Average
+33,"My name is Sanjay Lokhande. I completed B.Tech in Computer Science. I have worked on Python and done one web scraping project. I want to work in automation or data roles.",3,3,3,2,2.80,Average
+34,"I am Reena Iyer. I did B.Sc in Mathematics and then learned SQL from YouTube. I have basic knowledge of databases. I want to enter data analytics.",2,3,3,2,2.55,Average
+35,"My name is Krunal Shah. I have done diploma in Electrical Engineering. I know basic wiring and panel installation work. I have one year of field experience. I want to grow in electrical maintenance.",2,3,3,2,2.55,Average
+36,"I am Kavita Rathore. I completed B.Ed and have taught school students for one year. I know subject knowledge in science and maths. I want to continue in teaching profession.",2,3,3,2,2.55,Average
+37,"My name is Pavan Reddy. I did B.Tech in IT. I know Python and have completed a basic Flask web application project. I want to work as a backend developer.",3,3,3,2,2.80,Average
+38,"I am Mamta Singh. I completed graduation in Commerce and have knowledge of GST and basic taxation. I have done three months internship in accounts. I want to work in finance.",2,3,3,2,2.55,Average
+39,"My name is Siddesh Kamat. I studied Civil Engineering from a Goa based college. I have done two site visits during academic training and have basic AutoCAD knowledge. I want to work in construction management.",2,3,3,2,2.55,Average
+40,"I am Jaya Krishnan. I did my B.Sc in Computer Science. I know Java and have done a project on online quiz. I want to join an IT company as a fresher.",2,3,3,2,2.55,Average
+41,"My name is Himanshu Jain. I completed B.Tech in Mechanical. I have some SolidWorks experience and have done a project on robotic arm design. I want to work in design or automation.",3,3,3,2,2.80,Average
+42,"I am Poonam Dubey. I did MBA in Marketing. I interned at an advertising agency for two months. I helped with content and campaign tracking. I want to work in digital or brand marketing.",2,3,3,2,2.55,Average
+43,"My name is Rohan Tiwari. I studied Electronics and have basic PCB design knowledge. I have done a small project on temperature sensor circuit. I want to work in hardware design.",2,3,3,2,2.55,Average
+44,"I am Asha Menon. I completed BCA and know C, Java, and basic web development. I have done one project on hospital management system. I want to join as a junior developer.",2,3,3,2,2.55,Average
+45,"My name is Vikash Kumar. I have done B.Sc in IT from Patna University. I know PHP and MySQL. I made a simple contact form website. I want to get into web development.",2,3,3,2,2.55,Average
+46,"I am Supriya More. I completed B.Tech in Computer Science. I have done a project in data structures and know C and C++. I am preparing for placement and want a developer role.",2,3,3,2,2.55,Average
+47,"My name is Anand Pillai. I did my MBA in Systems. I have basic knowledge of ERP systems and have done a project on SAP basics. I want to work in IT or ERP implementation.",2,3,3,2,2.55,Average
+48,"I am Neelam Verma. I did B.Sc Chemistry and want to work in quality control. I have done lab internship in a pharma company for one month. I know basic analytical techniques.",2,3,3,2,2.55,Average
+49,"My name is Gaurav Tiwari. I completed B.Tech in CSE. I know programming basics in Python and C. I have done one college mini project. I am looking for an IT job.",2,3,3,2,2.55,Average
+50,"I am Smita Patankar. I have done BBA and know basic marketing concepts. I did a summer internship in a retail store. I want to work in sales or customer service.",2,3,3,2,2.55,Average
+51,"My name is Aditya Nair. I completed engineering in Electronics. I have basic VHDL knowledge and have done a project on digital circuit simulation. I want to work in VLSI or chip design.",2,3,3,2,2.55,Average
+52,"I am Kaveri Deshpande. I did BSc IT and then completed a short course in testing. I know manual testing basics. I want to work as a software tester.",2,3,3,2,2.55,Average
+53,"My name is Mukesh Chaturvedi. I completed MCA and have worked on Java web development for six months in a small firm. I know Spring basics. I want a better opportunity.",3,3,3,2,2.80,Average
+54,"I am Preethi Suresh. I did B.Sc Maths and then a diploma in data analytics. I know Excel and some R basics. I want to work in data entry or junior analyst role.",2,3,3,2,2.55,Average
+55,"My name is Vinod Sawant. I have done diploma in Civil and worked as a helper on construction site for one year. I know basic surveying. I want a site supervisor role.",2,3,3,2,2.55,Average
+56,"I am Sonal Joshi. I completed B.Tech in IT. I know JavaScript basics and have made a small quiz website. I am looking for a frontend developer internship or fresher role.",2,3,3,2,2.55,Average
+57,"My name is Ravindra Shinde. I studied Mechanical and know CNC basics from my college lab. I did a short internship at a manufacturing unit. I want to work in production.",2,3,3,2,2.55,Average
+58,"I am Divya Rao. I completed MBA in HR. I have learned recruitment basics and have done an internship in HR department. I want to work in talent acquisition.",2,3,3,2,2.55,Average
+59,"My name is Suresh Baviskar. I did BCA and then worked as data entry operator for eight months. I know Excel and basic databases. I want to move to a more technical profile.",2,3,3,2,2.55,Average
+60,"I am Ashwini Kamble. I completed B.Sc in Zoology and want to work in environmental testing or quality labs. I have some lab experience from college. I know basic lab safety protocols.",2,3,3,2,2.55,Average
+61,"My name is Dhiraj Pawar. I completed B.Tech in Computer Science. I know Python and SQL and have done a simple data visualization project using matplotlib. I want to get into analytics.",3,3,3,2,2.80,Average
+62,"I am Kanchan Yadav. I did my graduation in Commerce and have completed a short term course in GST filing. I want to work in taxation or accounting.",2,3,3,2,2.55,Average
+63,"My name is Sachin Bhosale. I have done B.Tech in Electronics. I have knowledge of microcontrollers and have done a project on 8051. I want to work in embedded domain.",2,3,3,2,2.55,Average
+64,"I am Rajani Kadam. I did BBA with marketing specialization. I interned in a small agency and helped with SEO content writing. I want to work in content or digital marketing.",2,3,3,2,2.55,Average
+65,"My name is Rahul Bansode. I completed diploma in Computer Science. I know HTML and basic Python. I have made one webpage project. I want to join IT field.",2,3,3,2,2.55,Average
+66,"I am Sangita Kulkarni. I studied BSc in Computer Science. I know Java and have done two academic projects. I want to join a software company as a fresher developer.",2,3,3,2,2.55,Average
+67,"My name is Tejas Marathe. I did B.Tech in Mechanical. I know AutoCAD and SolidWorks basics. I have done a project on machine component design. I want to work in design or manufacturing.",2,3,3,2,2.55,Average
+68,"I am Mrudula Joshi. I completed MCA from Pune. I know PHP and have done an e-commerce project. I am looking for a backend developer role.",3,3,3,2,2.80,Average
+69,"My name is Pravin Salve. I have done BSc IT. I know networking basics and have CCNA foundation knowledge. I want to work in IT infrastructure.",2,3,3,2,2.55,Average
+70,"I am Bharati Shinde. I completed B.Com and then did a short term course in stock market. I want to work in broking or financial services industry.",2,3,3,2,2.55,Average
+71,"My name is Amol Deshmukh. I completed B.Tech in Civil. I know AutoCAD and have worked on two academic structural design projects. I am looking for a junior site engineer role.",2,3,3,2,2.55,Average
+72,"I am Shraddha Patil. I did my graduation in IT and then worked as a tester for five months in a small startup. I know manual testing and some SQL. I want to grow in QA.",2,3,3,2,2.55,Average
+73,"My name is Yogesh Gaikwad. I completed B.Tech in CSE. I have knowledge of DBMS and have done a project on hospital database. I want to work in database or backend role.",2,3,3,2,2.55,Average
+74,"I am Aparna Hegde. I did BSc in Chemistry and then worked in a quality lab for one year. I know basic HPLC and titration. I want to continue in QC or lab analysis.",2,3,3,2,2.55,Average
+75,"My name is Kunal Jagtap. I have done diploma in Electrical and worked in industrial wiring for two years. I know basic PLC and panel work. I want to grow in automation.",2,3,3,2,2.55,Average
+76,"I am Snehal Nikam. I completed BBA and did an internship at a logistics company. I helped in tracking shipments and coordinating with vendors. I want to work in supply chain.",2,3,3,2,2.55,Average
+77,"My name is Vaibhav Mohite. I studied Computer Science. I know basics of Android development and have made one simple app for notes. I want to work in mobile development.",2,3,3,2,2.55,Average
+78,"I am Priyanka Desai. I did B.Sc IT. I know SQL and have done a basic database project for college. I want to work in data or backend role.",2,3,3,2,2.55,Average
+79,"My name is Shailesh Waghmare. I completed BE in Mechanical. I have knowledge of manufacturing processes and done a project on CNC programming. I want to work in production.",3,3,3,2,2.80,Average
+80,"I am Rupali Mane. I completed graduation and a short term course in digital marketing. I know basic SEO and social media posting. I want to work in online marketing.",2,3,3,2,2.55,Average
+81,"My name is Abhijit Chavan. I did B.Tech in Electronics and have basic knowledge of signal processing. I completed a project on FM radio receiver circuit. I want to work in communication industry.",2,3,3,2,2.55,Average
+82,"I am Vidya Nair. I completed BSc in Computer Applications. I know Java and have done one project on library system. I want to join a company as a fresher.",2,3,3,2,2.55,Average
+83,"My name is Sandesh Kale. I have done MCA and know .NET framework basics. I have done one web project using ASP.NET. I want to work as a .NET developer.",2,3,3,2,2.55,Average
+84,"I am Archana Bhor. I did B.Sc in Microbiology. I have worked in a diagnostic lab for four months. I know basic lab procedures. I want to continue in clinical or pharma field.",2,3,3,2,2.55,Average
+85,"My name is Yogendra Pawar. I completed diploma in Civil and worked at a construction site for one year doing measurements and basic supervision. I want to become a site engineer.",2,3,3,2,2.55,Average
+86,"I am Madhura Kulkarni. I did B.Com and have completed tally prime course. I have done accounts work in a small shop for six months. I want a formal accounting job.",2,3,3,2,2.55,Average
+87,"My name is Pratik Shinde. I studied Information Technology. I know React basics and have made a simple weather app using an API. I want to work as a frontend developer.",3,3,3,2,2.80,Average
+88,"I am Gauri Joshi. I completed BSc Nursing and did one year hospital internship. I have experience in patient vitals monitoring and medication administration. I want to work in ICU or general ward.",2,3,3,2,2.55,Average
+89,"My name is Dhananjay Wagh. I have done B.Tech in IT. I know PHP and MySQL and have built one college project website. I want to work in web development.",2,3,3,2,2.55,Average
+90,"I am Sujata More. I did graduation in Arts and then completed a BPO training course. I have basic English communication skills. I want to work in customer support.",2,3,3,2,2.55,Average
+91,"My name is Viraj Kulkarni. I completed B.Tech in CSE. I know data structures and algorithms basics. I have done two mini projects. I am preparing for placements and want a developer role.",2,3,3,2,2.55,Average
+92,"I am Sonam Rathod. I did BBA and have basic marketing knowledge. I did a campus project on brand awareness survey. I want to work in marketing research.",2,3,3,2,2.55,Average
+93,"My name is Prasad Borkar. I completed BE in Mechanical. I have knowledge of welding and fabrication processes. I have done an industrial visit at a steel plant. I want to work in fabrication industry.",2,3,3,2,2.55,Average
+94,"I am Prachi Pawar. I studied BSc IT and know Python basics. I have done one small project on automation script. I want to explore DevOps or automation testing.",2,3,3,2,2.55,Average
+95,"My name is Sagar Jadhav. I have done diploma in Electronics and worked in a repair shop for one year. I know basic troubleshooting of electronics. I want a technician role in a company.",2,3,3,2,2.55,Average
+96,"I am Pooja Thakur. I completed BCA and did a two month summer training on Java. I have made a simple banking project. I want to work as a junior developer.",2,3,3,2,2.55,Average
+97,"My name is Sandeep Nimbalkar. I did B.Tech in Civil. I know structural design basics and have done a project on load calculation for a residential building. I want to enter consultancy work.",2,3,3,2,2.55,Average
+98,"I am Roopa Naik. I completed B.Sc in IT and have basic SQL knowledge. I have done a project on student database. I want to work in data entry or junior database role.",2,3,3,2,2.55,Average
+99,"My name is Nagesh Kamble. I completed MCA and have worked on .NET for seven months in a training institute. I know C# basics. I want a developer job in a product company.",3,3,3,2,2.80,Average
+100,"I am Aditi Sawant. I did B.Tech in Computer Science. I know machine learning basics from online courses. I have done a small project on linear regression. I want to explore AI roles.",2,3,3,2,2.55,Average
+101,"My name is Rahul Landge. I completed B.Tech in Electrical. I have knowledge of power electronics and have done a project on inverter design. I want to work in power systems.",2,3,3,2,2.55,Average
+102,"I am Tejashri Kadam. I did B.Sc in Computer Science. I know HTML and CSS and have built a simple static website. I want to work as a web designer or developer.",2,3,3,2,2.55,Average
+103,"My name is Nilesh Bhosale. I completed diploma in Mechanical and have worked at a garage for two years doing vehicle servicing. I want a technician or maintenance role in industry.",2,3,3,2,2.55,Average
+104,"I am Monali Patil. I did graduation in Commerce and completed an Infosys campus certification in Python. I have basic programming knowledge. I want to enter IT field.",2,3,3,2,2.55,Average
+105,"My name is Ashish Rane. I studied Electronics Engineering. I know Arduino and have done basic IoT projects. I want to work in smart devices or automation.",2,3,3,2,2.55,Average
+106,"I am Pallavi Shinde. I completed B.Tech in IT. I know SQL and Java and have done a database-backed project. I want to work as a backend developer or database engineer.",3,3,3,2,2.80,Average
+107,"My name is Kedar Mane. I have done BBA and know basic MS Office tools. I did a small internship at a logistics firm doing documentation work. I want an office management or admin role.",2,3,3,2,2.55,Average
+108,"I am Madhuri Desai. I studied BSc in Physics and then completed a short course in PCB design. I want to work in electronics manufacturing.",2,3,3,2,2.55,Average
+109,"My name is Ganesh Pawar. I completed B.Tech in CSE. I have done a project on Android application for college events. I know Java and Android Studio basics. I want to work in mobile apps.",2,3,3,2,2.55,Average
+110,"I am Priyanka Lokhande. I did B.Com with Computer Applications. I know Excel, Tally, and basic accounting. I have done an internship in a small firm. I want to work in accounts.",2,3,3,2,2.55,Average
+111,"My name is Vishal Kute. I completed B.Tech in Civil Engineering. I have knowledge of estimation and costing. I have done a project on cost analysis for a building. I want to work in quantity surveying.",2,3,3,2,2.55,Average
+112,"I am Shalaka Joshi. I completed MCA and know Java and Spring basics. I have done one project on online food ordering. I want to work as a Java developer.",3,3,3,2,2.80,Average
+113,"My name is Rohan Pol. I have done diploma in IT and worked in a small web agency for eight months. I built and maintained WordPress sites for clients. I want to work in web development.",2,3,3,2,2.55,Average
+114,"I am Ashwini Patil. I did B.Sc in Mathematics and then completed a data science bootcamp. I know Python and pandas basics. I want to enter data analytics or data science.",2,3,3,2,2.55,Average
+115,"My name is Jayesh Salunkhe. I completed B.Tech in Mechanical. I know CNC machine operation and basic quality inspection. I have two years of factory floor experience. I want to grow in production management.",2,3,3,2,2.55,Average
+116,"I am Kavya Nair. I did graduation in Arts and completed a digital marketing course from a private institute. I know basics of SEO, content writing, and social media. I want to work in digital marketing.",2,3,3,2,2.55,Average
+117,"My name is Chetan Patil. I completed BE in Electronics. I know microprocessor basics and have done a project on 8085. I want to work in electronics or instrumentation sector.",2,3,3,2,2.55,Average
+118,"I am Neha Khandagale. I did BSc Nursing and completed my one year internship. I have hands-on experience in wound care and patient monitoring. I want to work in a private hospital.",2,3,3,2,2.55,Average
+119,"My name is Ajinkya Gaikwad. I studied IT Engineering. I know Node.js basics and have done a small REST API project. I want to work as a backend developer.",3,3,3,2,2.80,Average
+120,"I am Sayali Bhosale. I completed graduation in Commerce and know Tally and basic accounting entries. I have worked part time in a shop doing billing. I want a full time accounts role.",2,3,3,2,2.55,Average
+121,"My name is Hemant Shinde. I completed B.Tech in Electrical. I have knowledge of electrical panels and basic PLC programming. I want to work in industrial automation.",2,3,3,2,2.55,Average
+122,"I am Apoorva Jadhav. I did BSc in Computer Science. I know Python and have done one small web scraping project. I want to explore data science or automation roles.",2,3,3,2,2.55,Average
+123,"My name is Aakash Deshpande. I have done MCA and know full stack basics in MEAN stack. I built a small blog application as project. I want to join a startup as a developer.",3,3,3,2,2.80,Average
+124,"I am Shruti Patil. I completed B.Sc in IT. I know manual testing basics and have done a small project on test case documentation. I want to work as a QA trainee.",2,3,3,2,2.55,Average
+125,"My name is Prathamesh Kulkarni. I studied Mechanical Engineering. I know CATIA basics and have done a project on car body panel design. I want to enter automotive design.",2,3,3,2,2.55,Average
+126,"I am Manasi Naik. I did B.Com and completed a short certification in GST and income tax filing. I want to work in a CA firm or accounting department.",2,3,3,2,2.55,Average
+127,"My name is Sairaj Mhetre. I completed B.Tech in CSE. I know cloud computing basics and have done AWS free tier experiments. I want to explore cloud engineer roles.",2,3,3,2,2.55,Average
+128,"I am Rutuja Shinde. I did BBA with HR specialization. I have done an internship in payroll processing. I know HRMS basics. I want to work in HR operations.",2,3,3,2,2.55,Average
+129,"My name is Swapnil Ingale. I completed diploma in Civil and have worked on a road construction project as a trainee for three months. I know surveying basics. I want a field engineer role.",2,3,3,2,2.55,Average
+130,"I am Smruti Joshi. I did graduation in IT and have basic knowledge of networking and CCNA concepts. I want to work in network administration.",2,3,3,2,2.55,Average
+131,"My name is Ganesh Shinde. I completed B.Tech in Electronics. I know MATLAB and have done a project on image processing basics. I want to work in signal or image processing.",2,3,3,2,2.55,Average
+132,"I am Tejal Mane. I did B.Sc IT and have completed a three month Android development course. I know Kotlin basics and have made a simple to-do app. I want to work in mobile development.",2,3,3,2,2.55,Average
+133,"My name is Akshay Wagh. I have done B.Tech in Computer Science. I know data structures and OOP in Java. I have done two academic projects. I want to start my career as a software engineer.",2,3,3,2,2.55,Average
+134,"I am Priya Tare. I completed BCA from Kolhapur. I know HTML, CSS, and JavaScript basics. I have made a personal portfolio website. I am looking for a junior web developer role.",2,3,3,2,2.55,Average
+135,"My name is Abhijeet Pawar. I did BE in Mechanical. I know lean manufacturing basics and have done a mini project on 5S implementation. I want to work in quality or production.",2,3,3,2,2.55,Average
+136,"I am Shraddha Kadam. I completed BSc in Computer Science. I know C++ and data structures. I have done a project on sorting algorithm visualizer. I want to work in software development.",3,3,3,2,2.80,Average
+137,"My name is Sunil Thorat. I have done diploma in Electronics and worked as a service engineer for consumer electronics for two years. I know basic troubleshooting well. I want to grow in field service.",2,3,3,2,2.55,Average
+138,"I am Ankita Bendre. I completed MBA in Marketing. I have done an internship in a telecom company doing market survey work. I want to work in market research or sales.",2,3,3,2,2.55,Average
+139,"My name is Mayur Joshi. I did B.Tech in IT. I know SQL, basic Python, and Excel. I have done a data cleaning project on a real dataset from Kaggle. I want to enter data analytics.",3,3,3,2,2.80,Average
+140,"I am Supriya Salvi. I completed graduation in Commerce and know basic bookkeeping and Tally. I have worked in a family business managing accounts. I want a formal accounts role.",2,3,3,2,2.55,Average
+141,"My name is Omkar Patil. I studied Civil Engineering. I know estimation, costing, and AutoCAD. I have done a project on residential building design. I want to work in construction.",2,3,3,2,2.55,Average
+142,"I am Ashwini Gaikwad. I did BCA and know PHP, MySQL, and basic JavaScript. I made a college management system project. I want to join as a junior web developer.",3,3,3,2,2.80,Average
+143,"My name is Kiran Bothe. I completed B.Tech in Electrical Engineering. I know power system analysis and have done a project on load flow study. I want to work in power utility or consultancy.",2,3,3,2,2.55,Average
+144,"I am Tejashri Wagh. I did B.Sc in Microbiology and have lab experience from college. I know basic culture techniques and microscopy. I want to work in food testing or pharma QC.",2,3,3,2,2.55,Average
+145,"My name is Rohan Jadhav. I completed MCA and know Java with Hibernate framework. I have done one project on employee management web app. I want to work as a Java backend developer.",3,3,3,2,2.80,Average
+146,"I am Gauri Kulkarni. I did B.Com and completed a digital marketing certification from Google. I know SEO basics and Google Ads. I want to work in digital marketing.",2,3,3,2,2.55,Average
+147,"My name is Aniket Khandagale. I have done B.Tech in Computer Science. I know machine learning basics and have done a small project on spam detection. I want to get into AI or data science.",2,3,3,2,2.55,Average
+148,"I am Komal Pol. I completed BSc IT. I know manual testing fundamentals and have done test case writing practice. I want to start as a junior QA engineer.",2,3,3,2,2.55,Average
+149,"My name is Sachin Mhetre. I studied Mechanical Engineering. I know welding inspection basics and quality standards. I have done industrial training at a fabrication unit. I want to work in quality.",2,3,3,2,2.55,Average
+150,"I am Pradnya Joshi. I completed BBA in Finance. I know financial modeling basics and Excel reasonably well. I have done a project on financial ratio analysis. I want to work in finance.",2,3,3,2,2.55,Average
+151,"My name is Nikhil Chavan. I did B.Tech in CSE. I know React basics and have built one single page app. I am learning TypeScript currently. I want to work as a frontend developer.",3,3,3,2,2.80,Average
+152,"I am Siddhi Naik. I completed B.Sc in Physics and then did a course in PCB fabrication. I want to work as a junior electronics engineer.",2,3,3,2,2.55,Average
+153,"My name is Shubham Sawant. I have done diploma in Mechanical and worked in a machining unit for one year. I know lathe and milling operations. I want a machinist or operator job.",2,3,3,2,2.55,Average
+154,"I am Pooja Mane. I completed MCA and have done a six month training in Java. I know servlets and JSP basics. I want to work as a Java developer in a service company.",2,3,3,2,2.55,Average
+155,"My name is Rohit Kadam. I studied Civil Engineering. I have knowledge of concrete mix design and have done a project on structural failure analysis. I want to work in structural consultancy.",2,3,3,2,2.55,Average
+156,"I am Mugdha Desai. I did B.Sc in Computer Applications and know Python basics. I have done one automation script project. I want to explore automation testing or DevOps.",2,3,3,2,2.55,Average
+157,"My name is Vijay Patil. I completed B.Tech in Electronics and Communication. I know RF basics and have done a project on antenna design simulation. I want to work in telecom.",2,3,3,2,2.55,Average
+158,"I am Anagha Shinde. I did B.Com and completed a certified course in financial accounting. I know Tally, GST, and basic income tax. I want to work in accounts or taxation.",2,3,3,2,2.55,Average
+159,"My name is Dhanesh Patil. I have done BCA and know basic networking. I have done CCNA foundation training. I want to work in IT infrastructure or network support.",2,3,3,2,2.55,Average
+160,"I am Vaishnavi Kulkarni. I completed B.Tech in Computer Science. I know C and Java and have done two academic projects. I am a fresher looking for software job.",2,3,3,2,2.55,Average
+161,"My name is Suhas Gaikwad. I studied Mechanical Engineering and have done training in quality control. I know measurement tools and inspection procedures. I want to work in quality department.",2,3,3,2,2.55,Average
+162,"I am Manali Patil. I did B.Sc in IT and have learned Selenium basics for automation testing. I have done a small test script project. I want to work in automation QA.",2,3,3,2,2.55,Average
+163,"My name is Kaustubh Wagh. I completed BE in Electrical. I have knowledge of industrial drives and have done a project on VFD speed control. I want to work in industrial automation.",2,3,3,2,2.55,Average
+164,"I am Pallavi Jadhav. I did BBA and completed a short course in HR management. I know recruitment basics and have done an HR internship. I want to work in HR or admin.",2,3,3,2,2.55,Average
+165,"My name is Swapnil Kulkarni. I completed B.Tech in CSE. I know Python and Django basics. I have done one web project on to-do application. I want to work as a backend developer.",3,3,3,2,2.80,Average
+166,"I am Rutuja Kadam. I did B.Sc in Biotechnology. I have lab experience in PCR and gel electrophoresis. I want to work in a diagnostic or research lab.",2,3,3,2,2.55,Average
+167,"My name is Nikhil Pawar. I have done diploma in Computer Science and know basic networking and hardware. I have done CCNA foundation course. I want to work in IT support.",2,3,3,2,2.55,Average
+168,"I am Sanika Mhetre. I completed graduation in Commerce. I know Tally and have experience in basic invoicing and billing. I want a full time accounts job.",2,3,3,2,2.55,Average
+169,"My name is Rahul Thorat. I did B.Tech in Mechanical. I know Ansys basics and have done a project on stress analysis of a beam. I want to work in FEA or structural analysis.",2,3,3,2,2.55,Average
+170,"I am Pooja Ingale. I studied BSc IT and have done basic Android app development. I have made a simple currency converter app. I want to work in mobile development.",2,3,3,2,2.55,Average
+171,"My name is Sumit Bothe. I completed B.Tech in Electronics and know MATLAB image processing basics. I have done one project on edge detection. I want to work in image processing or CV.",2,3,3,2,2.55,Average
+172,"I am Deepika Chavan. I did MBA in HR and Operations. I have done internship in payroll and know basic HR processes. I want to work in HR generalist role.",2,3,3,2,2.55,Average
+173,"My name is Prashant Salvi. I completed BCA and know C, Java, and HTML basics. I have done three college mini projects. I want to join IT as a fresher developer.",2,3,3,2,2.55,Average
+174,"I am Kavita Gaikwad. I completed B.Sc in Computer Science and know SQL and Python. I have done a small project on student data analysis. I want to work in data analytics.",3,3,3,2,2.80,Average
+175,"My name is Akshay Kulkarni. I studied Electronics Engineering. I know PCB design basics and have done a project on sensor circuit. I want to work in electronics product development.",2,3,3,2,2.55,Average
+176,"I am Sujata Wagh. I completed B.Com and know accounting principles and basic Tally. I have done part time billing work. I want to enter a formal accounting career.",2,3,3,2,2.55,Average
+177,"My name is Tejas Pawar. I have done B.Tech in IT. I know DevOps basics including Docker and basic Linux. I have set up a simple Jenkins pipeline project. I want to work in DevOps.",3,3,3,2,2.80,Average
+178,"I am Sayali Naik. I did B.Sc Nursing and completed one year internship. I have basic clinical skills. I want to work in a hospital or clinic as a staff nurse.",2,3,3,2,2.55,Average
+179,"My name is Omkar Jadhav. I completed BE in Mechanical and worked at a pump manufacturing unit for one year. I know pump assembly and testing. I want to grow in mechanical engineering.",2,3,3,2,2.55,Average
+180,"I am Priya Bothe. I did BCA and know web design basics including WordPress. I have built two small websites for local clients. I want to work as a junior web developer.",2,3,3,2,2.55,Average
+181,"My name is Sandesh Pol. I completed B.Tech in Civil. I know structural drawing reading and have done a project on RCC design. I want to work in structural or infrastructure consultancy.",2,3,3,2,2.55,Average
+182,"I am Vaishali Khandagale. I studied BSc IT and have completed a Python data analysis course. I know pandas and matplotlib basics. I want to work in data analytics.",2,3,3,2,2.55,Average
+183,"My name is Kiran Shinde. I have done MCA and know .NET and C# basics. I have done one desktop application project. I want to work as a .NET developer.",2,3,3,2,2.55,Average
+184,"I am Sneha Thorat. I completed BBA in Marketing. I have done an internship in a FMCG company helping with sales data reporting. I want to work in sales analytics or marketing.",2,3,3,2,2.55,Average
+185,"My name is Sagar Patil. I did B.Tech in Electronics. I know basic instrumentation and sensor technology. I have done a project on temperature measurement system. I want to work in instrumentation.",2,3,3,2,2.55,Average
+186,"I am Prachi Wagh. I completed MCA. I know Java and Hibernate and have done a web application project. I want to work as a Java developer in a mid-sized IT company.",3,3,3,2,2.80,Average
+187,"My name is Abhishek Desai. I studied Computer Science. I know Python and basic machine learning. I have done a project on house price prediction. I want to explore data science.",2,3,3,2,2.55,Average
+188,"I am Anuja Kulkarni. I did B.Sc in Chemistry and then completed a short course in regulatory affairs. I want to work in pharma documentation or regulatory compliance.",2,3,3,2,2.55,Average
+189,"My name is Prasad Patil. I completed BE in Electrical. I have knowledge of SCADA systems basics and industrial wiring. I want to work in process control or automation.",2,3,3,2,2.55,Average
+190,"I am Komal Jadhav. I did BSc IT and know SQL and basic data modeling. I have done a database design project. I want to work as a database developer or data analyst.",2,3,3,2,2.55,Average
+191,"My name is Vishal Mhetre. I completed B.Tech in Mechanical. I know lean tools like 5S and kaizen basics. I have done a project on waste reduction in a workshop. I want to work in manufacturing excellence.",2,3,3,2,2.55,Average
+192,"I am Tejal Pol. I completed graduation in Arts and did a certificate course in content writing. I know basics of SEO content. I want to work as a content writer or copywriter.",2,3,3,2,2.55,Average
+193,"My name is Shrikant Gaikwad. I have done diploma in Electronics and worked in a mobile repair shop for two years. I know circuit board level repair. I want to work in electronic service industry.",2,3,3,2,2.55,Average
+194,"I am Madhura Patil. I completed B.Tech in CSE. I know web development basics and have done one Django project. I am also learning cloud basics. I want to work in backend or full stack.",3,3,3,2,2.80,Average
+195,"My name is Chetan Bothe. I did BCA and have basic Java programming knowledge. I have done two college projects. I want to start as a software trainee and grow from there.",2,3,3,2,2.55,Average
+196,"I am Shweta Shinde. I studied Commerce and completed a two month course in digital marketing. I know Facebook Ads basics. I want to work in digital marketing or social media.",2,3,3,2,2.55,Average
+197,"My name is Atul Khandagale. I completed BE in Civil Engineering. I have done a project on smart city infrastructure planning. I know GIS basics. I want to work in urban planning or infrastructure.",2,3,3,2,2.55,Average
+198,"I am Ashwini Thorat. I did BSc in Computer Science and have basic knowledge of Android development. I made a notes app in my final year. I want to work in mobile development.",2,3,3,2,2.55,Average
+199,"My name is Rahul Mhetre. I have done B.Tech in IT. I know Python and basic data visualization. I have done a project on sales data dashboard. I want to work in business analytics.",3,3,3,2,2.80,Average
+200,"I am Manasi Bothe. I completed B.Com and have completed a GST practitioner course. I know accounting and taxation basics. I want to work in a CA firm or corporate accounts.",2,3,3,2,2.55,Average
+201,"My name is Nishant Salvi. I studied Electronics and know basic testing and quality procedures. I have done a project on PCB testing. I want to work in electronics quality assurance.",2,3,3,2,2.55,Average
+202,"I am Mayuri Naik. I did BBA and completed a short certification in project management basics. I have basic knowledge of project planning tools. I want to work in project coordination.",2,3,3,2,2.55,Average
+203,"My name is Shubham Kadam. I completed B.Tech in Mechanical. I know CNC programming basics and have done one project on machining optimization. I want to work in precision manufacturing.",2,3,3,2,2.55,Average
+204,"I am Kanchan Shinde. I studied BSc IT and know SQL and Excel well. I have done a data analysis project on college attendance records. I want to work as a junior data analyst.",3,3,3,2,2.80,Average
+205,"My name is Rahul Pol. I have done MCA and know React and Node basics. I built a small task manager app. I want to work as a full stack developer in a startup.",3,3,3,2,2.80,Average
+206,"I am Sunanda Jadhav. I completed B.Sc in Microbiology. I have experience in basic lab techniques from college practicals. I want to work in a quality lab or pharma company.",2,3,3,2,2.55,Average
+207,"My name is Mayank Gaikwad. I did B.Tech in CSE. I know Python and have done a basic sentiment analysis project using open source dataset. I want to explore NLP or data science.",2,3,3,2,2.55,Average
+208,"I am Sanchita Wagh. I completed BBA in HR. I have done an internship in talent acquisition. I know recruitment process basics. I want to work in HR consulting or corporate HR.",2,3,3,2,2.55,Average
+209,"My name is Nilesh Thorat. I studied Electrical Engineering. I know power electronics and have done a project on DC-DC converter design. I want to work in power electronics or EV sector.",2,3,3,2,2.55,Average
+210,"I am Harshada Patil. I completed BSc IT and know Python and basic Django. I have made a small project on event management system. I want to work as a junior web developer.",3,3,3,2,2.80,Average
+211,"My name is Sudhir Mhetre. I have done diploma in Civil and have experience on road construction project for one year. I know leveling and site measurement. I want a site engineering role.",2,3,3,2,2.55,Average
+212,"I am Priyanka Gaikwad. I completed MBA in Finance. I know financial analysis basics and Excel modeling. I have done a project on stock portfolio analysis. I want to work in equity research.",2,3,3,2,2.55,Average
+213,"My name is Ganesh Naik. I did B.Tech in Computer Science. I know JavaScript and have done one project using Node.js. I want to work as a backend developer.",3,3,3,2,2.80,Average
+214,"I am Ashwini Salvi. I completed B.Sc in IT and have done a basic networking course. I want to work in IT support or network administration.",2,3,3,2,2.55,Average
+215,"My name is Santosh Khandagale. I studied Mechanical Engineering and have industrial training in CNC operation. I know Mastercam basics. I want to work in CNC programming.",2,3,3,2,2.55,Average
+216,"I am Smita Kadam. I completed BCA and know Java, HTML, and basic PHP. I have done two college projects. I want to join IT sector as a fresher developer.",2,3,3,2,2.55,Average
+217,"My name is Kapil Bothe. I have done BE in Electronics and Communication. I know RF circuit basics and have done a project on filter design. I want to work in communication systems.",2,3,3,2,2.55,Average
+218,"I am Rohini Thorat. I completed BBA in Marketing. I have done internship in a D2C brand doing content posting and email campaigns. I want to work in digital marketing.",2,3,3,2,2.55,Average
+219,"My name is Saurabh Naik. I did B.Tech in IT. I know Docker basics and Linux commands. I have set up a simple Docker environment for a project. I want to work in DevOps or cloud.",2,3,3,2,2.55,Average
+220,"I am Pradnya Mhetre. I completed B.Sc in Computer Science. I know SQL and Python and have done a small data cleaning project. I want to enter data analytics field.",2,3,3,2,2.55,Average
+221,"My name is Vijay Salvi. I have done diploma in Electrical and worked in a factory as electrical helper for one year. I know basic panel wiring. I want to grow as an electrician in industry.",2,3,3,2,2.55,Average
+222,"I am Ashlesha Gaikwad. I did B.Sc IT and completed a Python data science course. I know NumPy and pandas. I have done one small project on data visualization. I want to work in data science.",2,3,3,2,2.55,Average
+223,"My name is Tejashri Salvi. I studied Commerce and completed a short course in payroll management. I want to work in HR or payroll processing.",2,3,3,2,2.55,Average
+224,"I am Chetan Jadhav. I completed BE in Mechanical. I know SolidWorks and have done a project on mechanical linkage design. I want to work in product design in automotive sector.",2,3,3,2,2.55,Average
+225,"My name is Priya Shinde. I have done B.Tech in CSE and know Python, SQL, and basic machine learning. I have completed one project on classification of iris dataset. I want to enter data science.",3,3,3,2,2.80,Average

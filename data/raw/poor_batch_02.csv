@@ -1,0 +1,226 @@
+id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
+1,"My name is Suresh.",1,1,1,1,1.00,Poor
+2,"I am from Chennai.",1,1,1,1,1.00,Poor
+3,"Myself Preeti Sharma.",1,1,1,1,1.00,Poor
+4,"I like to eat and sleep.",1,1,2,1,1.25,Poor
+5,"I have done some studies.",1,2,1,1,1.25,Poor
+6,"I am very good person.",1,2,2,1,1.50,Poor
+7,"I don't know how to answer this.",1,1,2,1,1.25,Poor
+8,"I enjoy spending time with friends.",1,2,2,1,1.50,Poor
+9,"Myself Ganesh. I am 24.",1,1,1,1,1.00,Poor
+10,"I have studied. I want job now.",1,2,1,1,1.25,Poor
+11,"I am Rekha. Nice to meet you.",1,1,2,1,1.25,Poor
+12,"I am hardworking and punctual.",1,2,2,1,1.50,Poor
+13,"I did my schooling from Delhi.",1,1,2,1,1.25,Poor
+14,"I love technology and gadgets.",1,2,2,1,1.50,Poor
+15,"I am Mohan. I am looking for work.",1,2,2,1,1.50,Poor
+16,"I have completed my degree.",1,2,1,1,1.25,Poor
+17,"I am a simple person with big dreams.",1,2,2,1,1.50,Poor
+18,"Myself Lakshmi from Hyderabad.",1,1,1,1,1.00,Poor
+19,"I passed my exam last year.",1,2,1,1,1.25,Poor
+20,"I am interested in this field.",1,2,2,1,1.50,Poor
+21,"I have no experience but I will work hard.",1,2,2,1,1.50,Poor
+22,"I am Sanjay. Thank you for this opportunity.",1,1,2,1,1.25,Poor
+23,"My hobbies are reading and cooking.",1,2,2,1,1.50,Poor
+24,"I want to do something in life.",1,2,1,1,1.25,Poor
+25,"I am nervous. Sorry.",1,1,1,1,1.00,Poor
+26,"I studied something related to computers.",1,2,2,1,1.50,Poor
+27,"Myself Ramesh Kumar.",1,1,1,1,1.00,Poor
+28,"I like to learn new things.",1,2,2,1,1.50,Poor
+29,"I have done graduation. I am available immediately.",1,2,1,1,1.25,Poor
+30,"I am very passionate about work.",1,2,2,1,1.50,Poor
+31,"I am Farhan. I did college.",1,1,2,1,1.25,Poor
+32,"My family is from Rajasthan.",1,1,1,1,1.00,Poor
+33,"I have skills. I can work anywhere.",1,2,2,1,1.50,Poor
+34,"I don't have much to say about myself.",1,1,2,1,1.25,Poor
+35,"I am a motivated individual.",1,2,2,1,1.50,Poor
+36,"I am Nisha. I finished my studies recently.",1,2,2,1,1.50,Poor
+37,"I like computers and mobiles.",1,2,2,1,1.50,Poor
+38,"I am very eager to work in your company.",1,2,2,1,1.50,Poor
+39,"Myself Vijay. I am fresher.",1,1,1,1,1.00,Poor
+40,"I passed BE this year.",1,2,1,1,1.25,Poor
+41,"I am good in studies and sports.",1,2,2,1,1.50,Poor
+42,"I am Chitra. I completed my degree last month.",1,2,2,1,1.50,Poor
+43,"I want to grow in my career.",1,2,2,1,1.50,Poor
+44,"I have done some online courses.",1,2,2,1,1.50,Poor
+45,"I am shy but I work sincerely.",1,2,2,1,1.50,Poor
+46,"Myself Arvind from Pune.",1,1,1,1,1.00,Poor
+47,"I am a team player.",1,2,2,1,1.50,Poor
+48,"I finished 12th with good marks.",1,2,1,1,1.25,Poor
+49,"I am Bindiya. I did graduation.",1,2,1,1,1.25,Poor
+50,"I can handle pressure situations.",1,2,2,1,1.50,Poor
+51,"I am Sonu. I have done diploma.",1,2,1,1,1.25,Poor
+52,"I like football and cricket.",1,2,2,1,1.50,Poor
+53,"I have two sisters and one brother.",1,1,1,1,1.00,Poor
+54,"I am very friendly in nature.",1,2,2,1,1.50,Poor
+55,"I have completed my ITI.",1,2,1,1,1.25,Poor
+56,"I am Madhu. I am from Bangalore.",1,1,1,1,1.00,Poor
+57,"I want to do job in big company.",1,2,1,1,1.25,Poor
+58,"I have some computer knowledge.",1,2,2,1,1.50,Poor
+59,"I am energetic and enthusiastic.",1,2,2,1,1.50,Poor
+60,"I passed my graduation with 60 percent.",1,2,1,1,1.25,Poor
+61,"I am Tarun. I like working with people.",1,2,2,1,1.50,Poor
+62,"I have done BCA. I want IT job.",1,2,1,1,1.25,Poor
+63,"Myself Swati. I am here for interview.",1,1,1,1,1.00,Poor
+64,"I have interest in software.",1,2,2,1,1.50,Poor
+65,"I am an honest and sincere person.",1,2,2,1,1.50,Poor
+66,"I did my plus two in science stream.",1,2,1,1,1.25,Poor
+67,"I am Nilesh. Not much to tell.",1,1,1,1,1.00,Poor
+68,"I have done graduation in arts.",1,2,1,1,1.25,Poor
+69,"I want to contribute to the organization.",1,2,2,1,1.50,Poor
+70,"I enjoy watching cricket matches.",1,2,2,1,1.50,Poor
+71,"Myself Babita. I completed hotel management.",1,2,1,1,1.25,Poor
+72,"I am from small town. First interview.",1,1,2,1,1.25,Poor
+73,"I have knowledge about many things.",1,2,1,1,1.25,Poor
+74,"I am dedicated to my work.",1,2,2,1,1.50,Poor
+75,"I am Sushant. I studied commerce.",1,2,1,1,1.25,Poor
+76,"I like meeting new people and learning.",1,2,2,1,1.50,Poor
+77,"I completed polytechnic last year.",1,2,1,1,1.25,Poor
+78,"I am positive thinker and fast learner.",1,2,2,1,1.50,Poor
+79,"Myself Dhruv. I have done graduation.",1,2,1,1,1.25,Poor
+80,"I love music and dancing in free time.",1,2,2,1,1.50,Poor
+81,"I have worked part time in shop.",1,2,2,1,1.50,Poor
+82,"I am Jyoti. I finished nursing diploma.",1,2,1,1,1.25,Poor
+83,"I have little bit knowledge of Excel.",1,2,2,1,1.50,Poor
+84,"I am self motivated person.",1,2,2,1,1.50,Poor
+85,"Myself Kishan from Gujarat.",1,1,1,1,1.00,Poor
+86,"I have done my schooling and college.",1,2,1,1,1.25,Poor
+87,"I am Poornima. I like computers.",1,2,2,1,1.50,Poor
+88,"I have some experience in sales.",1,2,2,1,1.50,Poor
+89,"I want to learn and grow.",1,2,2,1,1.50,Poor
+90,"I am Hitesh. First time giving interview.",1,2,1,1,1.25,Poor
+91,"I completed my degree two years back.",1,2,1,1,1.25,Poor
+92,"I am interested in software development.",1,2,2,1,1.50,Poor
+93,"I have basic computer skills.",1,2,2,1,1.50,Poor
+94,"Myself Alka. I am from Uttar Pradesh.",1,1,1,1,1.00,Poor
+95,"I enjoy working in team environment.",1,2,2,1,1.50,Poor
+96,"I did B.Sc last year. Looking for job.",1,2,1,1,1.25,Poor
+97,"I am Manoj. I have done some courses.",1,2,2,1,1.50,Poor
+98,"I don't have experience but I am willing.",1,2,2,1,1.50,Poor
+99,"I am Shilpa. I finished my BE.",1,2,1,1,1.25,Poor
+100,"I have interest in this company.",1,2,2,1,1.50,Poor
+101,"My name is Deepak. I am job seeker.",1,2,1,1,1.25,Poor
+102,"I enjoy reading novels in my free time.",1,2,2,1,1.50,Poor
+103,"Myself Girish. I passed this year.",1,2,1,1,1.25,Poor
+104,"I am simple and down to earth person.",1,2,2,1,1.50,Poor
+105,"I have done higher secondary.",1,2,1,1,1.25,Poor
+106,"I am Sangeeta. I like helping others.",1,2,2,1,1.50,Poor
+107,"I can do any work assigned to me.",1,2,2,1,1.50,Poor
+108,"I am from middle class family. I work hard.",1,2,2,1,1.50,Poor
+109,"I completed MBA. I want marketing job.",1,2,1,1,1.25,Poor
+110,"Myself Pratap. Not much experience.",1,1,1,1,1.00,Poor
+111,"I did my studies from government college.",1,2,1,1,1.25,Poor
+112,"I am Hema. I just completed my course.",1,2,2,1,1.50,Poor
+113,"I have hobby of watching documentaries.",1,2,2,1,1.50,Poor
+114,"I am looking for an opportunity to work.",1,2,2,1,1.50,Poor
+115,"I have strong will power.",1,2,2,1,1.50,Poor
+116,"Myself Sunil from Madhya Pradesh.",1,1,1,1,1.00,Poor
+117,"I am Anita. I did BSc Maths.",1,2,1,1,1.25,Poor
+118,"I want to use my skills somewhere.",1,2,2,1,1.50,Poor
+119,"I have cleared all my backlogs.",1,2,1,1,1.25,Poor
+120,"I am good at time management.",1,2,2,1,1.50,Poor
+121,"I am Rohit. I like problem solving.",1,2,2,1,1.50,Poor
+122,"I completed my degree with second class.",1,2,1,1,1.25,Poor
+123,"Myself Padma. I am quiet person.",1,1,2,1,1.25,Poor
+124,"I have done civil engineering diploma.",1,2,1,1,1.25,Poor
+125,"I am trying to find suitable job.",1,2,2,1,1.50,Poor
+126,"I am Dhanraj. I want technical job.",1,2,1,1,1.25,Poor
+127,"I have basic knowledge of programming.",1,2,2,1,1.50,Poor
+128,"I am responsible and reliable person.",1,2,2,1,1.50,Poor
+129,"I did my course from private institute.",1,2,1,1,1.25,Poor
+130,"Myself Leela. I enjoy my work.",1,2,2,1,1.50,Poor
+131,"I have completed my engineering degree.",1,2,1,1,1.25,Poor
+132,"I am good with numbers and data.",1,2,2,1,1.50,Poor
+133,"I am Santosh. I passed diploma this year.",1,2,1,1,1.25,Poor
+134,"I have interest in learning new skills.",1,2,2,1,1.50,Poor
+135,"I am calm and focused in my work.",1,2,2,1,1.50,Poor
+136,"Myself Rukmini from Tamil Nadu.",1,1,1,1,1.00,Poor
+137,"I completed my MBA two years ago.",1,2,1,1,1.25,Poor
+138,"I am Ajay. I have little work experience.",1,2,2,1,1.50,Poor
+139,"I did computer application course.",1,2,1,1,1.25,Poor
+140,"I want to prove myself in this field.",1,2,2,1,1.50,Poor
+141,"I am Tejas. I just finished my studies.",1,2,1,1,1.25,Poor
+142,"I enjoy cycling and outdoor activities.",1,2,2,1,1.50,Poor
+143,"I have degree in mechanical engineering.",1,2,1,1,1.25,Poor
+144,"I am detail oriented and careful worker.",1,2,2,1,1.50,Poor
+145,"Myself Sulochana. I am commerce student.",1,2,1,1,1.25,Poor
+146,"I have some familiarity with computers.",1,2,2,1,1.50,Poor
+147,"I am Praveen. I did my engineering.",1,2,1,1,1.25,Poor
+148,"I want a stable job with good salary.",1,2,1,1,1.25,Poor
+149,"I have done tailoring and stitching course.",1,1,2,1,1.25,Poor
+150,"I am friendly and get along with everyone.",1,2,2,1,1.50,Poor
+151,"Myself Srinivas from Andhra Pradesh.",1,1,1,1,1.00,Poor
+152,"I have interest in digital work.",1,2,2,1,1.50,Poor
+153,"I am Mona. I did BSc IT.",1,2,1,1,1.25,Poor
+154,"I completed my graduation last semester.",1,2,1,1,1.25,Poor
+155,"I always give my best in whatever I do.",1,2,2,1,1.50,Poor
+156,"I am Raghav. I want to do something big.",1,2,2,1,1.50,Poor
+157,"I like to work on computers.",1,2,2,1,1.50,Poor
+158,"I have done my diploma in electronics.",1,2,1,1,1.25,Poor
+159,"Myself Saroja. I completed my studies.",1,2,1,1,1.25,Poor
+160,"I am very eager to work here.",1,2,2,1,1.50,Poor
+161,"I am Ratan. I know basic office work.",1,2,2,1,1.50,Poor
+162,"I have done course in graphic design.",1,2,2,1,1.50,Poor
+163,"I am quick learner and adaptable.",1,2,2,1,1.50,Poor
+164,"Myself Chandru. I did engineering.",1,2,1,1,1.25,Poor
+165,"I have interest in data entry work.",1,2,2,1,1.50,Poor
+166,"I am Parvati. I finished my schooling.",1,1,1,1,1.00,Poor
+167,"I have done some freelance work online.",1,2,2,1,1.50,Poor
+168,"I am Dinesh. I am available for full time.",1,2,1,1,1.25,Poor
+169,"I don't have much qualification but I try hard.",1,2,2,1,1.50,Poor
+170,"I am Vimala. I did polytechnic.",1,2,1,1,1.25,Poor
+171,"I have studied accounts and taxation.",1,2,2,1,1.50,Poor
+172,"I am Rajendra. I am confident person.",1,2,2,1,1.50,Poor
+173,"Myself Shanta from West Bengal.",1,1,1,1,1.00,Poor
+174,"I have done painting and art course.",1,1,2,1,1.25,Poor
+175,"I am Trilok. I finished my studies last year.",1,2,1,1,1.25,Poor
+176,"I am willing to relocate for job.",1,2,2,1,1.50,Poor
+177,"I did BBA with average marks.",1,2,1,1,1.25,Poor
+178,"Myself Geetha. I passed this year.",1,2,1,1,1.25,Poor
+179,"I have experience in small business.",1,2,2,1,1.50,Poor
+180,"I am Naresh. I know Tally software.",1,2,2,1,1.50,Poor
+181,"I completed my 10th and 12th and degree.",1,2,1,1,1.25,Poor
+182,"I am interested in accounts work.",1,2,2,1,1.50,Poor
+183,"Myself Savitri. First interview ever.",1,1,1,1,1.00,Poor
+184,"I have done vehicle mechanic course.",1,2,1,1,1.25,Poor
+185,"I am Satish. I work hard always.",1,2,2,1,1.50,Poor
+186,"I am looking for any decent job.",1,2,1,1,1.25,Poor
+187,"I have little bit knowledge of HTML.",1,2,2,1,1.50,Poor
+188,"Myself Basavaraj from Karnataka.",1,1,1,1,1.00,Poor
+189,"I am Meena. I have done my graduation.",1,2,1,1,1.25,Poor
+190,"I am goal oriented and focused.",1,2,2,1,1.50,Poor
+191,"I like photography and videography.",1,2,2,1,1.50,Poor
+192,"I am Bhushan. I passed diploma recently.",1,2,1,1,1.25,Poor
+193,"I have studied science in college.",1,2,1,1,1.25,Poor
+194,"Myself Nalini. I am commerce graduate.",1,2,1,1,1.25,Poor
+195,"I want to prove myself to my family.",1,2,2,1,1.50,Poor
+196,"I have interest in fashion designing.",1,2,2,1,1.50,Poor
+197,"I am Mukesh. I can speak Hindi and English.",1,2,2,1,1.50,Poor
+198,"I completed my engineering this May.",1,2,1,1,1.25,Poor
+199,"I am Kamala. I did nursing course.",1,2,1,1,1.25,Poor
+200,"I don't have formal training but I learn fast.",1,2,2,1,1.50,Poor
+201,"Myself Ramakrishna. I am from South India.",1,1,1,1,1.00,Poor
+202,"I am dedicated to whatever task I take.",1,2,2,1,1.50,Poor
+203,"I have done some Tally and Excel work.",1,2,2,1,1.50,Poor
+204,"I am Geeta. I know a little typing.",1,2,2,1,1.50,Poor
+205,"I am open to learning any new skill.",1,2,2,1,1.50,Poor
+206,"Myself Amarjeet from Punjab.",1,1,1,1,1.00,Poor
+207,"I have completed B.Sc in physics.",1,2,1,1,1.25,Poor
+208,"I am Raja. I enjoy working with machines.",1,2,2,1,1.50,Poor
+209,"I have little experience in field work.",1,2,2,1,1.50,Poor
+210,"I am very obedient and follow instructions.",1,2,2,1,1.50,Poor
+211,"Myself Ganga. I did intermediate.",1,1,1,1,1.00,Poor
+212,"I am Kirti. I passed this year from college.",1,2,1,1,1.25,Poor
+213,"I have done some work in hotel industry.",1,2,2,1,1.50,Poor
+214,"I am Bharat. I want to earn and support family.",1,2,2,1,1.50,Poor
+215,"I have basic English speaking ability.",1,2,2,1,1.50,Poor
+216,"Myself Subhash. I am ready to work.",1,2,1,1,1.25,Poor
+217,"I enjoy drawing and sketching.",1,2,2,1,1.50,Poor
+218,"I am Malati. I did B.Sc Chemistry.",1,2,1,1,1.25,Poor
+219,"I have no experience. I am fresher only.",1,2,1,1,1.25,Poor
+220,"I am Nandlal. I want permanent job.",1,2,1,1,1.25,Poor
+221,"I completed my course from distance education.",1,2,1,1,1.25,Poor
+222,"I am Shobha. I am mother of two and looking for work.",1,2,2,1,1.50,Poor
+223,"I have done short term computer course.",1,2,2,1,1.50,Poor
+224,"Myself Balram. I am always on time.",1,2,2,1,1.50,Poor
+225,"I am Hemant. I studied till graduation. Not much more.",1,2,2,1,1.50,Poor
