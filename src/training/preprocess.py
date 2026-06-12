@@ -32,7 +32,7 @@ def load_dataset(filepath: str) -> pd.DataFrame:
     Parameters
     ----------
     filepath : str
-        Path to the CSV file (e.g. 'data/raw/interview_responses_batch_01.csv').
+        Path to the CSV file (e.g. 'data/raw/interview_responses.csv').
 
     Returns
     -------
@@ -131,7 +131,7 @@ def prepare_data(
 
 
 if __name__ == "__main__":
-    DATA_PATH = "../../data/raw/interview_responses_batch_01.csv"
+    DATA_PATH = "../../data/raw/interview_responses.csv"
 
     df = load_dataset(DATA_PATH)
 

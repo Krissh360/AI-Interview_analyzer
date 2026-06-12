@@ -27,7 +27,7 @@ from src.training.preprocess import load_dataset, prepare_data
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-DATASET_PATH = "../../data/raw/interview_responses_batch_01.csv"
+DATASET_PATH = "../../data/raw/interview_responses.csv"
 MODEL_DIR = "../../models/baseline"
 MODEL_PATH = os.path.join(MODEL_DIR, "model.pkl")
 VECTORIZER_PATH = os.path.join(MODEL_DIR, "vectorizer.pkl")

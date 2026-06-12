@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import sys
 
-CSV_PATH = "K:\\AI-interview-analyzer\\data\\raw\\interview_responses_batch_01.csv"
+CSV_PATH = "K:\\AI-interview-analyzer\\data\\raw\\interview_responses.csv"
 SCORE_COLS = ["content_score", "relevance_score", "vocabulary_score", "structure_score", "overall_score"]
 WEIGHTS = {
     "content_score": 0.35,
