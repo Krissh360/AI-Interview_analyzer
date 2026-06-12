@@ -6,12 +6,16 @@ Merge interview response datasets into a single master dataset.
 Source:
     data/raw/
         - poor_batch_01.csv
+        - poor_batch_02.csv
         - average_batch_01.csv
+        - average_batch_02.csv
         - good_batch_01.csv
+        - good_batch_02.csv
         - excellent_batch_01.csv
+        - excellent_batch_02.csv
 
 Output:
-    data/raw/interview_responses_batch_01.csv
+    data/raw/interview_responses.csv
 """
 
 from __future__ import annotations
@@ -28,7 +32,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
 
-OUTPUT_FILE = RAW_DATA_DIR / "interview_responses_batch_01.csv"
+OUTPUT_FILE = RAW_DATA_DIR / "interview_responses.csv"
 
 
 # Dataset Schema
@@ -56,9 +60,13 @@ SCORE_WEIGHTS = {
 
 SOURCE_FILES = [
     ("Poor", "poor_batch_01.csv"),
+    ("Poor", "poor_batch_02.csv"),
     ("Average", "average_batch_01.csv"),
+    ("Average", "average_batch_02.csv"),
     ("Good", "good_batch_01.csv"),
+    ("Good", "good_batch_02.csv"),
     ("Excellent", "excellent_batch_01.csv"),
+    ("Excellent", "excellent_batch_02.csv"),
 ]
 
 
