@@ -7,6 +7,18 @@ This project now supports working with multiple dataset categories seamlessly wi
 - `introduction` (default)
 - `why-to-hire`
 
+## Batch File Naming Convention
+
+Batch files must follow the pattern: `{label}_batch_{number}.csv`
+
+Examples:
+- `poor_batch_01.csv`, `poor_batch_1.csv`, `poor_batch_a.csv` → all valid
+- `average_batch_01.csv`, `average_batch_02.csv` → multiple per tier
+- `good_batch_1.csv` → single file per tier
+- `excellent_batch_001.csv` → any numbering scheme
+
+**The system auto-discovers all files matching `*_batch_*.csv` pattern, so you can have 1, 2, 3, or any number of batch files per quality tier.**
+
 ## Directory Structure
 
 ```
