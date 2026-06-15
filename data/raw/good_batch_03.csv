@@ -1,0 +1,126 @@
+id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
+1,"I recently graduated with a degree in Computer Science. During my studies I learned Java and Python and built a simple library management system. I am looking for a role where I can grow my skills.",3,4,3,4,3.40,Good
+2,"Hi I have a bachelors in IT. I know HTML CSS and Javascript and I created a personal portfolio website. I want to get a job as a frontend web developer.",4,4,3,3,3.60,Good
+3,"I am a software engineering student in my final year. I have strong skills in C++ and data structures. I am looking for an internship to get some industry experience.",3,4,4,3,3.50,Good
+4,"Hello my name is Rohit and I am a software developer. I have one year of experience working with React. I want to build better user interfaces and learn backend technologies.",4,3,4,3,3.60,Good
+5,"I just finished my diploma in computer applications. I am familiar with basic database management using SQL. I hope to join a good company to start my career.",4,3,3,4,3.50,Good
+6,"I studied computer science at university. I like coding in Python. I am seeking a fresher job in software development.",3,3,4,3,3.25,Good
+7,"I am a junior backend developer with a year of experience in Node.js. I worked on building REST APIs for a mobile app. My goal is to become a full stack developer.",4,4,4,3,3.85,Good
+8,"I am an engineering graduate with a focus on web technologies. I built an e-commerce clone using MERN stack. I am looking forward to applying my knowledge in a real work environment.",3,4,4,4,3.65,Good
+9,"I have been learning software development for the past two years. I mostly use Ruby on Rails and I have a few projects on GitHub. I want to join a fast paced startup.",4,4,3,4,3.75,Good
+10,"I am a recent IT graduate. I have good knowledge of Python and SQL. I did a mini project on employee management. I want to start my career as a backend developer.",3,4,3,4,3.40,Good
+11,"I am a data analyst fresher. I know Excel and Tableau very well. I recently analyzed a retail dataset for my college project. I want to help businesses make data driven decisions.",4,4,3,3,3.60,Good
+12,"My background is in mathematics and statistics. I taught myself Python for data analysis. I am looking for an entry level data role.",3,4,4,3,3.50,Good
+13,"I have a masters in data science. I have done several academic projects using machine learning algorithms. I aim to work as a junior data scientist.",4,3,4,3,3.60,Good
+14,"Hello I am a business analytics graduate. I have experience with SQL and PowerBI from my summer internship. I want to solve real business problems using data.",4,3,3,4,3.50,Good
+15,"I studied statistics in college. I am good at finding trends in data using Excel. I am looking for my first job in analytics.",3,3,4,3,3.25,Good
+16,"I am a junior data analyst with six months of internship experience. I created dashboards for the sales team. My goal is to master Python and advanced analytics.",4,4,4,3,3.85,Good
+17,"I have a background in economics and a strong interest in data. I completed a bootcamp in data analytics. I want to start a career analyzing financial data.",3,4,4,4,3.65,Good
+18,"I recently finished my degree in data science. I am comfortable with R and Python. I built a predictive model for housing prices. I am seeking a data analyst position.",4,4,3,4,3.75,Good
+19,"I am an aspiring data professional. I know how to clean and visualize data. I want to work in a company where I can learn more about big data.",3,4,3,4,3.40,Good
+20,"I am a statistics graduate. I have done a project on market research using SPSS. I am looking forward to working as a market data analyst.",4,4,3,3,3.60,Good
+21,"I am a civil engineering graduate. I know how to use AutoCAD and Revit. I worked on a concrete testing project in my final year. I want to become a structural engineer.",3,4,4,3,3.50,Good
+22,"Hi I hold a diploma in civil engineering. I have basic knowledge of site surveying. I am looking for a site engineer job.",4,3,4,3,3.60,Good
+23,"I recently completed my bachelors in civil engineering. I did a summer internship at a construction firm where I helped with estimations. I want to build a career in project management.",4,3,3,4,3.50,Good
+24,"I studied civil engineering. I am interested in transportation engineering. I am looking for a good opportunity in this field.",3,3,4,3,3.25,Good
+25,"I am a junior civil engineer with one year of site experience. I oversaw the construction of a residential building. My goal is to get a PMP certification soon.",4,4,4,3,3.85,Good
+26,"I am a civil engineering student. I have done a project on green building materials. I want to work for a sustainable construction company.",3,4,4,4,3.65,Good
+27,"I have a degree in civil engineering and I am proficient in STAAD Pro. I designed a steel bridge for my thesis. I am looking for a structural design role.",4,4,3,4,3.75,Good
+28,"I am a fresher in civil engineering. I know basic drafting and estimation. I hope to join a growing construction company.",3,4,3,4,3.40,Good
+29,"I graduated with a civil engineering degree last month. I have good knowledge of fluid mechanics. I am seeking a role in water resource management.",4,4,3,3,3.60,Good
+30,"I am a civil engineer. I did an internship focusing on road construction. I want to develop my skills in highway engineering.",3,4,4,3,3.50,Good
+31,"I am a mechanical engineering graduate. I am skilled in SolidWorks and thermodynamics. I built a solar powered car for my final project. I want to work in the automotive industry.",4,3,4,3,3.60,Good
+32,"Hi I have a diploma in mechanical engineering. I know how to operate CNC machines. I am looking for a manufacturing job.",4,3,3,4,3.50,Good
+33,"I studied mechanical engineering in college. I like designing machines. I am looking for my first job.",3,3,4,3,3.25,Good
+34,"I am a junior mechanical design engineer with six months experience. I design HVAC systems for commercial buildings. I want to become a senior designer.",4,4,4,3,3.85,Good
+35,"I have a bachelors in mechanical engineering. I did a course in finite element analysis. I want to work in product research and development.",3,4,4,4,3.65,Good
+36,"I am an aspiring mechanical engineer. I am comfortable with AutoCAD. I designed a small robotic arm in college. I am looking for a design engineer role.",4,4,3,4,3.75,Good
+37,"I am a recent mechanical engineering graduate. I have good knowledge of fluid dynamics. I want to start my career in the aerospace sector.",3,4,3,4,3.40,Good
+38,"I hold a degree in mechanical engineering. I did an internship at an auto parts factory. I am seeking a production engineer position.",4,4,3,3,3.60,Good
+39,"I am a mechanical engineer. I have strong analytical skills. I am looking for an entry level role in quality control.",3,4,4,3,3.50,Good
+40,"I graduated in mechanical engineering this year. I worked on a thermal power project. I want to join the energy sector.",4,3,4,3,3.60,Good
+41,"I am an electronics engineering graduate. I know C programming and embedded systems. I built a smart home automation system. I am looking for a firmware developer role.",4,3,3,4,3.50,Good
+42,"Hi I have a diploma in electronics. I know how to solder and test circuits. I am looking for a technician job.",3,3,4,3,3.25,Good
+43,"I studied electrical engineering. I did an internship at a power plant where I learned about grid distribution. I want to work as an electrical engineer.",4,4,4,3,3.85,Good
+44,"I am an electronics and communication student. I have done a project on IoT devices. I want to work in the telecommunications industry.",3,4,4,4,3.65,Good
+45,"I have a degree in electrical engineering. I am proficient in MATLAB. I designed a motor control circuit for my thesis. I am looking for a core engineering job.",4,4,3,4,3.75,Good
+46,"I am a fresher in electronics engineering. I know basic circuit design. I hope to join a semiconductor company.",3,4,3,4,3.40,Good
+47,"I graduated with an electrical degree last month. I have good knowledge of control systems. I am seeking a role in industrial automation.",4,4,3,3,3.60,Good
+48,"I am an electrical engineer. I did a small project on renewable energy. I want to develop my skills in the solar power industry.",3,4,4,3,3.50,Good
+49,"I am an electronics graduate. I am skilled in Arduino and Raspberry Pi. I am looking for a junior robotics engineer position.",4,3,4,3,3.60,Good
+50,"I recently finished my degree in electrical engineering. I am comfortable with wiring and PLC programming. I want to work as a maintenance engineer.",4,3,3,4,3.50,Good
+51,"I am a marketing graduate. I have experience with SEO and content writing from my internship. I helped increase website traffic by twenty percent. I want to be a digital marketer.",3,3,4,3,3.25,Good
+52,"Hi I hold a BBA degree. I know the basics of social media marketing. I am looking for a marketing executive job.",4,4,4,3,3.85,Good
+53,"I recently completed my MBA in marketing. I did a market research project on consumer behavior. I want to build a career in brand management.",3,4,4,4,3.65,Good
+54,"I studied marketing. I am interested in sales. I am looking for a good opportunity in a fast growing company.",4,4,3,4,3.75,Good
+55,"I am a junior sales executive with one year of experience. I managed B2B client accounts. My goal is to become a regional sales manager.",3,4,3,4,3.40,Good
+56,"I am a business student. I have done a project on digital advertising campaigns. I want to work for an ad agency.",4,4,3,3,3.60,Good
+57,"I have a degree in marketing and I am proficient in Google Analytics. I ran a successful ad campaign for a college event. I am looking for a performance marketing role.",3,4,4,3,3.50,Good
+58,"I am a fresher in sales. I have good communication skills. I hope to join a competitive sales team.",4,3,4,3,3.60,Good
+59,"I graduated with a business degree last month. I have good knowledge of market trends. I am seeking a role in corporate sales.",4,3,3,4,3.50,Good
+60,"I am a marketing enthusiast. I did an internship focusing on lead generation. I want to develop my skills in B2B marketing.",3,3,4,3,3.25,Good
+61,"I am an accounting graduate. I know how to use Tally and Excel. I helped with tax filing during my internship. I want to become a financial analyst.",4,4,4,3,3.85,Good
+62,"Hi I have a bachelors in commerce. I know basic bookkeeping. I am looking for an entry level accounting job.",3,4,4,4,3.65,Good
+63,"I recently completed my MBA in finance. I did a project on portfolio management. I want to build a career in investment banking.",4,4,3,4,3.75,Good
+64,"I studied finance in college. I am interested in the stock market. I am looking for a good opportunity in this field.",3,4,3,4,3.40,Good
+65,"I am a junior accountant with six months of experience. I managed accounts payable for a small retail firm. My goal is to get my CPA license.",4,4,3,3,3.60,Good
+66,"I am a finance student. I have done a project on risk management. I want to work for a corporate finance team.",3,4,4,3,3.50,Good
+67,"I have a degree in finance and I am proficient in financial modeling. I analyzed company balance sheets for my thesis. I am looking for an equity research role.",4,3,4,3,3.60,Good
+68,"I am a fresher in accounting. I know basic tax laws. I hope to join a reputed audit firm.",4,3,3,4,3.50,Good
+69,"I graduated with a finance degree last month. I have good knowledge of corporate valuation. I am seeking a role in wealth management.",3,3,4,3,3.25,Good
+70,"I am a commerce graduate. I did an internship focusing on financial auditing. I want to develop my skills in forensic accounting.",4,4,4,3,3.85,Good
+71,"I am a human resources graduate. I have experience with recruitment from my internship. I helped hire ten interns last summer. I want to be an HR generalist.",3,4,4,4,3.65,Good
+72,"Hi I hold a BBA in HR. I know the basics of employee relations. I am looking for an HR executive job.",4,4,3,4,3.75,Good
+73,"I recently completed my MBA in human resources. I did a project on employee retention strategies. I want to build a career in talent acquisition.",3,4,3,4,3.40,Good
+74,"I studied business administration. I am interested in HR. I am looking for an entry level position.",4,4,3,3,3.60,Good
+75,"I am a junior HR coordinator with one year of experience. I managed the onboarding process for new hires. My goal is to become an HR manager.",3,4,4,3,3.50,Good
+76,"I am an HR student. I have done a project on performance appraisal methods. I want to work in an IT company.",4,3,4,3,3.60,Good
+77,"I have a degree in HR and I am familiar with payroll software. I organized a campus placement drive. I am looking for a technical recruiter role.",4,3,3,4,3.50,Good
+78,"I am a fresher in human resources. I have good interpersonal skills. I hope to join a supportive HR team.",3,3,4,3,3.25,Good
+79,"I graduated with an HR degree last month. I have good knowledge of labor laws. I am seeking a role in employee engagement.",4,4,4,3,3.85,Good
+80,"I am a business graduate. I did an internship focusing on training and development. I want to develop my skills in corporate training.",3,4,4,4,3.65,Good
+81,"I am a graphic design graduate. I know Adobe Illustrator and Photoshop. I created branding materials for a local startup. I want to become a UI UX designer.",4,4,3,4,3.75,Good
+82,"Hi I hold a diploma in design. I know the basics of color theory. I am looking for a junior designer job.",3,4,3,4,3.40,Good
+83,"I recently completed my course in UI design. I redesigned a mobile app interface for my portfolio. I want to build a career in product design.",4,4,3,3,3.60,Good
+84,"I studied visual arts. I am interested in web design. I am looking for a good creative opportunity.",3,4,4,3,3.50,Good
+85,"I am a junior UX designer with six months of experience. I conducted user research for an e-commerce site. My goal is to lead design projects.",4,3,4,3,3.60,Good
+86,"I am a design student. I have done a project on typography. I want to work for a design agency.",4,3,3,4,3.50,Good
+87,"I have a degree in graphic design and I am proficient in Figma. I built interactive prototypes for a college project. I am looking for a UI designer role.",3,3,4,3,3.25,Good
+88,"I am a fresher in design. I have a good portfolio. I hope to join an innovative tech company.",4,4,4,3,3.85,Good
+89,"I graduated with a design degree last month. I have good knowledge of user empathy. I am seeking a role in UX research.",3,4,4,4,3.65,Good
+90,"I am a creative arts graduate. I did an internship focusing on wireframing. I want to develop my skills in interaction design.",4,4,3,4,3.75,Good
+91,"I am a QA engineering graduate. I know manual testing and bug tracking using Jira. I tested a web application during my final year. I want to become an automation tester.",3,4,3,4,3.40,Good
+92,"Hi I have a bachelors in computer applications. I know the basics of software testing. I am looking for a junior tester job.",4,4,3,3,3.60,Good
+93,"I recently completed my certification in software testing. I wrote test cases for an open source project. I want to build a career in quality assurance.",3,4,4,3,3.50,Good
+94,"I studied IT in college. I am interested in finding bugs. I am looking for an entry level testing role.",4,3,4,3,3.60,Good
+95,"I am a junior QA tester with one year of experience. I performed regression testing on a mobile app. My goal is to learn Selenium and Java.",4,3,3,4,3.50,Good
+96,"I am a software student. I have done a project on automated testing. I want to work in an agile environment.",3,3,4,3,3.25,Good
+97,"I have a degree in computer science and I am proficient in Postman. I tested APIs for my thesis project. I am looking for an API testing role.",4,4,4,3,3.85,Good
+98,"I am a fresher in QA. I know basic SQL for database testing. I hope to join a good software company.",3,4,4,4,3.65,Good
+99,"I graduated with an IT degree last month. I have good knowledge of the software testing life cycle. I am seeking a role in manual testing.",4,4,3,4,3.75,Good
+100,"I am a computer science graduate. I did an internship focusing on performance testing. I want to develop my skills in load testing.",3,4,3,4,3.40,Good
+101,"I am a business management graduate. I know Agile methodologies and Jira. I coordinated a small software project in college. I want to become a product manager.",4,4,3,3,3.60,Good
+102,"Hi I hold a BBA degree. I know the basics of project management. I am looking for a product associate job.",3,4,4,3,3.50,Good
+103,"I recently completed my MBA. I did a market analysis project for a new software tool. I want to build a career in product management.",4,3,4,3,3.60,Good
+104,"I studied business administration. I am interested in tech products. I am looking for an entry level role.",4,3,3,4,3.50,Good
+105,"I am a junior business analyst with six months of experience. I gathered requirements for a CRM system. My goal is to become a product owner.",3,3,4,3,3.25,Good
+106,"I am a management student. I have done a project on user story mapping. I want to work in a software company.",4,4,4,3,3.85,Good
+107,"I have a degree in management and I am familiar with wireframing tools. I created a product roadmap for my final project. I am looking for an APM role.",3,4,4,4,3.65,Good
+108,"I am a fresher in product management. I have good analytical skills. I hope to join a fast growing startup.",4,4,3,4,3.75,Good
+109,"I graduated with a business degree last month. I have good knowledge of sprint planning. I am seeking a role as a scrum master.",3,4,3,4,3.40,Good
+110,"I am an MBA graduate. I did an internship focusing on competitor analysis. I want to develop my skills in product strategy.",4,4,3,3,3.60,Good
+111,"I am a self taught web developer. I know React and Node.js. I built a full stack blog application. I am looking for a junior developer role.",3,4,4,3,3.50,Good
+112,"Hi I have a non tech background but I learned Python online. I built a web scraper. I am looking for my first coding job.",4,3,4,3,3.60,Good
+113,"I recently transitioned into tech from customer service. I learned SQL and data visualization. I want to build a career as a data analyst.",4,3,3,4,3.50,Good
+114,"I studied arts but I am interested in programming. I have taken several coding bootcamps. I am looking for an entry level tech role.",3,3,4,3,3.25,Good
+115,"I am a career switcher with a background in sales. I learned digital marketing recently. My goal is to combine my sales experience with SEO.",4,4,4,3,3.85,Good
+116,"I am a self taught designer. I have done several freelance UI projects. I want to work full time in a design agency.",3,4,4,4,3.65,Good
+117,"I have a degree in English but I am proficient in technical writing. I wrote documentation for an open source tool. I am looking for a technical writer role.",4,4,3,4,3.75,Good
+118,"I am a fresher in the tech industry after changing careers. I know basic web development. I hope to join a supportive team.",3,4,3,4,3.40,Good
+119,"I completed a coding bootcamp last month. I have good knowledge of JavaScript. I am seeking a role in frontend development.",4,4,3,3,3.60,Good
+120,"I am a self taught professional. I focused on learning cloud computing. I want to develop my skills in AWS.",3,4,4,3,3.50,Good
+121,"I am a customer support executive with two years of experience. I handled international clients. I want to transition into a customer success manager role.",4,3,4,3,3.60,Good
+122,"Hi I hold a bachelors in communication. I have good problem solving skills. I am looking for a client facing role.",4,3,3,4,3.50,Good
+123,"I recently completed my degree in public relations. I managed social media for a college club. I want to build a career in corporate communications.",3,3,4,3,3.25,Good
+124,"I studied journalism. I am interested in content creation. I am looking for an entry level content writing position.",4,4,4,3,3.85,Good
+125,"I am a junior operations executive with one year of experience. I optimized supply chain processes for a small firm. My goal is to become an operations manager.",3,4,4,4,3.65,Good

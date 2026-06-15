@@ -1,0 +1,126 @@
+id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
+1,"I am Sumit.",1,2,1,1,1.25,Poor
+2,"My name is Rohan.",1,2,1,1,1.25,Poor
+3,"Myself Amit.",1,2,1,1,1.25,Poor
+4,"I am called Sneha.",1,2,1,1,1.25,Poor
+5,"Name is Deepak.",1,2,1,1,1.25,Poor
+6,"I am just a guy named Raj.",1,2,2,1,1.50,Poor
+7,"Myself Pooja.",1,2,1,1,1.25,Poor
+8,"I am Karan.",1,2,1,1,1.25,Poor
+9,"My name is Anjali.",1,2,1,1,1.25,Poor
+10,"I'm Vikas.",1,2,1,1,1.25,Poor
+11,"I need money.",1,1,1,1,1.00,Poor
+12,"Give me this job please.",1,1,2,1,1.25,Poor
+13,"I am very poor I need job.",1,1,1,1,1.00,Poor
+14,"Sir please give job.",1,1,1,1,1.00,Poor
+15,"I want salary.",1,1,1,1,1.00,Poor
+16,"Just hire me.",1,1,2,1,1.25,Poor
+17,"I am looking for a job to earn.",1,1,2,1,1.25,Poor
+18,"Need job urgently.",1,1,1,1,1.00,Poor
+19,"I will do anything for money.",1,1,2,1,1.25,Poor
+20,"Please I need work.",1,1,1,1,1.00,Poor
+21,"I like playing video games.",1,1,2,1,1.25,Poor
+22,"My hobby is sleeping.",1,1,2,1,1.25,Poor
+23,"I watch movies a lot.",1,1,2,1,1.25,Poor
+24,"I play cricket daily.",1,1,2,1,1.25,Poor
+25,"Listening to music is my hobby.",1,1,2,1,1.25,Poor
+26,"I like to eat food.",1,1,1,1,1.00,Poor
+27,"I am a gamer.",1,1,2,1,1.25,Poor
+28,"I browse instagram.",1,1,2,1,1.25,Poor
+29,"Hobbies are dancing and singing.",1,1,2,1,1.25,Poor
+30,"I watch TV.",1,1,1,1,1.00,Poor
+31,"My father is a farmer.",1,1,2,1,1.25,Poor
+32,"We are 4 members in my family.",1,1,2,1,1.25,Poor
+33,"I have two brothers.",1,1,2,1,1.25,Poor
+34,"My family lives in village.",1,1,2,1,1.25,Poor
+35,"I live with my parents.",1,1,2,1,1.25,Poor
+36,"My mother is housewife.",1,1,2,1,1.25,Poor
+37,"I have a sister.",1,1,2,1,1.25,Poor
+38,"My dad works in bank.",1,1,2,1,1.25,Poor
+39,"We have a small house.",1,1,2,1,1.25,Poor
+40,"I am married and have kids.",1,1,2,1,1.25,Poor
+41,"I don't know.",1,1,1,1,1.00,Poor
+42,"What should I say?",1,1,2,1,1.25,Poor
+43,"I am feeling nervous.",1,1,2,1,1.25,Poor
+44,"Can I skip this?",1,1,2,1,1.25,Poor
+45,"Nothing to tell.",1,1,1,1,1.00,Poor
+46,"I don't have an answer.",1,1,2,1,1.25,Poor
+47,"Sorry, I don't know English well.",1,1,1,1,1.00,Poor
+48,"Ah, umm, I don't know.",1,1,1,1,1.00,Poor
+49,"I am not prepared.",1,1,2,1,1.25,Poor
+50,"My mind is blank.",1,1,2,1,1.25,Poor
+51,"I am from Mumbai.",1,1,2,1,1.25,Poor
+52,"I live in Delhi.",1,1,2,1,1.25,Poor
+53,"I came from Bihar.",1,1,2,1,1.25,Poor
+54,"My hometown is Jaipur.",1,1,2,1,1.25,Poor
+55,"I am a local resident.",1,1,2,1,1.25,Poor
+56,"I stay in a hostel here.",1,1,2,1,1.25,Poor
+57,"I belong to Punjab.",1,1,2,1,1.25,Poor
+58,"I shifted to this city recently.",1,1,2,1,1.25,Poor
+59,"My address is in the resume.",1,1,2,1,1.25,Poor
+60,"I live near the station.",1,1,2,1,1.25,Poor
+61,"I am 22 years old.",1,1,2,1,1.25,Poor
+62,"My age is 25.",1,1,2,1,1.25,Poor
+63,"I am young.",1,1,1,1,1.00,Poor
+64,"I was born in 2001.",1,1,2,1,1.25,Poor
+65,"My height is 5 feet 8 inches.",1,1,2,1,1.25,Poor
+66,"I am physically fit.",1,1,2,1,1.25,Poor
+67,"I am a healthy guy.",1,1,2,1,1.25,Poor
+68,"I turned 20 last week.",1,1,2,1,1.25,Poor
+69,"I am a bachelor.",1,1,2,1,1.25,Poor
+70,"I am twenty four.",1,1,2,1,1.25,Poor
+71,"Myself coming from village side.",1,2,1,1,1.25,Poor
+72,"I doing college now.",1,2,1,1,1.25,Poor
+73,"Me is looking job.",1,1,1,1,1.00,Poor
+74,"I pass exam and want work.",1,2,1,1,1.25,Poor
+75,"Very good morning myself Ravi.",1,2,1,1,1.25,Poor
+76,"I is a good boy.",1,1,1,1,1.00,Poor
+77,"My English not good.",1,1,1,1,1.00,Poor
+78,"I working hard everyday.",1,1,1,1,1.00,Poor
+79,"Want job me.",1,1,1,1,1.00,Poor
+80,"I student.",1,2,1,1,1.25,Poor
+81,"I like this company office.",1,1,2,1,1.25,Poor
+82,"It is very hot outside today.",1,1,2,1,1.25,Poor
+83,"Are we done?",1,1,2,1,1.25,Poor
+84,"I saw the ad in newspaper.",1,1,2,1,1.25,Poor
+85,"My friend told me to come.",1,1,2,1,1.25,Poor
+86,"I have a bike.",1,1,2,1,1.25,Poor
+87,"I am wearing a blue shirt.",1,1,2,1,1.25,Poor
+88,"I like your tie.",1,1,2,1,1.25,Poor
+89,"I took a bus to come here.",1,1,2,1,1.25,Poor
+90,"Where is the canteen?",1,1,2,1,1.25,Poor
+91,"I did 10th.",1,2,1,1,1.25,Poor
+92,"I am 12th pass.",1,2,1,1,1.25,Poor
+93,"I read in BA.",1,2,1,1,1.25,Poor
+94,"I failed in college.",1,2,1,1,1.25,Poor
+95,"I did diploma.",1,2,1,1,1.25,Poor
+96,"My graduation is done.",1,2,2,1,1.50,Poor
+97,"I hold a degree.",1,2,2,1,1.50,Poor
+98,"I went to school.",1,1,2,1,1.25,Poor
+99,"I am an arts student.",1,2,2,1,1.50,Poor
+100,"I studied commerce.",1,2,2,1,1.50,Poor
+101,"I am a nice person.",1,1,2,1,1.25,Poor
+102,"I am very hardworking.",1,1,2,1,1.25,Poor
+103,"I am an honest boy.",1,1,2,1,1.25,Poor
+104,"I never lie.",1,1,2,1,1.25,Poor
+105,"I am a fast learner.",1,1,2,1,1.25,Poor
+106,"I am very punctual.",1,1,2,1,1.25,Poor
+107,"I am polite.",1,1,2,1,1.25,Poor
+108,"People like me.",1,1,2,1,1.25,Poor
+109,"I smile a lot.",1,1,2,1,1.25,Poor
+110,"I am a good human.",1,1,2,1,1.25,Poor
+111,"Hi.",1,1,1,1,1.00,Poor
+112,"Hello.",1,1,1,1,1.00,Poor
+113,"Yeah.",1,1,1,1,1.00,Poor
+114,"Nothing.",1,1,1,1,1.00,Poor
+115,"Okay.",1,1,1,1,1.00,Poor
+116,"Next.",1,1,1,1,1.00,Poor
+117,"Umm.",1,1,1,1,1.00,Poor
+118,"Yes.",1,1,1,1,1.00,Poor
+119,"Well...",1,1,1,1,1.00,Poor
+120,"Sure.",1,1,1,1,1.00,Poor
+121,"I am here for the interview.",1,1,2,1,1.25,Poor
+122,"My name is already on the paper.",1,1,2,1,1.25,Poor
+123,"You can read my resume.",1,1,2,1,1.25,Poor
+124,"I don't like talking about myself.",1,1,2,1,1.25,Poor
+125,"That is a tough question.",1,1,2,1,1.25,Poor

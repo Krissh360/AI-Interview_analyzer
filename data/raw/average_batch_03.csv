@@ -1,0 +1,126 @@
+id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
+1,"Hi, I am Rahul. I graduated with a BA recently. I don't have much experience yet. I like playing cricket in my free time.",2,3,3,2,2.50,Average
+2,"Hello, my name is Priya. I completed my BSc last year. I am looking for a job to learn. I enjoy watching movies.",2,3,3,2,2.50,Average
+3,"I am Amit. I hold a BCom degree. I don't have any projects to show. I spend my weekends listening to music.",2,3,3,2,2.50,Average
+4,"Good morning, I am Sneha. I did my BTech in civil. I am fresh out of college. My hobby is reading books.",2,3,3,2,2.50,Average
+5,"Hi there, I am Vikram. I passed my 12th standard exams recently. I am searching for basic work. I like traveling.",2,3,3,2,2.50,Average
+6,"My name is Neha. I have a Diploma in mechanical engineering. I want to start earning. I enjoy cooking at home.",2,3,3,2,2.50,Average
+7,"Hello, I am Karan. I graduated with a BCA. I have no professional background. I like playing chess with friends.",2,3,3,2,2.50,Average
+8,"I am Sunita. I completed my MBA recently. I haven't done any internships. I usually spend time singing.",2,3,3,2,2.50,Average
+9,"Hi, my name is Anil. I hold an MA degree in history. I am looking for an office job. I enjoy dancing.",2,3,3,2,2.50,Average
+10,"Good morning, I am Ritu. I passed my ITI course. I don't have practical experience. I like playing video games.",2,3,3,2,2.50,Average
+11,"Hello sir, I am Deepak. I have a BBA. I am just looking for an entry level position. My hobby is photography.",2,3,3,2,2.50,Average
+12,"I am Kavita. I graduated with an MSc in chemistry. I am seeking my first job. I like painting in my spare time.",2,3,3,2,2.50,Average
+13,"Hi, I am Suresh. I did my MCom. I have been preparing for exams. I like playing cricket on Sundays.",2,3,3,2,2.50,Average
+14,"My name is Anita. I hold a BA in sociology. I am looking to start my career. I enjoy watching movies.",2,3,3,2,2.50,Average
+15,"Hello, I am Vivek. I completed my BSc in physics. I have no work history. I listen to music to relax.",2,3,3,2,2.50,Average
+16,"I am Nidhi. I graduated with a BCom degree. I am ready to work hard. I like reading books a lot.",2,3,3,2,2.50,Average
+17,"Good afternoon, I am Tarun. I have a BTech in IT. I am looking for a fresher role. My hobby is traveling.",2,3,3,2,2.50,Average
+18,"Hi, my name is Meena. I passed my 12th pass exams. I want a basic job. I enjoy cooking for my family.",2,3,3,2,2.50,Average
+19,"I am Sanjay. I hold a Diploma in electronics. I don't have an internship. I like playing chess.",2,3,3,2,2.50,Average
+20,"Hello, I am Pooja. I completed my BCA. I am looking for any suitable opportunity. I enjoy singing.",2,3,3,2,2.50,Average
+21,"Myself Rohan. I done my BBA. I know MS Word little bit. My hobby are playing video games.",3,3,2,2,2.60,Average
+22,"Hi sir, myself Simran. I complete my MBA. I have learn Excel. I like photography.",3,3,2,2,2.60,Average
+23,"Good morning. I am Ajay. I did MA. I knowing typing. I painting in free time.",3,3,2,2,2.60,Average
+24,"Myself Rekha. I finish my MCom. I know Tally software. I play cricket.",3,3,2,2,2.60,Average
+25,"I am Manoj. I done BA. I have learn basic computer. My hobby are watching movies.",3,3,2,2,2.60,Average
+26,"Hello. Myself Kiran. I pass BSc. I know HTML little bit. I listen music.",3,3,2,2,2.60,Average
+27,"Myself Ramesh. I complete BCom. I have accounting knowledge. I reading books.",3,3,2,2,2.60,Average
+28,"Hi, I am Swati. I did BTech. I know Java language. My hobby are traveling.",3,3,2,2,2.60,Average
+29,"Good morning sir. Myself Akash. I finish 12th pass. I doing data entry. I like cooking.",3,3,2,2,2.60,Average
+30,"I am Divya. I done Diploma. I know AutoCAD. I playing chess.",3,3,2,2,2.60,Average
+31,"Myself Sunil. I complete BCA. I have learn Python. My hobby are singing.",3,3,2,2,2.60,Average
+32,"Hello, myself Aarti. I pass MBA. I know digital marketing. I dancing.",3,3,2,2,2.60,Average
+33,"Hi. I am Vijay. I did MA. I have good communication. I play video games.",3,3,2,2,2.60,Average
+34,"Myself Naveen. I finish ITI. I know basic wiring. I like photography.",3,3,2,2,2.60,Average
+35,"Good morning. Myself Nisha. I done BBA. I learn MS Word. I painting.",3,3,2,2,2.60,Average
+36,"I am Prakash. I complete MSc. I know Excel. My hobby are playing cricket.",3,3,2,2,2.60,Average
+37,"Myself Geeta. I pass MCom. I know typing. I watching movies.",3,3,2,2,2.60,Average
+38,"Hello sir. I am Karthik. I did BA. I know Tally. I listening to music.",3,3,2,2,2.60,Average
+39,"Myself Seema. I finish BSc. I learn basic computer. I reading books.",3,3,2,2,2.60,Average
+40,"Hi, myself Mohit. I done BCom. I know HTML. My hobby are traveling.",3,3,2,2,2.60,Average
+41,"Hello, my name is Poonam. I hold a BTech degree and I am looking for my first professional role to start my career. Thank you.",2,4,3,2,2.75,Average
+42,"Good morning. I am Sandeep. I recently graduated with a 12th pass. I am eager to secure a job where I can begin my career journey.",2,4,3,2,2.75,Average
+43,"Hi, I am Sarita. I have a Diploma and I am attending this interview to find an entry-level position that matches my education.",2,4,3,2,2.75,Average
+44,"My name is Alok. I completed my BCA. I am very interested in joining your company to start my professional life.",2,4,3,2,2.75,Average
+45,"Hello, I am Jyoti. I hold an MBA degree and I am looking for my first professional role to start my career. Thank you.",2,4,3,2,2.75,Average
+46,"Good afternoon. I am Manish. I recently graduated with an MA. I am eager to secure a job where I can begin my career journey.",2,4,3,2,2.75,Average
+47,"Hi, I am Dinesh. I have an ITI and I am attending this interview to find an entry-level position that matches my education.",2,4,3,2,2.75,Average
+48,"My name is Preeti. I completed my BBA. I am very interested in joining your company to start my professional life.",2,4,3,2,2.75,Average
+49,"Hello, my name is Suman. I hold an MSc degree and I am looking for my first professional role to start my career. Thank you.",2,4,3,2,2.75,Average
+50,"Good morning. I am Raj. I recently graduated with an MCom. I am eager to secure a job where I can begin my career journey.",2,4,3,2,2.75,Average
+51,"Hi, I am Rahul. I have a BA and I am attending this interview to find an entry-level position that matches my education.",2,4,3,2,2.75,Average
+52,"My name is Priya. I completed my BSc. I am very interested in joining your company to start my professional life.",2,4,3,2,2.75,Average
+53,"Hello, I am Amit. I hold a BCom degree and I am looking for my first professional role to start my career. Thank you.",2,4,3,2,2.75,Average
+54,"Good afternoon. I am Sneha. I recently graduated with a BTech. I am eager to secure a job where I can begin my career journey.",2,4,3,2,2.75,Average
+55,"Hi, I am Vikram. I have a 12th pass and I am attending this interview to find an entry-level position that matches my education.",2,4,3,2,2.75,Average
+56,"My name is Neha. I completed my Diploma. I am very interested in joining your company to start my professional life.",2,4,3,2,2.75,Average
+57,"Hello, my name is Karan. I hold a BCA degree and I am looking for my first professional role to start my career. Thank you.",2,4,3,2,2.75,Average
+58,"Good morning. I am Sunita. I recently graduated with an MBA. I am eager to secure a job where I can begin my career journey.",2,4,3,2,2.75,Average
+59,"Hi, I am Anil. I have an MA and I am attending this interview to find an entry-level position that matches my education.",2,4,3,2,2.75,Average
+60,"My name is Ritu. I completed my ITI. I am very interested in joining your company to start my professional life.",2,4,3,2,2.75,Average
+61,"Good morning. I am Deepak. I completed my BBA last year. I have basic knowledge of Excel. I enjoy cooking.",3,3,3,2,2.85,Average
+62,"Hello, I am Kavita. I did my MSc in 2022. I know how to use MS Word. I like playing chess.",3,3,3,2,2.85,Average
+63,"Hi, my name is Suresh. I graduated with an MCom. I learned Typing recently. I spend my free time singing.",3,3,3,2,2.85,Average
+64,"I am Anita. I passed my BA exams. I have basic knowledge of Tally. I enjoy dancing on weekends.",3,3,3,2,2.85,Average
+65,"Good afternoon. I am Vivek. I completed my BSc last year. I have basic knowledge of basic computer. I enjoy playing video games.",3,3,3,2,2.85,Average
+66,"Hello, I am Nidhi. I did my BCom in 2022. I know how to use HTML. I like photography.",3,3,3,2,2.85,Average
+67,"Hi, my name is Tarun. I graduated with a BTech. I learned accounting recently. I spend my free time painting.",3,3,3,2,2.85,Average
+68,"I am Meena. I passed my 12th pass exams. I have basic knowledge of Java. I enjoy playing cricket on weekends.",3,3,3,2,2.85,Average
+69,"Good morning. I am Sanjay. I completed my Diploma last year. I have basic knowledge of data entry. I enjoy watching movies.",3,3,3,2,2.85,Average
+70,"Hello, I am Pooja. I did my BCA in 2022. I know how to use AutoCAD. I like listening to music.",3,3,3,2,2.85,Average
+71,"Hi, my name is Rohan. I graduated with an MBA. I learned Python recently. I spend my free time reading books.",3,3,3,2,2.85,Average
+72,"I am Simran. I passed my MA exams. I have basic knowledge of digital marketing. I enjoy traveling on weekends.",3,3,3,2,2.85,Average
+73,"Good afternoon. I am Ajay. I completed my ITI last year. I have basic knowledge of communication. I enjoy cooking.",3,3,3,2,2.85,Average
+74,"Hello, I am Rekha. I did my BBA in 2022. I know how to use Excel. I like playing chess.",3,3,3,2,2.85,Average
+75,"Hi, my name is Manoj. I graduated with an MSc. I learned MS Word recently. I spend my free time singing.",3,3,3,2,2.85,Average
+76,"I am Kiran. I passed my MCom exams. I have basic knowledge of Typing. I enjoy dancing on weekends.",3,3,3,2,2.85,Average
+77,"Good morning. I am Ramesh. I completed my BA last year. I have basic knowledge of Tally. I enjoy playing video games.",3,3,3,2,2.85,Average
+78,"Hello, I am Swati. I did my BSc in 2022. I know how to use basic computer. I like photography.",3,3,3,2,2.85,Average
+79,"Hi, my name is Akash. I graduated with a BCom. I learned HTML recently. I spend my free time painting.",3,3,3,2,2.85,Average
+80,"I am Divya. I passed my BTech exams. I have basic knowledge of accounting. I enjoy playing cricket on weekends.",3,3,3,2,2.85,Average
+81,"I am Sunil. I pass 12th pass. I want job. I play watching movies.",2,3,2,2,2.25,Average
+82,"Myself Aarti. I finish Diploma. Need work. I like listening to music.",2,3,2,2,2.25,Average
+83,"I am Vijay. I complete BCA. Looking for company. I do reading books.",2,3,2,2,2.25,Average
+84,"Myself Naveen. I pass MBA. I want to start work. I travel.",2,3,2,2,2.25,Average
+85,"I am Nisha. I finish MA. I need job here. I cook.",2,3,2,2,2.25,Average
+86,"Myself Prakash. I complete ITI. I searching work. I play chess.",2,3,2,2,2.25,Average
+87,"I am Geeta. I pass BBA. Give me job. I singing.",2,3,2,2,2.25,Average
+88,"Myself Karthik. I finish MSc. I am fresher. I dance.",2,3,2,2,2.25,Average
+89,"I am Seema. I complete MCom. I want a job. I play video games.",2,3,2,2,2.25,Average
+90,"Myself Mohit. I pass BA. I look for job. I doing photography.",2,3,2,2,2.25,Average
+91,"I am Poonam. I finish BSc. I want join you. I painting.",2,3,2,2,2.25,Average
+92,"Myself Sandeep. I complete BCom. I need to earn. I play cricket.",2,3,2,2,2.25,Average
+93,"I am Sarita. I pass BTech. I looking job. I watch movie.",2,3,2,2,2.25,Average
+94,"Myself Alok. I finish 12th pass. I search job. I listen music.",2,3,2,2,2.25,Average
+95,"I am Jyoti. I complete Diploma. I want work. I read book.",2,3,2,2,2.25,Average
+96,"Myself Manish. I pass BCA. I look job. I traveling.",2,3,2,2,2.25,Average
+97,"I am Dinesh. I finish MBA. I need to work. I cooking.",2,3,2,2,2.25,Average
+98,"Myself Preeti. I complete MA. I searching company. I play chess.",2,3,2,2,2.25,Average
+99,"I am Suman. I pass ITI. I want this job. I sing.",2,3,2,2,2.25,Average
+100,"Myself Raj. I finish BBA. I need a job. I dance.",2,3,2,2,2.25,Average
+101,"Hi sir, myself Rahul. I doing MSc and looking for work. I have learn Java from internet. Thanks.",3,4,2,2,2.85,Average
+102,"Hello, myself Priya. I finish MCom and want start career. I knowing data entry well. Thank you.",3,4,2,2,2.85,Average
+103,"Hi sir, myself Amit. I doing BA and looking for work. I have learn AutoCAD from internet. Thanks.",3,4,2,2,2.85,Average
+104,"Hello, myself Sneha. I finish BSc and want start career. I knowing Python well. Thank you.",3,4,2,2,2.85,Average
+105,"Hi sir, myself Vikram. I doing BCom and looking for work. I have learn digital marketing from internet. Thanks.",3,4,2,2,2.85,Average
+106,"Hello, myself Neha. I finish BTech and want start career. I knowing communication well. Thank you.",3,4,2,2,2.85,Average
+107,"Hi sir, myself Karan. I doing 12th pass and looking for work. I have learn Excel from internet. Thanks.",3,4,2,2,2.85,Average
+108,"Hello, myself Sunita. I finish Diploma and want start career. I knowing MS Word well. Thank you.",3,4,2,2,2.85,Average
+109,"Hi sir, myself Anil. I doing BCA and looking for work. I have learn Typing from internet. Thanks.",3,4,2,2,2.85,Average
+110,"Hello, myself Ritu. I finish MBA and want start career. I knowing Tally well. Thank you.",3,4,2,2,2.85,Average
+111,"Hi sir, myself Deepak. I doing MA and looking for work. I have learn basic computer from internet. Thanks.",3,4,2,2,2.85,Average
+112,"Hello, myself Kavita. I finish ITI and want start career. I knowing HTML well. Thank you.",3,4,2,2,2.85,Average
+113,"Hi sir, myself Suresh. I doing BBA and looking for work. I have learn accounting from internet. Thanks.",3,4,2,2,2.85,Average
+114,"Hello, myself Anita. I finish MSc and want start career. I knowing Java well. Thank you.",3,4,2,2,2.85,Average
+115,"Hi sir, myself Vivek. I doing MCom and looking for work. I have learn data entry from internet. Thanks.",3,4,2,2,2.85,Average
+116,"Hello, myself Nidhi. I finish BA and want start career. I knowing AutoCAD well. Thank you.",3,4,2,2,2.85,Average
+117,"Hi sir, myself Tarun. I doing BSc and looking for work. I have learn Python from internet. Thanks.",3,4,2,2,2.85,Average
+118,"Hello, myself Meena. I finish BCom and want start career. I knowing digital marketing well. Thank you.",3,4,2,2,2.85,Average
+119,"Hi sir, myself Sanjay. I doing BTech and looking for work. I have learn communication from internet. Thanks.",3,4,2,2,2.85,Average
+120,"Hello, myself Pooja. I finish 12th pass and want start career. I knowing Excel well. Thank you.",3,4,2,2,2.85,Average
+121,"Hi sir, myself Rohan. I doing Diploma and looking for work. I have learn MS Word from internet. Thanks.",3,4,2,2,2.85,Average
+122,"Hello, myself Simran. I finish BCA and want start career. I knowing Typing well. Thank you.",3,4,2,2,2.85,Average
+123,"Hi sir, myself Ajay. I doing MBA and looking for work. I have learn Tally from internet. Thanks.",3,4,2,2,2.85,Average
+124,"Hello, myself Rekha. I finish MA and want start career. I knowing basic computer well. Thank you.",3,4,2,2,2.85,Average
+125,"Hi sir, myself Manoj. I doing ITI and looking for work. I have learn HTML from internet. Thanks.",3,4,2,2,2.85,Average
