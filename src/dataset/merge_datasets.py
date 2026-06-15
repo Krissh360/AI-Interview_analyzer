@@ -61,12 +61,16 @@ SCORE_WEIGHTS = {
 SOURCE_FILES = [
     ("Poor", "poor_batch_01.csv"),
     ("Poor", "poor_batch_02.csv"),
+    ("Poor", "poor_batch_03.csv"),
     ("Average", "average_batch_01.csv"),
     ("Average", "average_batch_02.csv"),
+    ("Average", "average_batch_03.csv"),
     ("Good", "good_batch_01.csv"),
     ("Good", "good_batch_02.csv"),
+    ("Good", "good_batch_03.csv"),
     ("Excellent", "excellent_batch_01.csv"),
     ("Excellent", "excellent_batch_02.csv"),
+    ("Excellent", "excellent_batch_03.csv"),
 ]
 
 
