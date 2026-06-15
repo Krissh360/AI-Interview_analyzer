@@ -4,7 +4,7 @@ merge_datasets.py
 Merge interview response datasets into a single master dataset.
 
 Source:
-    data/raw/
+    data/raw/introduction/
         - poor_batch_01.csv
         - poor_batch_02.csv
         - average_batch_01.csv
@@ -15,7 +15,7 @@ Source:
         - excellent_batch_02.csv
 
 Output:
-    data/raw/interview_responses.csv
+    data/raw/introduction/interview_responses.csv
 """
 
 from __future__ import annotations
@@ -30,7 +30,7 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
+RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw" / "introduction"
 
 OUTPUT_FILE = RAW_DATA_DIR / "interview_responses.csv"
 

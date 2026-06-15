@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import sys
 
-CSV_PATH = "K:\\AI-interview-analyzer\\data\\raw\\interview_responses.csv"
+CSV_PATH = "K:\\AI-interview-analyzer\\data\\raw\\introduction\\interview_responses.csv"
 SCORE_COLS = ["content_score", "relevance_score", "vocabulary_score", "structure_score", "overall_score"]
 WEIGHTS = {
     "content_score": 0.35,
@@ -35,6 +35,23 @@ def compute_label(score):
     else:
         return "Excellent"
 
+
+def build_expected_label_distribution(labels, total_rows):
+    """Return a balanced expected count per label for the current dataset."""
+    labels = sorted(labels)
+    if not labels:
+        return {}
+
+    base_count = total_rows // len(labels)
+    remainder = total_rows % len(labels)
+
+    expected = {
+        label: base_count + (1 if idx < remainder else 0)
+        for idx, label in enumerate(labels)
+    }
+    return expected
+
+
 def validate():
     # Load Dataset
     section("LOADING DATASET")
@@ -66,7 +83,8 @@ def validate():
 
     # 2. Label Distribution 
     section("2 · LABEL DISTRIBUTION")
-    expected = {"Poor": 25, "Average": 25, "Good": 25, "Excellent": 25}
+    labels = sorted(df["label"].dropna().unique())
+    expected = build_expected_label_distribution(labels, len(df))
     actual = df["label"].value_counts().to_dict()
 
     print(f"  {'Label':<12} {'Expected':>10} {'Actual':>10}  Status")
