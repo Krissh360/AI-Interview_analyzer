@@ -8,29 +8,35 @@ using joblib for later evaluation or serving.
 Usage
 -----
     python -m src.training.train_baseline
-  or
+    python -m src.training.train_baseline --category why-to-hire
     python src/training/train_baseline.py
+    python src/training/train_baseline.py --category why-to-hire
 """
 
+import argparse
 import os
 import sys
 
 import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
+from pathlib import Path
 
 # Allow running the script directly from the project root
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 
 from src.training.preprocess import load_dataset, prepare_data
+from src.dataset.dataset_config import DatasetConfig, DEFAULT_CATEGORY, VALID_CATEGORIES
 
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-DATASET_PATH = "../../data/raw/introduction/interview_responses.csv"
-MODEL_DIR = "../../models/baseline"
-MODEL_PATH = os.path.join(MODEL_DIR, "model.pkl")
-VECTORIZER_PATH = os.path.join(MODEL_DIR, "vectorizer.pkl")
+# Note: These are templates and will be resolved at runtime based on --category
+
+DEFAULT_DATASET_PATH = "../../data/raw/introduction/interview_responses.csv"
+DEFAULT_MODEL_DIR = "../../models/baseline"
+MODEL_PATH_TEMPLATE = "MODEL_PATH"  # Will be set in main()
+VECTORIZER_PATH_TEMPLATE = "VECTORIZER_PATH"  # Will be set in main()
 
 
 # ---------------------------------------------------------------------------
@@ -70,7 +76,7 @@ def build_classifier() -> LogisticRegression:
     )
 
 
-def save_artifacts(model: LogisticRegression, vectorizer: TfidfVectorizer) -> None:
+def save_artifacts(model: LogisticRegression, vectorizer: TfidfVectorizer, model_dir: str) -> None:
     """
     Persist the fitted model and vectorizer to disk.
 
@@ -80,19 +86,23 @@ def save_artifacts(model: LogisticRegression, vectorizer: TfidfVectorizer) -> No
         Trained classifier.
     vectorizer : TfidfVectorizer
         Fitted TF-IDF vectorizer.
+    model_dir : str
+        Directory to save artifacts to.
     """
-    os.makedirs(MODEL_DIR, exist_ok=True)
-    joblib.dump(model, MODEL_PATH)
-    joblib.dump(vectorizer, VECTORIZER_PATH)
-    print(f"[save_artifacts] Model saved      → '{MODEL_PATH}'")
-    print(f"[save_artifacts] Vectorizer saved → '{VECTORIZER_PATH}'")
+    os.makedirs(model_dir, exist_ok=True)
+    model_path = os.path.join(model_dir, "model.pkl")
+    vectorizer_path = os.path.join(model_dir, "vectorizer.pkl")
+    joblib.dump(model, model_path)
+    joblib.dump(vectorizer, vectorizer_path)
+    print(f"[save_artifacts] Model saved      → '{model_path}'")
+    print(f"[save_artifacts] Vectorizer saved → '{vectorizer_path}'")
 
 
 # ---------------------------------------------------------------------------
 # Main training workflow
 # ---------------------------------------------------------------------------
 
-def train() -> None:
+def train(dataset_path: str, model_dir: str) -> None:
     """
     End-to-end training pipeline:
         1. Load dataset
@@ -107,7 +117,7 @@ def train() -> None:
     print("=" * 55)
 
     # 1. Load dataset
-    df = load_dataset(DATASET_PATH)
+    df = load_dataset(dataset_path)
 
     # 2. Train / test split
     X_train, X_test, y_train, y_test = prepare_data(df)
@@ -133,11 +143,33 @@ def train() -> None:
     model.fit(X_train_tfidf, y_train)
 
     # 6. Save artifacts
-    save_artifacts(model, vectorizer)
+    save_artifacts(model, vectorizer, model_dir)
 
     print("\n[train] ✓ Training complete. Artifacts saved to 'models/baseline/'.")
     print("=" * 55)
 
 
+def parse_args() -> argparse.Namespace:
+    """Parse command-line arguments."""
+    parser = argparse.ArgumentParser(
+        description="Train baseline TF-IDF + Logistic Regression classifier."
+    )
+    parser.add_argument(
+        "--category",
+        type=str,
+        default=DEFAULT_CATEGORY,
+        choices=sorted(VALID_CATEGORIES),
+        help=f"Dataset category (default: {DEFAULT_CATEGORY})",
+    )
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
-    train()
+    args = parse_args()
+    config = DatasetConfig(args.category)
+    
+    dataset_path = str(config.output_file)
+    model_dir = "../../models/baseline"
+    
+    print(f"Category: {args.category}\n")
+    train(dataset_path, model_dir)

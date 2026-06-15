@@ -8,10 +8,12 @@ confusion matrix.
 Usage
 -----
     python -m src.training.evaluate_baseline
-  or
+    python -m src.training.evaluate_baseline --category why-to-hire
     python src/training/evaluate_baseline.py
+    python src/training/evaluate_baseline.py --category why-to-hire
 """
 
+import argparse
 import os
 import sys
 
@@ -27,11 +29,12 @@ from sklearn.metrics import (
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 
 from src.training.preprocess import load_dataset, prepare_data
+from src.dataset.dataset_config import DatasetConfig, DEFAULT_CATEGORY, VALID_CATEGORIES
 
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-DATASET_PATH = "../../data/raw/introduction/interview_responses.csv"
+DEFAULT_DATASET_PATH = "../../data/raw/introduction/interview_responses.csv"
 MODEL_PATH = "../../models/baseline/model.pkl"
 VECTORIZER_PATH = "../../models/baseline/vectorizer.pkl"
 
@@ -109,7 +112,7 @@ def _print_confusion_matrix(
 # Main evaluation workflow
 # ---------------------------------------------------------------------------
 
-def evaluate() -> None:
+def evaluate(dataset_path: str) -> None:
     """
     End-to-end evaluation pipeline:
         1. Load saved model and vectorizer
@@ -127,7 +130,7 @@ def evaluate() -> None:
 
     # 2. Load dataset and recreate the exact same test split
     #    (same random_state=42 + stratify ensures identical splits)
-    df = load_dataset(DATASET_PATH)
+    df = load_dataset(dataset_path)
     _, X_test, _, y_test = prepare_data(df)
 
     # 3. Vectorize test set using the *fitted* vocabulary (no re-fitting)
@@ -165,4 +168,19 @@ def evaluate() -> None:
 
 
 if __name__ == "__main__":
-    evaluate()
+    parser = argparse.ArgumentParser(
+        description="Evaluate baseline TF-IDF + Logistic Regression classifier."
+    )
+    parser.add_argument(
+        "--category",
+        type=str,
+        default=DEFAULT_CATEGORY,
+        choices=sorted(VALID_CATEGORIES),
+        help=f"Dataset category (default: {DEFAULT_CATEGORY})",
+    )
+    args = parser.parse_args()
+    config = DatasetConfig(args.category)
+    
+    dataset_path = str(config.output_file)
+    print(f"Category: {args.category}\n")
+    evaluate(dataset_path)

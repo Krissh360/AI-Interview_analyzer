@@ -1,8 +1,15 @@
+import argparse
 import pandas as pd
 import numpy as np
 import sys
 
-CSV_PATH = "K:\\AI-interview-analyzer\\data\\raw\\introduction\\interview_responses.csv"
+from dataset_config import DatasetConfig, DEFAULT_CATEGORY, VALID_CATEGORIES
+
+
+def get_csv_path(category: str) -> str:
+    """Get the interview_responses.csv path for a dataset category."""
+    config = DatasetConfig(category)
+    return str(config.output_file)
 SCORE_COLS = ["content_score", "relevance_score", "vocabulary_score", "structure_score", "overall_score"]
 WEIGHTS = {
     "content_score": 0.35,
@@ -52,16 +59,16 @@ def build_expected_label_distribution(labels, total_rows):
     return expected
 
 
-def validate():
+def validate(csv_path: str):
     # Load Dataset
     section("LOADING DATASET")
     try:
-        df = pd.read_csv(CSV_PATH)
-        print(f"  File      : {CSV_PATH}")
+        df = pd.read_csv(csv_path)
+        print(f"  File      : {csv_path}")
         print(f"  Rows      : {len(df)}")
         print(f"  Columns   : {list(df.columns)}")
     except FileNotFoundError:
-        print(f"  {FAIL} File '{CSV_PATH}' not found. Exiting.")
+        print(f"  {FAIL} File '{csv_path}' not found. Exiting.")
         sys.exit(1)
 
     all_passed = True
@@ -194,5 +201,19 @@ def validate():
 
 
 if __name__ == "__main__":
-    result = validate()
+    parser = argparse.ArgumentParser(
+        description="Validate interview responses dataset."
+    )
+    parser.add_argument(
+        "--category",
+        type=str,
+        default=DEFAULT_CATEGORY,
+        choices=sorted(VALID_CATEGORIES),
+        help=f"Dataset category (default: {DEFAULT_CATEGORY})",
+    )
+    args = parser.parse_args()
+
+    csv_path = get_csv_path(args.category)
+    print(f"Validating category: {args.category}\n")
+    result = validate(csv_path)
     sys.exit(0 if result else 1)

@@ -2,37 +2,31 @@
 merge_datasets.py
 
 Merge interview response datasets into a single master dataset.
+Automatic batch file discovery per dataset category.
+
+Usage
+-----
+    python merge_datasets.py                           # uses 'introduction' (default)
+    python merge_datasets.py --category introduction   # explicit category
+    python merge_datasets.py --category why-to-hire    # another category
 
 Source:
-    data/raw/introduction/
-        - poor_batch_01.csv
-        - poor_batch_02.csv
-        - average_batch_01.csv
-        - average_batch_02.csv
-        - good_batch_01.csv
-        - good_batch_02.csv
-        - excellent_batch_01.csv
-        - excellent_batch_02.csv
+    data/raw/<category>/
+        - *_batch_*.csv (auto-discovered)
 
 Output:
-    data/raw/introduction/interview_responses.csv
+    data/raw/<category>/interview_responses.csv
 """
 
 from __future__ import annotations
 
+import argparse
 import sys
 from pathlib import Path
 
 import pandas as pd
 
-
-# Paths
-
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
-
-RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw" / "introduction"
-
-OUTPUT_FILE = RAW_DATA_DIR / "interview_responses.csv"
+from dataset_config import DatasetConfig, DEFAULT_CATEGORY, VALID_CATEGORIES
 
 
 # Dataset Schema
@@ -54,24 +48,6 @@ SCORE_WEIGHTS = {
     "vocabulary_score": 0.25,
     "structure_score": 0.15,
 }
-
-
-# Source Files
-
-SOURCE_FILES = [
-    ("Poor", "poor_batch_01.csv"),
-    ("Poor", "poor_batch_02.csv"),
-    ("Poor", "poor_batch_03.csv"),
-    ("Average", "average_batch_01.csv"),
-    ("Average", "average_batch_02.csv"),
-    ("Average", "average_batch_03.csv"),
-    ("Good", "good_batch_01.csv"),
-    ("Good", "good_batch_02.csv"),
-    ("Good", "good_batch_03.csv"),
-    ("Excellent", "excellent_batch_01.csv"),
-    ("Excellent", "excellent_batch_02.csv"),
-    ("Excellent", "excellent_batch_03.csv"),
-]
 
 
 # Validation
@@ -150,23 +126,23 @@ def read_dataset(path: Path) -> pd.DataFrame:
 
 # Merge Logic
 
-def merge_datasets() -> pd.DataFrame:
-    """Merge all source datasets."""
+def merge_datasets(config: DatasetConfig) -> pd.DataFrame:
+    """Merge all source datasets for the given category."""
+
+    batch_files = config.get_batch_files()
+
+    if not batch_files:
+        raise FileNotFoundError(
+            f"No batch files found in {config.input_dir}. "
+            f"Expected files matching '*_batch_*.csv'."
+        )
 
     dataframes = []
 
-    for _, filename in SOURCE_FILES:
-
-        file_path = RAW_DATA_DIR / filename
-
+    for file_path in batch_files:
         df = read_dataset(file_path)
-
         dataframes.append(df)
-
-        print(
-            f"✓ Loaded {len(df):>3} rows "
-            f"from {filename}"
-        )
+        print(f"✓ Loaded {len(df):>3} rows from {file_path.name}")
 
     merged_df = pd.concat(
         dataframes,
@@ -182,31 +158,51 @@ def merge_datasets() -> pd.DataFrame:
     return merged_df[COLUMNS]
 
 
-# Main
+# CLI & Main
+
+def parse_args() -> argparse.Namespace:
+    """Parse command-line arguments."""
+    parser = argparse.ArgumentParser(
+        description="Merge interview response batch datasets into a single file."
+    )
+    parser.add_argument(
+        "--category",
+        type=str,
+        default=DEFAULT_CATEGORY,
+        choices=sorted(VALID_CATEGORIES),
+        help=f"Dataset category (default: {DEFAULT_CATEGORY})",
+    )
+    return parser.parse_args()
+
 
 def main() -> int:
+    args = parse_args()
 
     try:
+        config = DatasetConfig(args.category)
+        print(f"Using category: {config.category}")
+        print(f"Input dir:     {config.input_dir}\n")
 
-        merged_df = merge_datasets()
+        merged_df = merge_datasets(config)
 
-        OUTPUT_FILE.parent.mkdir(
+        config.output_file.parent.mkdir(
             parents=True,
             exist_ok=True,
         )
 
-        print(f"Writing to:\n{OUTPUT_FILE.resolve()}")
+        print(f"\nWriting to:\n{config.output_file.resolve()}")
 
-        merged_df.to_csv    (
-            OUTPUT_FILE,
+        merged_df.to_csv(
+            config.output_file,
             index=False,
         )
 
         print("\n" + "=" * 50)
         print("MERGE COMPLETED SUCCESSFULLY")
         print("=" * 50)
+        print(f"Category   : {config.category}")
         print(f"Total rows : {len(merged_df)}")
-        print(f"Output file: {OUTPUT_FILE.name}")
+        print(f"Output file: {config.output_file.name}")
         print(f"ID range   : 1 - {len(merged_df)}")
         print("=" * 50)
 
@@ -217,12 +213,10 @@ def main() -> int:
         ValueError,
         pd.errors.ParserError,
     ) as error:
-
         print(
             f"\nERROR: {error}",
             file=sys.stderr,
         )
-
         return 1
 
 

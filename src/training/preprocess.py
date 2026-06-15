@@ -8,6 +8,8 @@ Handles CSV ingestion, column validation, and train/test splitting.
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
+from ..dataset.dataset_config import DatasetConfig, DEFAULT_CATEGORY, VALID_CATEGORIES
+
 
 # Columns required to exist in the dataset
 REQUIRED_COLUMNS = [
@@ -131,13 +133,29 @@ def prepare_data(
 
 
 if __name__ == "__main__":
-    DATA_PATH = "../../data/raw/introduction/interview_responses.csv"
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description="Preprocess interview responses dataset."
+    )
+    parser.add_argument(
+        "--category",
+        type=str,
+        default=DEFAULT_CATEGORY,
+        choices=sorted(VALID_CATEGORIES),
+        help=f"Dataset category (default: {DEFAULT_CATEGORY})",
+    )
+    args = parser.parse_args()
+
+    config = DatasetConfig(args.category)
+    DATA_PATH = str(config.output_file)
 
     df = load_dataset(DATA_PATH)
 
     X_train, X_test, y_train, y_test = prepare_data(df)
 
     print("\n=== PREPROCESSING SUMMARY ===")
+    print(f"Category: {args.category}")
     print(f"Training samples: {len(X_train)}")
     print(f"Testing samples : {len(X_test)}")
 
