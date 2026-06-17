@@ -1,3 +1,4 @@
+id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
 1,"Over the past four years I have built and scaled backend infrastructure for a high growth fintech startup. I led the migration of
 our monolithic system to microservices on AWS which reduced our mean time to recovery from hours to under fifteen minutes and cut
 infrastructure costs by thirty two percent. I have experience leading a team of eight engineers and working closely with product and

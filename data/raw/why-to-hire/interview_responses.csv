@@ -1,3 +1,4 @@
+id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
 1,"I am hardworking.",1,1,1,1,1.0,Poor
 2,"I will do my best always.",1,1,1,1,1.0,Poor
 3,"I want this job very much.",1,1,1,1,1.0,Poor
@@ -23,7 +24,6 @@
 23,"I like this company very much.",1,1,1,1,1.0,Poor
 24,"Because I need experience.",1,1,1,1,1.0,Poor
 25,"I will always try my best here.",1,1,1,1,1.0,Poor
-id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
 1,"I am punctual and obedient.",1,1,1,1,1.0,Poor
 2,"I am willing to work hard for you.",1,1,1,1,1.0,Poor
 3,"I am fresher but I will learn fast.",1,1,2,1,1.25,Poor
@@ -304,7 +304,6 @@ people.",2,2,2,2,2.0,Average
 college.",2,2,2,2,2.0,Average
 25,"I have recently completed my MBA in HR and done an internship where I supported performance appraisal processes. I am keen to
 contribute to your people function.",2,2,2,2,2.0,Average
-id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
 1,"I have been working as a junior accountant for about a year. I handle day to day bookkeeping and reconciliation tasks and I think your team can benefit from my attention to detail.",2,2,2,2,2.0,Average
 2,"I have a diploma in mechanical engineering and have worked in maintenance of industrial equipment for two years. I understand preventive maintenance schedules.",2,2,2,2,2.0,Average
 3,"I have experience in backend development using Node.js for about one and a half years. I have built APIs and worked with MongoDB in previous projects.",2,3,2,2,2.25,Average
@@ -849,7 +848,6 @@ compliance team.",4,3,3,3,3.35,Good
 25,"I have worked as a data engineer for two years building and maintaining ETL workflows in Apache Airflow and loading data into
 Snowflake. I have also optimized slow running queries significantly. I believe my data infrastructure experience will support your
 growing analytics capability.",4,4,3,3,3.6,Good
-id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
 1,"My three years in talent acquisition have given me experience sourcing candidates across technology and business roles. I have reduced time to hire significantly through structured screening processes and better sourcing channels. I believe my hiring process expertise will help you scale your team efficiently.",4,3,3,3,3.35,Good
 2,"I have a background in electrical engineering with two years working on EV charging infrastructure. I have been involved in installation commissioning and troubleshooting of AC and DC chargers. I think my domain expertise is well aligned with your expansion in sustainable energy products.",4,4,3,3,3.6,Good
 3,"My experience in growth marketing includes running lifecycle campaigns for a D2C brand over two years. I have used tools like CleverTap and MoEngage to segment users and personalize communication. I believe this hands on experience with retention marketing will complement your team.",4,4,3,3,3.6,Good
@@ -1701,7 +1699,6 @@ footprint. I developed a science based target setting framework for a manufactur
 roadmap with the Paris Agreement. I have also managed sustainability reporting for listed companies under GRI and TCFD frameworks. I
 believe my technical expertise in climate measurement and my ability to engage internal stakeholders make me a strong candidate for
 your sustainability leadership role.",5,5,4,4,4.6,Excellent
-id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
 1,"Over the past five years I have worked as a principal engineer at two growth stage companies building distributed systems that process billions of events per day. I redesigned a message processing pipeline that reduced latency from eight hundred milliseconds to under fifty milliseconds while handling three times the throughput. I have also written technical design documents adopted as team standards and mentored four engineers who have since been promoted. I believe my depth in distributed systems and my investment in team capability are what your platform team needs at this stage.",5,5,4,5,4.75,Excellent
 2,"My seven years in commercial real estate have included asset management transaction advisory and development coordination across office retail and industrial segments. I have transacted on properties totaling over twelve hundred crore in value and have managed a portfolio of seven commercial assets. I believe my deal experience portfolio management background and developer relationships make me a well rounded addition to your real estate investments team.",5,5,4,4,4.6,Excellent
 3,"I have spent six years in consumer research and insights at a global FMCG company. I have led research programs for ten major product launches and built the company's first real time consumer panel for rapid concept testing. My insights work contributed to a product reformulation that recovered forty crore in annual revenue that was at risk from competitive pressure. I believe my ability to generate business relevant consumer insights quickly and cost effectively is a capability your marketing team will value.",5,5,4,4,4.6,Excellent
