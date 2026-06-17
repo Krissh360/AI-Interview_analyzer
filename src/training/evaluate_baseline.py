@@ -17,8 +17,10 @@ import argparse
 import os
 import sys
 
+from anyio import Path
 import joblib
 import numpy as np
+from pathlib import Path
 from sklearn.metrics import (
     accuracy_score,
     classification_report,
@@ -34,9 +36,14 @@ from src.dataset.dataset_config import DatasetConfig, DEFAULT_CATEGORY, VALID_CA
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-DEFAULT_DATASET_PATH = "../../data/raw/introduction/interview_responses.csv"
-MODEL_PATH = "../../models/baseline/model.pkl"
-VECTORIZER_PATH = "../../models/baseline/vectorizer.pkl"
+
+
+BASE_DIR = Path(__file__).resolve().parents[2]
+DEFAULT_DATASET_PATH = (
+    BASE_DIR / "data" / "raw" / "introduction" / "interview_responses.csv"
+)
+MODEL_PATH = BASE_DIR / "models" / "baseline" / "model.pkl"
+VECTORIZER_PATH = BASE_DIR / "models" / "baseline" / "vectorizer.pkl"
 
 # Display order for consistent confusion matrix readout
 LABEL_ORDER = ["Poor", "Average", "Good", "Excellent"]

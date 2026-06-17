@@ -33,8 +33,11 @@ from src.dataset.dataset_config import DatasetConfig, DEFAULT_CATEGORY, VALID_CA
 # ---------------------------------------------------------------------------
 # Note: These are templates and will be resolved at runtime based on --category
 
-DEFAULT_DATASET_PATH = "../../data/raw/introduction/interview_responses.csv"
-DEFAULT_MODEL_DIR = "../../models/baseline"
+BASE_DIR = Path(__file__).resolve().parents[2]
+DEFAULT_MODEL_DIR = BASE_DIR / "models" / "baseline"
+DEFAULT_DATASET_PATH = (
+    BASE_DIR / "data" / "raw" / "introduction" / "interview_responses.csv"
+)
 MODEL_PATH_TEMPLATE = "MODEL_PATH"  # Will be set in main()
 VECTORIZER_PATH_TEMPLATE = "VECTORIZER_PATH"  # Will be set in main()
 
