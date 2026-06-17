@@ -5,10 +5,15 @@ Data loading and preprocessing utilities for the AI Interview Analyzer.
 Handles CSV ingestion, column validation, and train/test splitting.
 """
 
+import os
+import sys
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-from ..dataset.dataset_config import DatasetConfig, DEFAULT_CATEGORY, VALID_CATEGORIES
+# Allow running the script directly from the project root
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
+from src.dataset.dataset_config import DatasetConfig, DEFAULT_CATEGORY, VALID_CATEGORIES
 
 
 # Columns required to exist in the dataset
