@@ -1,469 +1,226 @@
 id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
-1,"I have been working as a junior accountant for about a year. I handle day to day bookkeeping and reconciliation tasks and I think your team can benefit from my attention to detail.",2,2,2,2,2.0,Average
-2,"I have a diploma in mechanical engineering and have worked in maintenance of industrial equipment for two years. I understand preventive maintenance schedules.",2,2,2,2,2.0,Average
-3,"I have experience in backend development using Node.js for about one and a half years. I have built APIs and worked with MongoDB in previous projects.",2,3,2,2,2.25,Average
-4,"I come from a civil engineering background and have done a project on structural analysis using STAAD Pro software. I want to apply this knowledge in the field.",2,2,2,2,2.0,Average
-5,"I have worked in business development for three years in a small IT company. I have experience generating leads and preparing proposals for clients.",2,3,2,2,2.25,Average
-6,"I am transitioning from teaching to corporate training. I have five years of teaching experience and want to apply my facilitation skills in your L and D team.",2,2,2,2,2.0,Average
-7,"I know Python and have done some data cleaning and visualization projects. I am looking to start my data analytics career with a company like yours.",2,2,2,2,2.0,Average
-8,"I have done internship in supply chain management. I learned about procurement and vendor management. I want to grow in this field.",2,2,2,2,2.0,Average
-9,"I have experience in front end development using React for about a year. I have worked on one production application and several college projects.",2,2,2,2,2.0,Average
-10,"I have done my BBA and worked in a small startup for six months doing market research and competitor analysis. I am enthusiastic about marketing.",2,2,2,2,2.0,Average
-11,"I have theoretical knowledge of machine learning algorithms from my college curriculum. I have done two projects on classification and regression problems.",2,2,2,2,2.0,Average
-12,"I have three years of experience in talent acquisition. I have managed end to end recruitment for technology and non technology roles in my previous company.",2,3,2,2,2.25,Average
-13,"I have completed my BE in ECE and done my internship at a telecom company where I worked on network configuration. I want to explore this field further.",2,2,2,2,2.0,Average
-14,"I have some background in quality control from my internship at a manufacturing plant. I am familiar with ISO standards and inspection procedures.",2,2,2,2,2.0,Average
-15,"I have been doing part time content work for social media clients while finishing my degree. I understand what kind of content drives engagement.",2,2,2,2,2.0,Average
-16,"I have done projects in embedded systems and IoT during my engineering. I am looking for opportunities to work on real products in an R and D environment.",2,2,2,2,2.0,Average
-17,"I have three years of experience in logistics coordination. I handle shipment tracking vendor communication and documentation on a daily basis.",2,3,2,2,2.25,Average
-18,"I have done my MCA and have worked on one live project using Django. I want to grow as a full stack developer in your organization.",2,2,2,2,2.0,Average
-19,"I have experience in financial modeling and have done valuation projects as part of my CFA preparation. I believe this skill can help your research team.",2,2,3,2,2.25,Average
-20,"I have basic knowledge of product management concepts from an online course. I want to transition from my current engineering role to product development.",2,2,2,2,2.0,Average
-21,"I am a marketing graduate and have done live campaigns for two college fests. I understand consumer behavior and campaign execution at a basic level.",2,2,2,2,2.0,Average
-22,"I have worked as a freelancer in web development for one year. I know WordPress and basic PHP and have delivered five projects to clients.",2,2,2,2,2.0,Average
-23,"I have completed my nursing degree and want to shift to the healthcare administration side. I understand hospital workflows and patient documentation.",2,2,2,2,2.0,Average
-24,"I have some experience in event coordination from my previous company. I managed vendor bookings and logistics for internal corporate events.",2,2,2,2,2.0,Average
-25,"I have been learning data science through an online bootcamp and have done three projects on my own. I am now looking for an entry level position.",2,2,2,2,2.0,Average
-26,"I have worked in a BPO for two years handling inbound customer queries. I am now looking for a more specialized role in your customer success team.",2,2,2,2,2.0,Average
-27,"I have completed my BA in economics and have knowledge of macroeconomic concepts. I want to apply this knowledge in research or policy analysis work.",2,2,2,2,2.0,Average
-28,"I have one year of experience as a junior developer working mainly in testing and bug fixing. I want to move into full development with your team.",2,2,2,2,2.0,Average
-29,"I have done multiple internships in different areas including HR and operations. I am a generalist who can add value across departments.",2,2,2,2,2.0,Average
-30,"I have a background in civil engineering with experience in AutoCAD and project drawings. I have done site visits as part of my internship.",2,2,2,2,2.0,Average
-31,"I have done a UX design course and created wireframes for three mobile apps as portfolio projects. I am now looking for a junior designer role.",2,2,2,2,2.0,Average
-32,"I have over two years of experience in insurance sales. I know how to identify client needs and close policies. I want to move to a corporate environment.",2,2,2,2,2.0,Average
-33,"I have basic knowledge of cloud computing through my AWS Cloud Practitioner certification. I want to work in cloud infrastructure with your team.",2,2,3,2,2.25,Average
-34,"I have done B.Sc in statistics and have knowledge of R programming. I have done a dissertation on regression analysis and am interested in analytics.",2,2,2,2,2.0,Average
-35,"I have been working as a project coordinator for one and a half years. I help managers track timelines and prepare status reports for stakeholders.",2,2,2,2,2.0,Average
-36,"I have experience in restaurant management for three years. I managed a team of twenty staff and handled daily operations and inventory.",2,2,2,2,2.0,Average
-37,"I have done an advanced Excel certification and have worked with pivot tables and financial dashboards. I want to contribute to your reporting function.",2,2,2,2,2.0,Average
-38,"I have done two years in automotive engineering and have worked on vehicle assembly in a plant. I want to explore R and D opportunities in this sector.",2,2,2,2,2.0,Average
-39,"I have completed my B.Ed and taught mathematics in a school for four years. I now want to move into ed-tech content development.",2,2,2,2,2.0,Average
-40,"I have experience in Android app development. I have built two personal apps and one app for a small client. I want to grow as a mobile developer.",2,2,2,2,2.0,Average
-41,"I have some exposure to performance marketing from my internship. I ran Google Ads campaigns and tracked conversions using analytics tools.",2,2,2,2,2.0,Average
-42,"I have completed my library science degree. I am now exploring a transition into knowledge management or information architecture roles.",2,2,2,2,2.0,Average
-43,"I have three years of experience in printing and packaging industry. I know production processes and quality standards. I want to explore corporate roles.",2,2,2,2,2.0,Average
-44,"I have worked as a research assistant during my post graduation. I helped in data collection analysis and writing reports for my professor.",2,2,2,2,2.0,Average
-45,"I have done a UI development internship and have knowledge of CSS frameworks like Bootstrap. I have designed responsive web pages for practice.",2,2,2,2,2.0,Average
-46,"I have completed my engineering in IT and have some experience in network administration. I am familiar with TCP/IP and basic firewall configurations.",2,2,2,2,2.0,Average
-47,"I have done two years in retail banking as a relationship manager. I understand loan products and customer account management fairly well.",2,2,2,2,2.0,Average
-48,"I have completed my MBA in finance and know how to read financial statements and do basic valuations. I want to start my career in your investment team.",2,2,2,2,2.0,Average
-49,"I have worked as a software tester for one year. I do regression testing and write test cases. I want to grow in the quality assurance domain.",2,2,2,2,2.0,Average
-50,"I have some knowledge of machine learning and have done the Coursera ML course by Andrew Ng. I want to apply this in your data science team.",2,2,2,2,2.0,Average
-51,"I have done my graduation in commerce and worked for a year in an audit firm. I have exposure to statutory audits and tax filings.",2,2,2,2,2.0,Average
-52,"I have a background in chemical engineering and have done an internship at a pharmaceutical company. I understand GMP and lab documentation.",2,2,2,2,2.0,Average
-53,"I have experience in cold calling and lead generation for two years. I have consistently met monthly targets in my previous company.",2,3,2,2,2.25,Average
-54,"I have done Photoshop and Illustrator courses and have designed marketing creatives for a local business. I want to grow as a creative designer.",2,2,2,2,2.0,Average
-55,"I have completed my degree in information systems and done a capstone project on database design. I want to work as a database administrator.",2,2,2,2,2.0,Average
-56,"I have three years of experience in the travel industry as a ticketing and tour executive. I am now looking to move into corporate travel management.",2,2,2,2,2.0,Average
-57,"I have worked as a junior copywriter for eighteen months writing product descriptions and email campaigns. I want to expand into brand storytelling.",2,2,2,3,2.2,Average
-58,"I have a BSc in physics and have done programming courses on the side. I want to transition into software engineering and have been building small projects.",2,2,2,2,2.0,Average
-59,"I have experience in compliance and regulatory reporting from my two years at a financial institution. I know RBI and SEBI guidelines at a working level.",2,2,2,2,2.0,Average
-60,"I have done my post graduation in mass communication and have done journalism for two years. I want to shift into PR and corporate communications.",2,2,2,2,2.0,Average
-61,"I have worked in a textile company handling export documentation. I understand LC documentation Incoterms and customs procedures.",2,2,2,2,2.0,Average
-62,"I have done a six month course in cybersecurity and know basics of ethical hacking and network security. I am looking for an entry level security role.",2,2,2,2,2.0,Average
-63,"I have completed my engineering and have some experience working with PLCs in a factory setting during my internship.",2,2,2,2,2.0,Average
-64,"I have two years of experience managing e-commerce listings and coordinating with warehousing teams. I want to grow in digital operations.",2,2,2,2,2.0,Average
-65,"I have done a project management course and have been coordinating small internal projects at my current company for six months.",2,2,2,2,2.0,Average
-66,"I have a background in biotechnology and have done lab work in PCR and cell culture techniques. I want to work in the research division.",2,2,2,2,2.0,Average
-67,"I have worked in admin and office management for three years. I handle vendor coordination scheduling and facility management in my current role.",2,2,2,2,2.0,Average
-68,"I have experience in SAP data entry and report generation in my previous company. I have used SAP MM module for about one and a half years.",2,2,2,2,2.0,Average
-69,"I have done my diploma in fashion design and have interned at a garment export house. I want to explore roles in product development or buying.",2,2,2,2,2.0,Average
-70,"I have four years of experience in teaching engineering subjects. I want to move into corporate technical training and think my teaching background is relevant.",2,2,2,2,2.0,Average
-71,"I have done three college projects in IoT including one on smart irrigation. I want to start working in the embedded or IoT space.",2,2,2,2,2.0,Average
-72,"I have worked as a research analyst at a brokerage for one year. I write equity reports and track sector trends for our fund managers.",2,2,2,2,2.0,Average
-73,"I have done my engineering in information technology and have worked on web scraping and automation scripts using Python as part of internship.",2,2,2,2,2.0,Average
-74,"I have some experience in people analytics and have created HR dashboards using Excel. I want to deepen this in a data focused HR role.",2,2,2,2,2.0,Average
-75,"I have done three years in B2B sales for a software company. I know how to manage a pipeline and close enterprise deals over longer sales cycles.",2,3,2,2,2.25,Average
-76,"I have completed my MSc in chemistry and have two years of experience in quality control at a paint company. I am looking for growth opportunities.",2,2,2,2,2.0,Average
-77,"I have experience in operations research from a logistics startup. I built route optimization models in Python during my six month internship.",2,2,2,2,2.0,Average
-78,"I am a civil engineer with field experience in road construction project management. I have supervised teams and coordinated with contractors.",2,2,2,2,2.0,Average
-79,"I have worked as a product support engineer for a year and half. I handle client escalations and coordinate bug fixes with the engineering team.",2,2,2,2,2.0,Average
-80,"I have done my MBA and worked in consulting for eight months where I helped make PowerPoint decks and support client deliverable preparation.",2,2,2,2,2.0,Average
-81,"I have done a blockchain fundamentals course and built a small DApp as a side project. I want to work on smart contracts in your tech team.",2,2,2,2,2.0,Average
-82,"I have experience handling payroll for a mid-size company. I know the statutory compliance requirements and PF ESI calculations.",2,2,2,2,2.0,Average
-83,"I have done data analysis using Python Pandas and created reports for internal stakeholders. I have also presented findings in team meetings.",2,3,2,2,2.25,Average
-84,"I have electrical engineering background and have done industrial automation projects using SCADA systems during my internship.",2,2,2,2,2.0,Average
-85,"I have worked in the healthcare sector in medical coding for two years. I know ICD 10 coding and insurance claim processing.",2,2,2,2,2.0,Average
-86,"I have done my degree in environmental science and interned with an NGO on water quality monitoring. I want to work in CSR or sustainability.",2,2,2,2,2.0,Average
-87,"I have some experience building mobile apps with Flutter. I built a personal expense tracker app that I published to the Play Store.",2,2,2,2,2.0,Average
-88,"I have a background in food science and have worked in quality assurance at a packaged food company for two years. I know FSSAI requirements.",2,2,2,2,2.0,Average
-89,"I have done three years in procurement and vendor management. I negotiate contracts and track purchase orders across multiple vendors.",2,2,2,2,2.0,Average
-90,"I have a master's degree in public policy and done research on urban housing. I want to work in development sector or government advisory roles.",2,2,2,2,2.0,Average
-91,"I have completed a UX research internship where I conducted user interviews and synthesized findings for the product team. I want to grow in this space.",2,2,2,2,2.0,Average
-92,"I have done my law degree and worked for two years in contract law at a firm. I want to move into corporate legal or compliance functions.",2,2,2,2,2.0,Average
-93,"I have experience in logistics as a dispatch coordinator for two years. I track orders and communicate with transporters and warehouse teams.",2,2,2,2,2.0,Average
-94,"I have done projects on NLP in my college. I built a sentiment analysis model using Python and published my code on GitHub.",2,2,2,2,2.0,Average
-95,"I have a background in agricultural science and have worked in agri-input marketing for a year. I want to explore roles in the agricultural supply chain.",2,2,2,2,2.0,Average
-96,"I have one year of experience as a junior data engineer. I have built basic ETL pipelines using Python and load data into Redshift.",2,2,2,2,2.0,Average
-97,"I have done my degree in statistics and worked part time in survey data processing. I know SPSS and basic R for data analysis.",2,2,2,2,2.0,Average
-98,"I have experience in print media as a subeditor for three years. I want to transition to digital content editing or brand journalism roles.",2,2,2,2,2.0,Average
-99,"I have worked as a junior analyst in credit risk for two years. I do credit assessments and prepare appraisal notes for the sanctioning team.",2,2,2,2,2.0,Average
-100,"I have completed my PGDM and done an internship in product management where I wrote user stories and coordinated with development teams.",2,2,2,2,2.0,Average
-101,"I have around 4 years of experience as an Operations Executive, where I mainly handled tasks related to machine learning basics. I am comfortable working
-in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is
-still a lot for me to learn.",2,3,2,3,2.4,Average
-102,"I have completed my Civil Engineering degree and I have basic knowledge of Excel. I am an obedient person and I am always ready to learn new things. I
-believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",2,3,2,3,2.4,Average
-103,"I have completed my Marketing Management degree and I have basic knowledge of Photoshop. I am a polite person and I am always ready to learn new things. I
-believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",2,2,3,2,2.25,Average
-104,"I am switching my career from mechanical design intern to Product Manager and I have started learning R programming on my own over the last few months. I
-know it will take some time for me to catch up, but I am adjustable and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,3,3,3,3.0,Average
-105,"During my internship I got a chance to work with QGIS and handled a few small tasks related to site execution and planning. I have a Civil Engineering
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",3,3,3,2,2.85,Average
-106,"I have completed my Computer Science degree and I have basic knowledge of Salesforce. I am a reliable person and I am always ready to learn new things. I
-believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",3,2,2,3,2.5,Average
-107,"I am switching my career from civil site supervisor to Product Manager and I have started learning Google Analytics on my own over the last few months. I
-know it will take some time for me to catch up, but I am cooperative and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,2,3,3,2.4,Average
-108,"I have around 5 years of experience as a Network Administrator, where I mainly handled tasks related to PowerPoint. I am comfortable working in a team and
-I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for
-me to learn.",3,2,2,2,2.35,Average
-109,"I have completed my Business Administration degree and I have basic knowledge of HTML and CSS. I am a flexible person and I am always ready to learn new
-things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical
-experience yet.",2,3,3,3,2.65,Average
-110,"I am switching my career from retail store manager to Network Administrator and I have started learning SolidWorks on my own over the last few months. I
-know it will take some time for me to catch up, but I am well behaved and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,3,2,2,2.25,Average
-111,"I have around 3 years of experience as an Accounts Executive, where I mainly handled tasks related to MATLAB. I am comfortable working in a team and I try
-to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",3,3,2,3,2.75,Average
-112,"I have around 5 years of experience as a QA Engineer, where I mainly handled tasks related to SQL. I am comfortable working in a team and I try to meet my
-deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,2,3,3,2.4,Average
-113,"I have around 5 years of experience as a QA Engineer, where I mainly handled tasks related to C++. I am comfortable working in a team and I try to meet my
-deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,2,2,3,2.15,Average
-114,"I am switching my career from school teacher to Accounts Executive and I have started learning AWS on my own over the last few months. I know it will take
-some time for me to catch up, but I am loyal and willing to put in the extra effort needed to pick up the required skills for this job.",2,2,3,3,2.4,Average
-115,"During my internship I got a chance to work with Tableau and handled a few small tasks related to supply chain operations. I have a Business Administration
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",3,3,3,3,3.0,Average
-116,"I have around 4 years of experience as a Customer Support Specialist, where I mainly handled tasks related to Python. I am comfortable working in a team
-and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot
-for me to learn.",2,2,2,3,2.15,Average
-117,"During my internship I got a chance to work with Power BI and handled a few small tasks related to quality assurance. I have an Electrical Engineering
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",2,3,2,2,2.25,Average
-118,"During my internship I got a chance to work with PowerPoint and handled a few small tasks related to quality assurance. I have a Data Science background
-and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in
-this field.",2,2,2,3,2.15,Average
-119,"I have completed my Civil Engineering degree and I have basic knowledge of Power BI. I am a disciplined person and I am always ready to learn new things. I
-believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",3,2,2,3,2.5,Average
-120,"I am switching my career from mechanical design intern to HR Coordinator and I have started learning Photoshop on my own over the last few months. I know
-it will take some time for me to catch up, but I am well behaved and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,2,2,2,2.35,Average
-121,"I have around 2.5 years of experience as a Supply Chain Analyst, where I mainly handled tasks related to MATLAB. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",3,3,3,3,3.0,Average
-122,"I have around 2.5 years of experience as a Digital Marketing Specialist, where I mainly handled tasks related to Node.js. I am comfortable working in a
-team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a
-lot for me to learn.",3,2,3,3,2.75,Average
-123,"I have around 4.5 years of experience as a Marketing Executive, where I mainly handled tasks related to Tableau. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",3,2,2,3,2.5,Average
-124,"I have around 2 years of experience as an Operations Executive, where I mainly handled tasks related to Tableau. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",2,2,2,2,2.0,Average
-125,"I am switching my career from telecom technician to Supply Chain Analyst and I have started learning machine learning basics on my own over the last few
-months. I know it will take some time for me to catch up, but I am humble and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,2,2,2,2.0,Average
-126,"I have around 2.5 years of experience as a Business Analyst, where I mainly handled tasks related to Power BI. I am comfortable working in a team and I try
-to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",3,2,3,3,2.75,Average
-127,"I have around 1 years of experience as a HR Coordinator, where I mainly handled tasks related to QGIS. I am comfortable working in a team and I try to meet
-my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,2,2,2,2.0,Average
-128,"During my internship I got a chance to work with Java and handled a few small tasks related to machine learning workflows. I have a Computer Science
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",2,2,3,3,2.4,Average
-129,"I have around 4.5 years of experience as a Financial Analyst, where I mainly handled tasks related to Zoho CRM. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",3,2,3,3,2.75,Average
-130,"I am switching my career from school teacher to HR Coordinator and I have started learning PowerPoint on my own over the last few months. I know it will
-take some time for me to catch up, but I am punctual and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,2,2,3,2.15,Average
-131,"I am switching my career from civil site supervisor to Operations Executive and I have started learning Java on my own over the last few months. I know it
-will take some time for me to catch up, but I am energetic and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,2,3,2,2.6,Average
-132,"I have around 5 years of experience as a Marketing Executive, where I mainly handled tasks related to SQL. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",3,2,2,3,2.5,Average
-133,"I am switching my career from bank teller to Data Analyst and I have started learning AutoCAD on my own over the last few months. I know it will take some
-time for me to catch up, but I am active and willing to put in the extra effort needed to pick up the required skills for this job.",2,2,3,2,2.25,Average
-134,"During my internship I got a chance to work with Node.js and handled a few small tasks related to structural design. I have an Information Technology
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",2,3,2,3,2.4,Average
-135,"I have completed my Electrical Engineering degree and I have basic knowledge of machine learning basics. I am a dedicated person and I am always ready to
-learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much
-practical experience yet.",3,3,2,2,2.6,Average
-136,"During my internship I got a chance to work with SAP and handled a few small tasks related to quality assurance. I have a Data Science background and I get
-along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this
-field.",3,2,3,3,2.75,Average
-137,"I have around 2.5 years of experience as a Network Administrator, where I mainly handled tasks related to R programming. I am comfortable working in a team
-and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot
-for me to learn.",2,2,2,2,2.0,Average
-138,"I have completed my Information Technology degree and I have basic knowledge of Zoho CRM. I am a decent person and I am always ready to learn new things. I
-believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",2,3,2,2,2.25,Average
-139,"During my internship I got a chance to work with Tableau and handled a few small tasks related to data analysis. I have a Civil Engineering background and
-I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this
-field.",2,2,3,2,2.25,Average
-140,"During my internship I got a chance to work with SolidWorks and handled a few small tasks related to data analysis. I have a Commerce background and I get
-along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this
-field.",3,3,3,3,3.0,Average
-141,"During my internship I got a chance to work with MATLAB and handled a few small tasks related to site execution and planning. I have a Data Science
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",2,2,2,2,2.0,Average
-142,"I am switching my career from school teacher to QA Engineer and I have started learning Node.js on my own over the last few months. I know it will take
-some time for me to catch up, but I am polite and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,3,3,3.0,Average
-143,"I have around 1 years of experience as a Digital Marketing Specialist, where I mainly handled tasks related to Photoshop. I am comfortable working in a
-team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a
-lot for me to learn.",2,2,2,2,2.0,Average
-144,"During my internship I got a chance to work with HubSpot and handled a few small tasks related to structural design. I have a Marketing Management
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",2,2,3,3,2.4,Average
-145,"I am switching my career from accountant to QA Engineer and I have started learning HTML and CSS on my own over the last few months. I know it will take
-some time for me to catch up, but I am punctual and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,2,3,2.75,Average
-146,"During my internship I got a chance to work with Power Automate and handled a few small tasks related to data analysis. I have an Electronics and
-Communication background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am
-genuinely interested in this field.",3,2,2,3,2.5,Average
-147,"I have completed my Civil Engineering degree and I have basic knowledge of machine learning basics. I am an obedient person and I am always ready to learn
-new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical
-experience yet.",3,3,3,3,3.0,Average
-148,"I have around 3 years of experience as a Marketing Executive, where I mainly handled tasks related to QGIS. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",3,3,2,2,2.6,Average
-149,"I have around 2.5 years of experience as a Civil Site Engineer, where I mainly handled tasks related to Google Analytics. I am comfortable working in a
-team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a
-lot for me to learn.",2,2,2,2,2.0,Average
-150,"I am switching my career from bank teller to Data Analyst and I have started learning MATLAB on my own over the last few months. I know it will take some
-time for me to catch up, but I am energetic and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,3,2,2.85,Average
-151,"I have around 1 years of experience as a Customer Support Specialist, where I mainly handled tasks related to SQL. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",3,3,2,2,2.6,Average
-152,"During my internship I got a chance to work with Power Automate and handled a few small tasks related to site execution and planning. I have a Marketing
-Management background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am
-genuinely interested in this field.",3,3,2,3,2.75,Average
-153,"I have completed my Civil Engineering degree and I have basic knowledge of R programming. I am a cooperative person and I am always ready to learn new
-things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical
-experience yet.",3,2,2,3,2.5,Average
-154,"I have completed my Data Science degree and I have basic knowledge of Google Analytics. I am an obedient person and I am always ready to learn new things.
-I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",3,2,2,3,2.5,Average
-155,"I am switching my career from retail store manager to Network Administrator and I have started learning HTML and CSS on my own over the last few months. I
-know it will take some time for me to catch up, but I am humble and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,3,2,3,2.4,Average
-156,"I am switching my career from government clerk to Mechanical Design Engineer and I have started learning MATLAB on my own over the last few months. I know
-it will take some time for me to catch up, but I am disciplined and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,3,2,2,2.6,Average
-157,"I have around 5 years of experience as a Marketing Executive, where I mainly handled tasks related to SolidWorks. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",2,2,3,3,2.4,Average
-158,"I have around 2.5 years of experience as an Accounts Executive, where I mainly handled tasks related to Photoshop. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",2,2,3,3,2.4,Average
-159,"I am switching my career from school teacher to Digital Marketing Specialist and I have started learning SQL on my own over the last few months. I know it
-will take some time for me to catch up, but I am dedicated and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,3,3,2,2.5,Average
-160,"I have around 1 years of experience as a Sales Executive, where I mainly handled tasks related to Zoho CRM. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,3,3,2,2.5,Average
-161,"I am switching my career from school teacher to Digital Marketing Specialist and I have started learning MATLAB on my own over the last few months. I know
-it will take some time for me to catch up, but I am diligent and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,3,3,3,2.65,Average
-162,"I have completed my Commerce degree and I have basic knowledge of Salesforce. I am a calm person and I am always ready to learn new things. I believe I can
-adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",2,3,3,3,2.65,Average
-163,"I am switching my career from government clerk to Data Analyst and I have started learning Tableau on my own over the last few months. I know it will take
-some time for me to catch up, but I am respectful and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,3,2,2,2.25,Average
-164,"I have around 2.5 years of experience as a Financial Analyst, where I mainly handled tasks related to C++. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",3,3,2,2,2.6,Average
-165,"I am switching my career from school teacher to QA Engineer and I have started learning QGIS on my own over the last few months. I know it will take some
-time for me to catch up, but I am punctual and willing to put in the extra effort needed to pick up the required skills for this job.",2,3,2,3,2.4,Average
-166,"During my internship I got a chance to work with JIRA and handled a few small tasks related to machine learning workflows. I have a Computer Science
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",3,3,2,2,2.6,Average
-167,"I am switching my career from mechanical design intern to Marketing Executive and I have started learning C++ on my own over the last few months. I know it
-will take some time for me to catch up, but I am disciplined and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,3,3,3,3.0,Average
-168,"I have completed my Electronics and Communication degree and I have basic knowledge of PowerPoint. I am a respectful person and I am always ready to learn
-new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical
-experience yet.",3,2,2,2,2.35,Average
-169,"I have around 3 years of experience as a Customer Support Specialist, where I mainly handled tasks related to Power Automate. I am comfortable working in a
-team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a
-lot for me to learn.",2,3,3,3,2.65,Average
-170,"I am switching my career from mechanical design intern to Digital Marketing Specialist and I have started learning JIRA on my own over the last few months.
-I know it will take some time for me to catch up, but I am active and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,2,2,2,2.35,Average
-171,"During my internship I got a chance to work with Tableau and handled a few small tasks related to machine learning workflows. I have a Marketing Management
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",3,2,3,2,2.6,Average
-172,"During my internship I got a chance to work with React and handled a few small tasks related to financial reporting. I have an Electrical Engineering
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",3,2,2,2,2.35,Average
-173,"I have around 4.5 years of experience as a HR Coordinator, where I mainly handled tasks related to Node.js. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",3,2,3,2,2.6,Average
-174,"I am switching my career from government clerk to Accounts Executive and I have started learning Salesforce on my own over the last few months. I know it
-will take some time for me to catch up, but I am responsible and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,2,3,2,2.6,Average
-175,"I have around 3 years of experience as a Civil Site Engineer, where I mainly handled tasks related to AWS. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,3,3,2,2.5,Average
-176,"During my internship I got a chance to work with Power BI and handled a few small tasks related to customer relationship management. I have a Marketing
-Management background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am
-genuinely interested in this field.",3,2,2,3,2.5,Average
-177,"During my internship I got a chance to work with Java and handled a few small tasks related to quality assurance. I have a Business Administration
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",3,2,2,2,2.35,Average
-178,"I am switching my career from retail store manager to Accounts Executive and I have started learning Java on my own over the last few months. I know it
-will take some time for me to catch up, but I am adjustable and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,3,3,3,2.65,Average
-179,"During my internship I got a chance to work with R programming and handled a few small tasks related to data analysis. I have a Business Administration
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",3,2,3,3,2.75,Average
-180,"I am switching my career from accountant to Digital Marketing Specialist and I have started learning Python on my own over the last few months. I know it
-will take some time for me to catch up, but I am punctual and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,3,3,2,2.85,Average
-181,"During my internship I got a chance to work with HTML and CSS and handled a few small tasks related to data analysis. I have an Electronics and
-Communication background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am
-genuinely interested in this field.",2,3,3,3,2.65,Average
-182,"I am switching my career from civil site supervisor to Civil Site Engineer and I have started learning HTML and CSS on my own over the last few months. I
-know it will take some time for me to catch up, but I am humble and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,2,2,3,2.15,Average
-183,"I have completed my Commerce degree and I have basic knowledge of SAP. I am a loyal person and I am always ready to learn new things. I believe I can
-adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",3,2,2,3,2.5,Average
-184,"I have around 5 years of experience as an Accounts Executive, where I mainly handled tasks related to JIRA. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,3,3,3,2.65,Average
-185,"I have completed my Information Technology degree and I have basic knowledge of Power BI. I am a decent person and I am always ready to learn new things. I
-believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",3,3,2,2,2.6,Average
-186,"I have around 3 years of experience as a Product Manager, where I mainly handled tasks related to Excel. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,3,2,2,2.25,Average
-187,"I have completed my Electronics and Communication degree and I have basic knowledge of QGIS. I am an energetic person and I am always ready to learn new
-things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical
-experience yet.",2,2,3,2,2.25,Average
-188,"I have around 2.5 years of experience as a Data Analyst, where I mainly handled tasks related to HubSpot. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",3,3,2,2,2.6,Average
-189,"I have completed my Business Administration degree and I have basic knowledge of Salesforce. I am a polite person and I am always ready to learn new
-things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical
-experience yet.",3,2,2,3,2.5,Average
-190,"I am switching my career from mechanical design intern to Supply Chain Analyst and I have started learning MATLAB on my own over the last few months. I
-know it will take some time for me to catch up, but I am responsible and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,2,2,3,2.5,Average
-191,"During my internship I got a chance to work with SolidWorks and handled a few small tasks related to site execution and planning. I have an Information
-Technology background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am
-genuinely interested in this field.",2,3,2,3,2.4,Average
-192,"I am switching my career from mechanical design intern to Accounts Executive and I have started learning R programming on my own over the last few months.
-I know it will take some time for me to catch up, but I am decent and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,3,3,2,2.85,Average
-193,"During my internship I got a chance to work with C++ and handled a few small tasks related to quality assurance. I have a Civil Engineering background and
-I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this
-field.",2,3,2,3,2.4,Average
-194,"I have around 5 years of experience as a Software Engineer, where I mainly handled tasks related to C++. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,3,2,2,2.25,Average
-195,"I have around 1 years of experience as an Operations Executive, where I mainly handled tasks related to C++. I am comfortable working in a team and I try
-to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",3,3,2,2,2.6,Average
-196,"I have around 4.5 years of experience as a HR Coordinator, where I mainly handled tasks related to MATLAB. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,2,2,3,2.15,Average
-197,"I have around 2 years of experience as a HR Coordinator, where I mainly handled tasks related to SAP. I am comfortable working in a team and I try to meet
-my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,3,3,3,2.65,Average
-198,"I am switching my career from mechanical design intern to Civil Site Engineer and I have started learning R programming on my own over the last few months.
-I know it will take some time for me to catch up, but I am punctual and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,2,3,2,2.25,Average
-199,"I have completed my Electrical Engineering degree and I have basic knowledge of React. I am a cooperative person and I am always ready to learn new things.
-I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",3,3,2,2,2.6,Average
-200,"I have completed my Computer Science degree and I have basic knowledge of machine learning basics. I am a reliable person and I am always ready to learn
-new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical
-experience yet.",2,3,2,3,2.4,Average
-201,"I am switching my career from mechanical design intern to Mechanical Design Engineer and I have started learning Power BI on my own over the last few
-months. I know it will take some time for me to catch up, but I am polite and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,3,2,3,2.75,Average
-202,"During my internship I got a chance to work with React and handled a few small tasks related to data analysis. I have an Electronics and Communication
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",2,2,2,2,2.0,Average
-203,"I have completed my Data Science degree and I have basic knowledge of Java. I am a polite person and I am always ready to learn new things. I believe I can
-adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",3,3,2,3,2.75,Average
-204,"I have around 1 years of experience as a Financial Analyst, where I mainly handled tasks related to Node.js. I am comfortable working in a team and I try
-to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,2,3,3,2.4,Average
-205,"I have around 2 years of experience as a Network Administrator, where I mainly handled tasks related to Tableau. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",3,3,2,3,2.75,Average
-206,"During my internship I got a chance to work with Salesforce and handled a few small tasks related to machine learning workflows. I have a Commerce
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",2,2,3,3,2.4,Average
-207,"I have around 5 years of experience as a Customer Support Specialist, where I mainly handled tasks related to PowerPoint. I am comfortable working in a
-team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a
-lot for me to learn.",2,2,2,3,2.15,Average
-208,"I have around 5 years of experience as a Sales Executive, where I mainly handled tasks related to Excel. I am comfortable working in a team and I try to
-meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",3,2,3,3,2.75,Average
-209,"I am switching my career from retail store manager to QA Engineer and I have started learning Photoshop on my own over the last few months. I know it will
-take some time for me to catch up, but I am disciplined and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,2,3,3,2.75,Average
-210,"I am switching my career from civil site supervisor to Product Manager and I have started learning HubSpot on my own over the last few months. I know it
-will take some time for me to catch up, but I am dedicated and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,2,3,2,2.6,Average
-211,"I am switching my career from content writer to Marketing Executive and I have started learning C++ on my own over the last few months. I know it will take
-some time for me to catch up, but I am honest and willing to put in the extra effort needed to pick up the required skills for this job.",3,2,2,2,2.35,Average
-212,"I have around 4 years of experience as a Customer Support Specialist, where I mainly handled tasks related to SAP. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",2,2,2,2,2.0,Average
-213,"I have around 3 years of experience as a QA Engineer, where I mainly handled tasks related to Python. I am comfortable working in a team and I try to meet
-my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",3,2,2,3,2.5,Average
-214,"I have around 4.5 years of experience as a QA Engineer, where I mainly handled tasks related to SQL. I am comfortable working in a team and I try to meet
-my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to
-learn.",2,2,2,3,2.15,Average
-215,"I am switching my career from content writer to Network Administrator and I have started learning Excel on my own over the last few months. I know it will
-take some time for me to catch up, but I am well behaved and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,2,2,2,2.35,Average
-216,"During my internship I got a chance to work with Java and handled a few small tasks related to quality assurance. I have a Civil Engineering background and
-I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this
-field.",2,2,3,2,2.25,Average
-217,"I have completed my Mechanical Engineering degree and I have basic knowledge of JIRA. I am a punctual person and I am always ready to learn new things. I
-believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",2,3,3,3,2.65,Average
-218,"During my internship I got a chance to work with C++ and handled a few small tasks related to machine learning workflows. I have a Business Administration
-background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely
-interested in this field.",3,3,3,3,3.0,Average
-219,"I am switching my career from retail store manager to Network Administrator and I have started learning HTML and CSS on my own over the last few months. I
-know it will take some time for me to catch up, but I am reliable and willing to put in the extra effort needed to pick up the required skills for this
-job.",2,3,2,2,2.25,Average
-220,"I have completed my Marketing Management degree and I have basic knowledge of MATLAB. I am an active person and I am always ready to learn new things. I
-believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience
-yet.",2,2,2,3,2.15,Average
-221,"I have around 2 years of experience as a Mechanical Design Engineer, where I mainly handled tasks related to C++. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",2,3,3,2,2.5,Average
-222,"I am switching my career from civil site supervisor to Marketing Executive and I have started learning Photoshop on my own over the last few months. I know
-it will take some time for me to catch up, but I am patient and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,3,3,3,3.0,Average
-223,"I have around 1 years of experience as a Mechanical Design Engineer, where I mainly handled tasks related to SAP. I am comfortable working in a team and I
-try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me
-to learn.",2,3,2,2,2.25,Average
-224,"I have around 5 years of experience as a Marketing Executive, where I mainly handled tasks related to Power Automate. I am comfortable working in a team
-and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot
-for me to learn.",2,3,3,2,2.5,Average
-225,"I am switching my career from mechanical design intern to Software Engineer and I have started learning Java on my own over the last few months. I know it
-will take some time for me to catch up, but I am disciplined and willing to put in the extra effort needed to pick up the required skills for this
-job.",3,3,2,2,2.6,Average
+1,I have been working as a junior accountant for about a year. I handle day to day bookkeeping and reconciliation tasks and I think your team can benefit from my attention to detail.,2,2,2,2,2.0,Average
+2,I have a diploma in mechanical engineering and have worked in maintenance of industrial equipment for two years. I understand preventive maintenance schedules.,2,2,2,2,2.0,Average
+3,I have experience in backend development using Node.js for about one and a half years. I have built APIs and worked with MongoDB in previous projects.,2,3,2,2,2.25,Average
+4,I come from a civil engineering background and have done a project on structural analysis using STAAD Pro software. I want to apply this knowledge in the field.,2,2,2,2,2.0,Average
+5,I have worked in business development for three years in a small IT company. I have experience generating leads and preparing proposals for clients.,2,3,2,2,2.25,Average
+6,I am transitioning from teaching to corporate training. I have five years of teaching experience and want to apply my facilitation skills in your L and D team.,2,2,2,2,2.0,Average
+7,I know Python and have done some data cleaning and visualization projects. I am looking to start my data analytics career with a company like yours.,2,2,2,2,2.0,Average
+8,I have done internship in supply chain management. I learned about procurement and vendor management. I want to grow in this field.,2,2,2,2,2.0,Average
+9,I have experience in front end development using React for about a year. I have worked on one production application and several college projects.,2,2,2,2,2.0,Average
+10,I have done my BBA and worked in a small startup for six months doing market research and competitor analysis. I am enthusiastic about marketing.,2,2,2,2,2.0,Average
+11,I have theoretical knowledge of machine learning algorithms from my college curriculum. I have done two projects on classification and regression problems.,2,2,2,2,2.0,Average
+12,I have three years of experience in talent acquisition. I have managed end to end recruitment for technology and non technology roles in my previous company.,2,3,2,2,2.25,Average
+13,I have completed my BE in ECE and done my internship at a telecom company where I worked on network configuration. I want to explore this field further.,2,2,2,2,2.0,Average
+14,I have some background in quality control from my internship at a manufacturing plant. I am familiar with ISO standards and inspection procedures.,2,2,2,2,2.0,Average
+15,I have been doing part time content work for social media clients while finishing my degree. I understand what kind of content drives engagement.,2,2,2,2,2.0,Average
+16,I have done projects in embedded systems and IoT during my engineering. I am looking for opportunities to work on real products in an R and D environment.,2,2,2,2,2.0,Average
+17,I have three years of experience in logistics coordination. I handle shipment tracking vendor communication and documentation on a daily basis.,2,3,2,2,2.25,Average
+18,I have done my MCA and have worked on one live project using Django. I want to grow as a full stack developer in your organization.,2,2,2,2,2.0,Average
+19,I have experience in financial modeling and have done valuation projects as part of my CFA preparation. I believe this skill can help your research team.,2,2,3,2,2.25,Average
+20,I have basic knowledge of product management concepts from an online course. I want to transition from my current engineering role to product development.,2,2,2,2,2.0,Average
+21,I am a marketing graduate and have done live campaigns for two college fests. I understand consumer behavior and campaign execution at a basic level.,2,2,2,2,2.0,Average
+22,I have worked as a freelancer in web development for one year. I know WordPress and basic PHP and have delivered five projects to clients.,2,2,2,2,2.0,Average
+23,I have completed my nursing degree and want to shift to the healthcare administration side. I understand hospital workflows and patient documentation.,2,2,2,2,2.0,Average
+24,I have some experience in event coordination from my previous company. I managed vendor bookings and logistics for internal corporate events.,2,2,2,2,2.0,Average
+25,I have been learning data science through an online bootcamp and have done three projects on my own. I am now looking for an entry level position.,2,2,2,2,2.0,Average
+26,I have worked in a BPO for two years handling inbound customer queries. I am now looking for a more specialized role in your customer success team.,2,2,2,2,2.0,Average
+27,I have completed my BA in economics and have knowledge of macroeconomic concepts. I want to apply this knowledge in research or policy analysis work.,2,2,2,2,2.0,Average
+28,I have one year of experience as a junior developer working mainly in testing and bug fixing. I want to move into full development with your team.,2,2,2,2,2.0,Average
+29,I have done multiple internships in different areas including HR and operations. I am a generalist who can add value across departments.,2,2,2,2,2.0,Average
+30,I have a background in civil engineering with experience in AutoCAD and project drawings. I have done site visits as part of my internship.,2,2,2,2,2.0,Average
+31,I have done a UX design course and created wireframes for three mobile apps as portfolio projects. I am now looking for a junior designer role.,2,2,2,2,2.0,Average
+32,I have over two years of experience in insurance sales. I know how to identify client needs and close policies. I want to move to a corporate environment.,2,2,2,2,2.0,Average
+33,I have basic knowledge of cloud computing through my AWS Cloud Practitioner certification. I want to work in cloud infrastructure with your team.,2,2,3,2,2.25,Average
+34,I have done B.Sc in statistics and have knowledge of R programming. I have done a dissertation on regression analysis and am interested in analytics.,2,2,2,2,2.0,Average
+35,I have been working as a project coordinator for one and a half years. I help managers track timelines and prepare status reports for stakeholders.,2,2,2,2,2.0,Average
+36,I have experience in restaurant management for three years. I managed a team of twenty staff and handled daily operations and inventory.,2,2,2,2,2.0,Average
+37,I have done an advanced Excel certification and have worked with pivot tables and financial dashboards. I want to contribute to your reporting function.,2,2,2,2,2.0,Average
+38,I have done two years in automotive engineering and have worked on vehicle assembly in a plant. I want to explore R and D opportunities in this sector.,2,2,2,2,2.0,Average
+39,I have completed my B.Ed and taught mathematics in a school for four years. I now want to move into ed-tech content development.,2,2,2,2,2.0,Average
+40,I have experience in Android app development. I have built two personal apps and one app for a small client. I want to grow as a mobile developer.,2,2,2,2,2.0,Average
+41,I have some exposure to performance marketing from my internship. I ran Google Ads campaigns and tracked conversions using analytics tools.,2,2,2,2,2.0,Average
+42,I have completed my library science degree. I am now exploring a transition into knowledge management or information architecture roles.,2,2,2,2,2.0,Average
+43,I have three years of experience in printing and packaging industry. I know production processes and quality standards. I want to explore corporate roles.,2,2,2,2,2.0,Average
+44,I have worked as a research assistant during my post graduation. I helped in data collection analysis and writing reports for my professor.,2,2,2,2,2.0,Average
+45,I have done a UI development internship and have knowledge of CSS frameworks like Bootstrap. I have designed responsive web pages for practice.,2,2,2,2,2.0,Average
+46,I have completed my engineering in IT and have some experience in network administration. I am familiar with TCP/IP and basic firewall configurations.,2,2,2,2,2.0,Average
+47,I have done two years in retail banking as a relationship manager. I understand loan products and customer account management fairly well.,2,2,2,2,2.0,Average
+48,I have completed my MBA in finance and know how to read financial statements and do basic valuations. I want to start my career in your investment team.,2,2,2,2,2.0,Average
+49,I have worked as a software tester for one year. I do regression testing and write test cases. I want to grow in the quality assurance domain.,2,2,2,2,2.0,Average
+50,I have some knowledge of machine learning and have done the Coursera ML course by Andrew Ng. I want to apply this in your data science team.,2,2,2,2,2.0,Average
+51,I have done my graduation in commerce and worked for a year in an audit firm. I have exposure to statutory audits and tax filings.,2,2,2,2,2.0,Average
+52,I have a background in chemical engineering and have done an internship at a pharmaceutical company. I understand GMP and lab documentation.,2,2,2,2,2.0,Average
+53,I have experience in cold calling and lead generation for two years. I have consistently met monthly targets in my previous company.,2,3,2,2,2.25,Average
+54,I have done Photoshop and Illustrator courses and have designed marketing creatives for a local business. I want to grow as a creative designer.,2,2,2,2,2.0,Average
+55,I have completed my degree in information systems and done a capstone project on database design. I want to work as a database administrator.,2,2,2,2,2.0,Average
+56,I have three years of experience in the travel industry as a ticketing and tour executive. I am now looking to move into corporate travel management.,2,2,2,2,2.0,Average
+57,I have worked as a junior copywriter for eighteen months writing product descriptions and email campaigns. I want to expand into brand storytelling.,2,2,2,3,2.2,Average
+58,I have a BSc in physics and have done programming courses on the side. I want to transition into software engineering and have been building small projects.,2,2,2,2,2.0,Average
+59,I have experience in compliance and regulatory reporting from my two years at a financial institution. I know RBI and SEBI guidelines at a working level.,2,2,2,2,2.0,Average
+60,I have done my post graduation in mass communication and have done journalism for two years. I want to shift into PR and corporate communications.,2,2,2,2,2.0,Average
+61,I have worked in a textile company handling export documentation. I understand LC documentation Incoterms and customs procedures.,2,2,2,2,2.0,Average
+62,I have done a six month course in cybersecurity and know basics of ethical hacking and network security. I am looking for an entry level security role.,2,2,2,2,2.0,Average
+63,I have completed my engineering and have some experience working with PLCs in a factory setting during my internship.,2,2,2,2,2.0,Average
+64,I have two years of experience managing e-commerce listings and coordinating with warehousing teams. I want to grow in digital operations.,2,2,2,2,2.0,Average
+65,I have done a project management course and have been coordinating small internal projects at my current company for six months.,2,2,2,2,2.0,Average
+66,I have a background in biotechnology and have done lab work in PCR and cell culture techniques. I want to work in the research division.,2,2,2,2,2.0,Average
+67,I have worked in admin and office management for three years. I handle vendor coordination scheduling and facility management in my current role.,2,2,2,2,2.0,Average
+68,I have experience in SAP data entry and report generation in my previous company. I have used SAP MM module for about one and a half years.,2,2,2,2,2.0,Average
+69,I have done my diploma in fashion design and have interned at a garment export house. I want to explore roles in product development or buying.,2,2,2,2,2.0,Average
+70,I have four years of experience in teaching engineering subjects. I want to move into corporate technical training and think my teaching background is relevant.,2,2,2,2,2.0,Average
+71,I have done three college projects in IoT including one on smart irrigation. I want to start working in the embedded or IoT space.,2,2,2,2,2.0,Average
+72,I have worked as a research analyst at a brokerage for one year. I write equity reports and track sector trends for our fund managers.,2,2,2,2,2.0,Average
+73,I have done my engineering in information technology and have worked on web scraping and automation scripts using Python as part of internship.,2,2,2,2,2.0,Average
+74,I have some experience in people analytics and have created HR dashboards using Excel. I want to deepen this in a data focused HR role.,2,2,2,2,2.0,Average
+75,I have done three years in B2B sales for a software company. I know how to manage a pipeline and close enterprise deals over longer sales cycles.,2,3,2,2,2.25,Average
+76,I have completed my MSc in chemistry and have two years of experience in quality control at a paint company. I am looking for growth opportunities.,2,2,2,2,2.0,Average
+77,I have experience in operations research from a logistics startup. I built route optimization models in Python during my six month internship.,2,2,2,2,2.0,Average
+78,I am a civil engineer with field experience in road construction project management. I have supervised teams and coordinated with contractors.,2,2,2,2,2.0,Average
+79,I have worked as a product support engineer for a year and half. I handle client escalations and coordinate bug fixes with the engineering team.,2,2,2,2,2.0,Average
+80,I have done my MBA and worked in consulting for eight months where I helped make PowerPoint decks and support client deliverable preparation.,2,2,2,2,2.0,Average
+81,I have done a blockchain fundamentals course and built a small DApp as a side project. I want to work on smart contracts in your tech team.,2,2,2,2,2.0,Average
+82,I have experience handling payroll for a mid-size company. I know the statutory compliance requirements and PF ESI calculations.,2,2,2,2,2.0,Average
+83,I have done data analysis using Python Pandas and created reports for internal stakeholders. I have also presented findings in team meetings.,2,3,2,2,2.25,Average
+84,I have electrical engineering background and have done industrial automation projects using SCADA systems during my internship.,2,2,2,2,2.0,Average
+85,I have worked in the healthcare sector in medical coding for two years. I know ICD 10 coding and insurance claim processing.,2,2,2,2,2.0,Average
+86,I have done my degree in environmental science and interned with an NGO on water quality monitoring. I want to work in CSR or sustainability.,2,2,2,2,2.0,Average
+87,I have some experience building mobile apps with Flutter. I built a personal expense tracker app that I published to the Play Store.,2,2,2,2,2.0,Average
+88,I have a background in food science and have worked in quality assurance at a packaged food company for two years. I know FSSAI requirements.,2,2,2,2,2.0,Average
+89,I have done three years in procurement and vendor management. I negotiate contracts and track purchase orders across multiple vendors.,2,2,2,2,2.0,Average
+90,I have a master's degree in public policy and done research on urban housing. I want to work in development sector or government advisory roles.,2,2,2,2,2.0,Average
+91,I have completed a UX research internship where I conducted user interviews and synthesized findings for the product team. I want to grow in this space.,2,2,2,2,2.0,Average
+92,I have done my law degree and worked for two years in contract law at a firm. I want to move into corporate legal or compliance functions.,2,2,2,2,2.0,Average
+93,I have experience in logistics as a dispatch coordinator for two years. I track orders and communicate with transporters and warehouse teams.,2,2,2,2,2.0,Average
+94,I have done projects on NLP in my college. I built a sentiment analysis model using Python and published my code on GitHub.,2,2,2,2,2.0,Average
+95,I have a background in agricultural science and have worked in agri-input marketing for a year. I want to explore roles in the agricultural supply chain.,2,2,2,2,2.0,Average
+96,I have one year of experience as a junior data engineer. I have built basic ETL pipelines using Python and load data into Redshift.,2,2,2,2,2.0,Average
+97,I have done my degree in statistics and worked part time in survey data processing. I know SPSS and basic R for data analysis.,2,2,2,2,2.0,Average
+98,I have experience in print media as a subeditor for three years. I want to transition to digital content editing or brand journalism roles.,2,2,2,2,2.0,Average
+99,I have worked as a junior analyst in credit risk for two years. I do credit assessments and prepare appraisal notes for the sanctioning team.,2,2,2,2,2.0,Average
+100,I have completed my PGDM and done an internship in product management where I wrote user stories and coordinated with development teams.,2,2,2,2,2.0,Average
+101,"I have around 4 years of experience as an Operations Executive, where I mainly handled tasks related to machine learning basics. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,2,3,2.4,Average
+102,"I have completed my Civil Engineering degree and I have basic knowledge of Excel. I am an obedient person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",2,3,2,3,2.4,Average
+103,"I have completed my Marketing Management degree and I have basic knowledge of Photoshop. I am a polite person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",2,2,3,2,2.25,Average
+104,"I am switching my career from mechanical design intern to Product Manager and I have started learning R programming on my own over the last few months. I know it will take some time for me to catch up, but I am adjustable and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,3,3,3.0,Average
+105,"During my internship I got a chance to work with QGIS and handled a few small tasks related to site execution and planning. I have a Civil Engineering background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,3,3,2,2.85,Average
+106,"I have completed my Computer Science degree and I have basic knowledge of Salesforce. I am a reliable person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,2,2,3,2.5,Average
+107,"I am switching my career from civil site supervisor to Product Manager and I have started learning Google Analytics on my own over the last few months. I know it will take some time for me to catch up, but I am cooperative and willing to put in the extra effort needed to pick up the required skills for this job.",2,2,3,3,2.4,Average
+108,"I have around 5 years of experience as a Network Administrator, where I mainly handled tasks related to PowerPoint. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,2,2,2,2.35,Average
+109,"I have completed my Business Administration degree and I have basic knowledge of HTML and CSS. I am a flexible person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",2,3,3,3,2.65,Average
+110,"I am switching my career from retail store manager to Network Administrator and I have started learning SolidWorks on my own over the last few months. I know it will take some time for me to catch up, but I am well behaved and willing to put in the extra effort needed to pick up the required skills for this job.",2,3,2,2,2.25,Average
+111,"I have around 3 years of experience as an Accounts Executive, where I mainly handled tasks related to MATLAB. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,3,2,3,2.75,Average
+112,"I have around 5 years of experience as a QA Engineer, where I mainly handled tasks related to SQL. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,3,3,2.4,Average
+113,"I have around 5 years of experience as a QA Engineer, where I mainly handled tasks related to C++. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,3,2.15,Average
+114,"I am switching my career from school teacher to Accounts Executive and I have started learning AWS on my own over the last few months. I know it will take some time for me to catch up, but I am loyal and willing to put in the extra effort needed to pick up the required skills for this job.",2,2,3,3,2.4,Average
+115,"During my internship I got a chance to work with Tableau and handled a few small tasks related to supply chain operations. I have a Business Administration background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,3,3,3,3.0,Average
+116,"I have around 4 years of experience as a Customer Support Specialist, where I mainly handled tasks related to Python. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,3,2.15,Average
+117,"During my internship I got a chance to work with Power BI and handled a few small tasks related to quality assurance. I have an Electrical Engineering background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,3,2,2,2.25,Average
+118,"During my internship I got a chance to work with PowerPoint and handled a few small tasks related to quality assurance. I have a Data Science background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,2,2,3,2.15,Average
+119,"I have completed my Civil Engineering degree and I have basic knowledge of Power BI. I am a disciplined person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,2,2,3,2.5,Average
+120,"I am switching my career from mechanical design intern to HR Coordinator and I have started learning Photoshop on my own over the last few months. I know it will take some time for me to catch up, but I am well behaved and willing to put in the extra effort needed to pick up the required skills for this job.",3,2,2,2,2.35,Average
+121,"I have around 2.5 years of experience as a Supply Chain Analyst, where I mainly handled tasks related to MATLAB. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,3,3,3,3.0,Average
+122,"I have around 2.5 years of experience as a Digital Marketing Specialist, where I mainly handled tasks related to Node.js. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,2,3,3,2.75,Average
+123,"I have around 4.5 years of experience as a Marketing Executive, where I mainly handled tasks related to Tableau. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,2,2,3,2.5,Average
+124,"I have around 2 years of experience as an Operations Executive, where I mainly handled tasks related to Tableau. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,2,2.0,Average
+125,"I am switching my career from telecom technician to Supply Chain Analyst and I have started learning machine learning basics on my own over the last few months. I know it will take some time for me to catch up, but I am humble and willing to put in the extra effort needed to pick up the required skills for this job.",2,2,2,2,2.0,Average
+126,"I have around 2.5 years of experience as a Business Analyst, where I mainly handled tasks related to Power BI. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,2,3,3,2.75,Average
+127,"I have around 1 years of experience as a HR Coordinator, where I mainly handled tasks related to QGIS. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,2,2.0,Average
+128,"During my internship I got a chance to work with Java and handled a few small tasks related to machine learning workflows. I have a Computer Science background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,2,3,3,2.4,Average
+129,"I have around 4.5 years of experience as a Financial Analyst, where I mainly handled tasks related to Zoho CRM. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,2,3,3,2.75,Average
+130,"I am switching my career from school teacher to HR Coordinator and I have started learning PowerPoint on my own over the last few months. I know it will take some time for me to catch up, but I am punctual and willing to put in the extra effort needed to pick up the required skills for this job.",2,2,2,3,2.15,Average
+131,"I am switching my career from civil site supervisor to Operations Executive and I have started learning Java on my own over the last few months. I know it will take some time for me to catch up, but I am energetic and willing to put in the extra effort needed to pick up the required skills for this job.",3,2,3,2,2.6,Average
+132,"I have around 5 years of experience as a Marketing Executive, where I mainly handled tasks related to SQL. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,2,2,3,2.5,Average
+133,"I am switching my career from bank teller to Data Analyst and I have started learning AutoCAD on my own over the last few months. I know it will take some time for me to catch up, but I am active and willing to put in the extra effort needed to pick up the required skills for this job.",2,2,3,2,2.25,Average
+134,"During my internship I got a chance to work with Node.js and handled a few small tasks related to structural design. I have an Information Technology background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,3,2,3,2.4,Average
+135,"I have completed my Electrical Engineering degree and I have basic knowledge of machine learning basics. I am a dedicated person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,3,2,2,2.6,Average
+136,"During my internship I got a chance to work with SAP and handled a few small tasks related to quality assurance. I have a Data Science background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,2,3,3,2.75,Average
+137,"I have around 2.5 years of experience as a Network Administrator, where I mainly handled tasks related to R programming. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,2,2.0,Average
+138,"I have completed my Information Technology degree and I have basic knowledge of Zoho CRM. I am a decent person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",2,3,2,2,2.25,Average
+139,"During my internship I got a chance to work with Tableau and handled a few small tasks related to data analysis. I have a Civil Engineering background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,2,3,2,2.25,Average
+140,"During my internship I got a chance to work with SolidWorks and handled a few small tasks related to data analysis. I have a Commerce background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,3,3,3,3.0,Average
+141,"During my internship I got a chance to work with MATLAB and handled a few small tasks related to site execution and planning. I have a Data Science background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,2,2,2,2.0,Average
+142,"I am switching my career from school teacher to QA Engineer and I have started learning Node.js on my own over the last few months. I know it will take some time for me to catch up, but I am polite and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,3,3,3.0,Average
+143,"I have around 1 years of experience as a Digital Marketing Specialist, where I mainly handled tasks related to Photoshop. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,2,2.0,Average
+144,"During my internship I got a chance to work with HubSpot and handled a few small tasks related to structural design. I have a Marketing Management background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,2,3,3,2.4,Average
+145,"I am switching my career from accountant to QA Engineer and I have started learning HTML and CSS on my own over the last few months. I know it will take some time for me to catch up, but I am punctual and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,2,3,2.75,Average
+146,"During my internship I got a chance to work with Power Automate and handled a few small tasks related to data analysis. I have an Electronics and Communication background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,2,2,3,2.5,Average
+147,"I have completed my Civil Engineering degree and I have basic knowledge of machine learning basics. I am an obedient person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,3,3,3,3.0,Average
+148,"I have around 3 years of experience as a Marketing Executive, where I mainly handled tasks related to QGIS. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,3,2,2,2.6,Average
+149,"I have around 2.5 years of experience as a Civil Site Engineer, where I mainly handled tasks related to Google Analytics. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,2,2.0,Average
+150,"I am switching my career from bank teller to Data Analyst and I have started learning MATLAB on my own over the last few months. I know it will take some time for me to catch up, but I am energetic and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,3,2,2.85,Average
+151,"I have around 1 years of experience as a Customer Support Specialist, where I mainly handled tasks related to SQL. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,3,2,2,2.6,Average
+152,"During my internship I got a chance to work with Power Automate and handled a few small tasks related to site execution and planning. I have a Marketing Management background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,3,2,3,2.75,Average
+153,"I have completed my Civil Engineering degree and I have basic knowledge of R programming. I am a cooperative person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,2,2,3,2.5,Average
+154,"I have completed my Data Science degree and I have basic knowledge of Google Analytics. I am an obedient person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,2,2,3,2.5,Average
+155,"I am switching my career from retail store manager to Network Administrator and I have started learning HTML and CSS on my own over the last few months. I know it will take some time for me to catch up, but I am humble and willing to put in the extra effort needed to pick up the required skills for this job.",2,3,2,3,2.4,Average
+156,"I am switching my career from government clerk to Mechanical Design Engineer and I have started learning MATLAB on my own over the last few months. I know it will take some time for me to catch up, but I am disciplined and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,2,2,2.6,Average
+157,"I have around 5 years of experience as a Marketing Executive, where I mainly handled tasks related to SolidWorks. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,3,3,2.4,Average
+158,"I have around 2.5 years of experience as an Accounts Executive, where I mainly handled tasks related to Photoshop. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,3,3,2.4,Average
+159,"I am switching my career from school teacher to Digital Marketing Specialist and I have started learning SQL on my own over the last few months. I know it will take some time for me to catch up, but I am dedicated and willing to put in the extra effort needed to pick up the required skills for this job.",2,3,3,2,2.5,Average
+160,"I have around 1 years of experience as a Sales Executive, where I mainly handled tasks related to Zoho CRM. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,3,2,2.5,Average
+161,"I am switching my career from school teacher to Digital Marketing Specialist and I have started learning MATLAB on my own over the last few months. I know it will take some time for me to catch up, but I am diligent and willing to put in the extra effort needed to pick up the required skills for this job.",2,3,3,3,2.65,Average
+162,"I have completed my Commerce degree and I have basic knowledge of Salesforce. I am a calm person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",2,3,3,3,2.65,Average
+163,"I am switching my career from government clerk to Data Analyst and I have started learning Tableau on my own over the last few months. I know it will take some time for me to catch up, but I am respectful and willing to put in the extra effort needed to pick up the required skills for this job.",2,3,2,2,2.25,Average
+164,"I have around 2.5 years of experience as a Financial Analyst, where I mainly handled tasks related to C++. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,3,2,2,2.6,Average
+165,"I am switching my career from school teacher to QA Engineer and I have started learning QGIS on my own over the last few months. I know it will take some time for me to catch up, but I am punctual and willing to put in the extra effort needed to pick up the required skills for this job.",2,3,2,3,2.4,Average
+166,"During my internship I got a chance to work with JIRA and handled a few small tasks related to machine learning workflows. I have a Computer Science background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,3,2,2,2.6,Average
+167,"I am switching my career from mechanical design intern to Marketing Executive and I have started learning C++ on my own over the last few months. I know it will take some time for me to catch up, but I am disciplined and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,3,3,3.0,Average
+168,"I have completed my Electronics and Communication degree and I have basic knowledge of PowerPoint. I am a respectful person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,2,2,2,2.35,Average
+169,"I have around 3 years of experience as a Customer Support Specialist, where I mainly handled tasks related to Power Automate. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,3,3,2.65,Average
+170,"I am switching my career from mechanical design intern to Digital Marketing Specialist and I have started learning JIRA on my own over the last few months. I know it will take some time for me to catch up, but I am active and willing to put in the extra effort needed to pick up the required skills for this job.",3,2,2,2,2.35,Average
+171,"During my internship I got a chance to work with Tableau and handled a few small tasks related to machine learning workflows. I have a Marketing Management background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,2,3,2,2.6,Average
+172,"During my internship I got a chance to work with React and handled a few small tasks related to financial reporting. I have an Electrical Engineering background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,2,2,2,2.35,Average
+173,"I have around 4.5 years of experience as a HR Coordinator, where I mainly handled tasks related to Node.js. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,2,3,2,2.6,Average
+174,"I am switching my career from government clerk to Accounts Executive and I have started learning Salesforce on my own over the last few months. I know it will take some time for me to catch up, but I am responsible and willing to put in the extra effort needed to pick up the required skills for this job.",3,2,3,2,2.6,Average
+175,"I have around 3 years of experience as a Civil Site Engineer, where I mainly handled tasks related to AWS. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,3,2,2.5,Average
+176,"During my internship I got a chance to work with Power BI and handled a few small tasks related to customer relationship management. I have a Marketing Management background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,2,2,3,2.5,Average
+177,"During my internship I got a chance to work with Java and handled a few small tasks related to quality assurance. I have a Business Administration background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,2,2,2,2.35,Average
+178,"I am switching my career from retail store manager to Accounts Executive and I have started learning Java on my own over the last few months. I know it will take some time for me to catch up, but I am adjustable and willing to put in the extra effort needed to pick up the required skills for this job.",2,3,3,3,2.65,Average
+179,"During my internship I got a chance to work with R programming and handled a few small tasks related to data analysis. I have a Business Administration background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,2,3,3,2.75,Average
+180,"I am switching my career from accountant to Digital Marketing Specialist and I have started learning Python on my own over the last few months. I know it will take some time for me to catch up, but I am punctual and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,3,2,2.85,Average
+181,"During my internship I got a chance to work with HTML and CSS and handled a few small tasks related to data analysis. I have an Electronics and Communication background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,3,3,3,2.65,Average
+182,"I am switching my career from civil site supervisor to Civil Site Engineer and I have started learning HTML and CSS on my own over the last few months. I know it will take some time for me to catch up, but I am humble and willing to put in the extra effort needed to pick up the required skills for this job.",2,2,2,3,2.15,Average
+183,"I have completed my Commerce degree and I have basic knowledge of SAP. I am a loyal person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,2,2,3,2.5,Average
+184,"I have around 5 years of experience as an Accounts Executive, where I mainly handled tasks related to JIRA. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,3,3,2.65,Average
+185,"I have completed my Information Technology degree and I have basic knowledge of Power BI. I am a decent person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,3,2,2,2.6,Average
+186,"I have around 3 years of experience as a Product Manager, where I mainly handled tasks related to Excel. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,2,2,2.25,Average
+187,"I have completed my Electronics and Communication degree and I have basic knowledge of QGIS. I am an energetic person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",2,2,3,2,2.25,Average
+188,"I have around 2.5 years of experience as a Data Analyst, where I mainly handled tasks related to HubSpot. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,3,2,2,2.6,Average
+189,"I have completed my Business Administration degree and I have basic knowledge of Salesforce. I am a polite person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,2,2,3,2.5,Average
+190,"I am switching my career from mechanical design intern to Supply Chain Analyst and I have started learning MATLAB on my own over the last few months. I know it will take some time for me to catch up, but I am responsible and willing to put in the extra effort needed to pick up the required skills for this job.",3,2,2,3,2.5,Average
+191,"During my internship I got a chance to work with SolidWorks and handled a few small tasks related to site execution and planning. I have an Information Technology background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,3,2,3,2.4,Average
+192,"I am switching my career from mechanical design intern to Accounts Executive and I have started learning R programming on my own over the last few months. I know it will take some time for me to catch up, but I am decent and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,3,2,2.85,Average
+193,"During my internship I got a chance to work with C++ and handled a few small tasks related to quality assurance. I have a Civil Engineering background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,3,2,3,2.4,Average
+194,"I have around 5 years of experience as a Software Engineer, where I mainly handled tasks related to C++. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,2,2,2.25,Average
+195,"I have around 1 years of experience as an Operations Executive, where I mainly handled tasks related to C++. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,3,2,2,2.6,Average
+196,"I have around 4.5 years of experience as a HR Coordinator, where I mainly handled tasks related to MATLAB. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,3,2.15,Average
+197,"I have around 2 years of experience as a HR Coordinator, where I mainly handled tasks related to SAP. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,3,3,2.65,Average
+198,"I am switching my career from mechanical design intern to Civil Site Engineer and I have started learning R programming on my own over the last few months. I know it will take some time for me to catch up, but I am punctual and willing to put in the extra effort needed to pick up the required skills for this job.",2,2,3,2,2.25,Average
+199,"I have completed my Electrical Engineering degree and I have basic knowledge of React. I am a cooperative person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,3,2,2,2.6,Average
+200,"I have completed my Computer Science degree and I have basic knowledge of machine learning basics. I am a reliable person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",2,3,2,3,2.4,Average
+201,"I am switching my career from mechanical design intern to Mechanical Design Engineer and I have started learning Power BI on my own over the last few months. I know it will take some time for me to catch up, but I am polite and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,2,3,2.75,Average
+202,"During my internship I got a chance to work with React and handled a few small tasks related to data analysis. I have an Electronics and Communication background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,2,2,2,2.0,Average
+203,"I have completed my Data Science degree and I have basic knowledge of Java. I am a polite person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",3,3,2,3,2.75,Average
+204,"I have around 1 years of experience as a Financial Analyst, where I mainly handled tasks related to Node.js. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,3,3,2.4,Average
+205,"I have around 2 years of experience as a Network Administrator, where I mainly handled tasks related to Tableau. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,3,2,3,2.75,Average
+206,"During my internship I got a chance to work with Salesforce and handled a few small tasks related to machine learning workflows. I have a Commerce background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,2,3,3,2.4,Average
+207,"I have around 5 years of experience as a Customer Support Specialist, where I mainly handled tasks related to PowerPoint. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,3,2.15,Average
+208,"I have around 5 years of experience as a Sales Executive, where I mainly handled tasks related to Excel. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,2,3,3,2.75,Average
+209,"I am switching my career from retail store manager to QA Engineer and I have started learning Photoshop on my own over the last few months. I know it will take some time for me to catch up, but I am disciplined and willing to put in the extra effort needed to pick up the required skills for this job.",3,2,3,3,2.75,Average
+210,"I am switching my career from civil site supervisor to Product Manager and I have started learning HubSpot on my own over the last few months. I know it will take some time for me to catch up, but I am dedicated and willing to put in the extra effort needed to pick up the required skills for this job.",3,2,3,2,2.6,Average
+211,"I am switching my career from content writer to Marketing Executive and I have started learning C++ on my own over the last few months. I know it will take some time for me to catch up, but I am honest and willing to put in the extra effort needed to pick up the required skills for this job.",3,2,2,2,2.35,Average
+212,"I have around 4 years of experience as a Customer Support Specialist, where I mainly handled tasks related to SAP. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,2,2.0,Average
+213,"I have around 3 years of experience as a QA Engineer, where I mainly handled tasks related to Python. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",3,2,2,3,2.5,Average
+214,"I have around 4.5 years of experience as a QA Engineer, where I mainly handled tasks related to SQL. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,2,2,3,2.15,Average
+215,"I am switching my career from content writer to Network Administrator and I have started learning Excel on my own over the last few months. I know it will take some time for me to catch up, but I am well behaved and willing to put in the extra effort needed to pick up the required skills for this job.",3,2,2,2,2.35,Average
+216,"During my internship I got a chance to work with Java and handled a few small tasks related to quality assurance. I have a Civil Engineering background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",2,2,3,2,2.25,Average
+217,"I have completed my Mechanical Engineering degree and I have basic knowledge of JIRA. I am a punctual person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",2,3,3,3,2.65,Average
+218,"During my internship I got a chance to work with C++ and handled a few small tasks related to machine learning workflows. I have a Business Administration background and I get along well with my teammates. I think I can pick up new skills quickly if I am given the opportunity to work here, since I am genuinely interested in this field.",3,3,3,3,3.0,Average
+219,"I am switching my career from retail store manager to Network Administrator and I have started learning HTML and CSS on my own over the last few months. I know it will take some time for me to catch up, but I am reliable and willing to put in the extra effort needed to pick up the required skills for this job.",2,3,2,2,2.25,Average
+220,"I have completed my Marketing Management degree and I have basic knowledge of MATLAB. I am an active person and I am always ready to learn new things. I believe I can adjust quickly to your work environment and contribute to the team in whatever way I can, even though I don't have much practical experience yet.",2,2,2,3,2.15,Average
+221,"I have around 2 years of experience as a Mechanical Design Engineer, where I mainly handled tasks related to C++. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,3,2,2.5,Average
+222,"I am switching my career from civil site supervisor to Marketing Executive and I have started learning Photoshop on my own over the last few months. I know it will take some time for me to catch up, but I am patient and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,3,3,3.0,Average
+223,"I have around 1 years of experience as a Mechanical Design Engineer, where I mainly handled tasks related to SAP. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,2,2,2.25,Average
+224,"I have around 5 years of experience as a Marketing Executive, where I mainly handled tasks related to Power Automate. I am comfortable working in a team and I try to meet my deadlines without much trouble. I feel my experience so far makes me a reasonable fit for this position, even though there is still a lot for me to learn.",2,3,3,2,2.5,Average
+225,"I am switching my career from mechanical design intern to Software Engineer and I have started learning Java on my own over the last few months. I know it will take some time for me to catch up, but I am disciplined and willing to put in the extra effort needed to pick up the required skills for this job.",3,3,2,2,2.6,Average

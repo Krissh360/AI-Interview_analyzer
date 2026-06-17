@@ -1,51 +1,26 @@
 id,answer,content_score,relevance_score,vocabulary_score,structure_score,overall_score,label
-1,"I have basic knowledge of Python and I am willing to learn new technologies as needed. I completed my graduation in computer
-science and have done one internship.",2,2,2,2,2.0,Average
-2,"I have worked in sales for two years and I understand how to meet targets. I am also good at building relationships with
-clients.",2,3,2,2,2.25,Average
-3,"I have done my MBA and I have knowledge of marketing concepts like digital marketing and brand management. I want to apply this
-in a real environment.",2,2,2,2,2.0,Average
-4,"I have some experience in data entry and working with Excel. I can handle large spreadsheets and I pay attention to accuracy in
-my work.",2,2,2,2,2.0,Average
-5,"I have completed my civil engineering and have done a project on construction planning. I think I can contribute to your
-infrastructure projects.",2,2,2,2,2.0,Average
-6,"I have been working in accounts for one and a half years. I know Tally and basic accounting principles. I think your finance team
-could use someone like me.",2,2,2,2,2.0,Average
-7,"I am a fresher from IT background. I have done projects using Java and have good understanding of object oriented programming. I
-want to develop my skills here.",2,2,2,2,2.0,Average
-8,"I have done an internship at a startup where I worked on social media marketing. I understand content creation and analytics to
-some extent.",2,2,2,2,2.0,Average
-9,"I have experience in customer support for two years. I know how to handle difficult customers and resolve issues in a calm and
-professional way.",2,3,2,2,2.25,Average
-10,"I have done my mechanical engineering and have theoretical knowledge of manufacturing processes. I also did a project on lean
-manufacturing in college.",2,2,2,2,2.0,Average
-11,"I have cleared my chartered accountancy exams and I have completed articleship from a reputed firm. I can bring value to your
-finance division.",2,2,2,2,2.0,Average
-12,"I have some experience in content writing and SEO. I have written blogs and done keyword research for a small agency for about a
-year.",2,2,2,2,2.0,Average
-13,"I know SQL and have done some data analysis as part of my college projects. I am interested in working in your analytics team
-and growing from there.",2,2,2,2,2.0,Average
-14,"I have a background in electronics and communication. I have done a project on embedded systems and feel that your hardware team
-will be a good fit for me.",2,2,2,2,2.0,Average
-15,"I have been doing freelance graphic design for two years. I know tools like Canva and basic Photoshop and I think I can
-contribute to your design team.",2,2,2,2,2.0,Average
-16,"I have done a short course in digital marketing and worked on a few campaigns as an intern. I know Google Ads and Facebook Ads
-at a basic level.",2,2,2,2,2.0,Average
-17,"I have some experience in HR operations. I have done recruitment and onboarding for a small company. I am familiar with the
-whole hiring process.",2,2,2,2,2.0,Average
-18,"I have completed my engineering in electronics and did my final year project on signal processing. I want to work in R and D and
-contribute to innovation.",2,2,2,2,2.0,Average
-19,"I have basic knowledge of C and C plus plus. I have worked on small coding projects and I am willing to work hard to meet your
-technical requirements.",2,2,2,2,2.0,Average
-20,"I have spent three years in operations in a manufacturing company. I know how to coordinate between teams and keep things
-running on schedule.",2,3,2,2,2.25,Average
-21,"I have done two internships in software testing. I know manual testing and have some exposure to automation with Selenium. I can
-join your QA team.",2,2,2,2,2.0,Average
-22,"I am a fresh graduate in commerce and I have done a project on financial analysis. I want to build my career in the finance
-sector with your company.",2,2,2,2,2.0,Average
-23,"I have four years of experience in retail management. I know how to manage store operations and handle a team of twelve
-people.",2,2,2,2,2.0,Average
-24,"I have done my BCA and know web development basics like HTML CSS and JavaScript. I have built a few small websites during
-college.",2,2,2,2,2.0,Average
-25,"I have recently completed my MBA in HR and done an internship where I supported performance appraisal processes. I am keen to
-contribute to your people function.",2,2,2,2,2.0,Average
+1,I have basic knowledge of Python and I am willing to learn new technologies as needed. I completed my graduation in computer science and have done one internship.,2,2,2,2,2.0,Average
+2,I have worked in sales for two years and I understand how to meet targets. I am also good at building relationships with clients.,2,3,2,2,2.25,Average
+3,I have done my MBA and I have knowledge of marketing concepts like digital marketing and brand management. I want to apply this in a real environment.,2,2,2,2,2.0,Average
+4,I have some experience in data entry and working with Excel. I can handle large spreadsheets and I pay attention to accuracy in my work.,2,2,2,2,2.0,Average
+5,I have completed my civil engineering and have done a project on construction planning. I think I can contribute to your infrastructure projects.,2,2,2,2,2.0,Average
+6,I have been working in accounts for one and a half years. I know Tally and basic accounting principles. I think your finance team could use someone like me.,2,2,2,2,2.0,Average
+7,I am a fresher from IT background. I have done projects using Java and have good understanding of object oriented programming. I want to develop my skills here.,2,2,2,2,2.0,Average
+8,I have done an internship at a startup where I worked on social media marketing. I understand content creation and analytics to some extent.,2,2,2,2,2.0,Average
+9,I have experience in customer support for two years. I know how to handle difficult customers and resolve issues in a calm and professional way.,2,3,2,2,2.25,Average
+10,I have done my mechanical engineering and have theoretical knowledge of manufacturing processes. I also did a project on lean manufacturing in college.,2,2,2,2,2.0,Average
+11,I have cleared my chartered accountancy exams and I have completed articleship from a reputed firm. I can bring value to your finance division.,2,2,2,2,2.0,Average
+12,I have some experience in content writing and SEO. I have written blogs and done keyword research for a small agency for about a year.,2,2,2,2,2.0,Average
+13,I know SQL and have done some data analysis as part of my college projects. I am interested in working in your analytics team and growing from there.,2,2,2,2,2.0,Average
+14,I have a background in electronics and communication. I have done a project on embedded systems and feel that your hardware team will be a good fit for me.,2,2,2,2,2.0,Average
+15,I have been doing freelance graphic design for two years. I know tools like Canva and basic Photoshop and I think I can contribute to your design team.,2,2,2,2,2.0,Average
+16,I have done a short course in digital marketing and worked on a few campaigns as an intern. I know Google Ads and Facebook Ads at a basic level.,2,2,2,2,2.0,Average
+17,I have some experience in HR operations. I have done recruitment and onboarding for a small company. I am familiar with the whole hiring process.,2,2,2,2,2.0,Average
+18,I have completed my engineering in electronics and did my final year project on signal processing. I want to work in R and D and contribute to innovation.,2,2,2,2,2.0,Average
+19,I have basic knowledge of C and C plus plus. I have worked on small coding projects and I am willing to work hard to meet your technical requirements.,2,2,2,2,2.0,Average
+20,I have spent three years in operations in a manufacturing company. I know how to coordinate between teams and keep things running on schedule.,2,3,2,2,2.25,Average
+21,I have done two internships in software testing. I know manual testing and have some exposure to automation with Selenium. I can join your QA team.,2,2,2,2,2.0,Average
+22,I am a fresh graduate in commerce and I have done a project on financial analysis. I want to build my career in the finance sector with your company.,2,2,2,2,2.0,Average
+23,I have four years of experience in retail management. I know how to manage store operations and handle a team of twelve people.,2,2,2,2,2.0,Average
+24,I have done my BCA and know web development basics like HTML CSS and JavaScript. I have built a few small websites during college.,2,2,2,2,2.0,Average
+25,I have recently completed my MBA in HR and done an internship where I supported performance appraisal processes. I am keen to contribute to your people function.,2,2,2,2,2.0,Average
